@@ -15,8 +15,7 @@ $(function() {
   var statesLayer = omnivore.topojson('topo/states.json', null, L.geoJson(null, {
     style: getStyle,
     onEachFeature: onEachFeature
-  })
-  ).addTo(map);
+  })).addTo(map);
 
   var ziplayers = {};
   
@@ -114,13 +113,16 @@ $(function() {
   }
 
   function onEachFeature(feature, layer) {
-      // layer.on({
-      //     mousemove: mousemove,
-      //     mouseout: mouseout,
-      //     click: zoomToFeature
-      // });
+    layer.on({
+      mousemove: highlightFeature,
+      mouseout: resetHighlight,
+      click: zoomToFeature
+    });
   }
 
+  // returns list of states that are visible within the 
+  // current viewport, by looking for intersections of the maximum bounding
+  // box around each state with the viewport box. 
   function getVisibleStates() {
     var states = [];
     var viewport = map.getBounds();
@@ -136,6 +138,49 @@ $(function() {
 
     return states;
   }
+
+  function highlightFeature(e) {
+    var layer = e.target;
+    layer.setStyle({
+      weight: 5, 
+      color: '#000',
+      dashArray: '',
+      fillOpacity: 0.7
+    });
+
+    // layer.bringToFront causes problems on ie and opera..
+    // (http://leafletjs.com/examples/choropleth.html)
+    if (!L.Browser.ie && !L.Browser.opera) {
+      layer.bringToFront();
+    }
+
+    info.update(layer.feature.properties);
+  }
+
+  function resetHighlight(e) {
+    statesLayer.resetStyle(e.target);
+    info.update();
+  }
+
+  function zoomToFeature(e) {
+    map.fitBounds(e.target.getBounds());
+  }
+
+  // info popup
+  var info = L.control();
+  info.onAdd = function(map) {
+    this._div = L.DomUtil.create('div', 'info'); 
+    this.update();
+    return this._div;
+  }
+
+  info.update = function (props) {
+    this._div.innerHTML = '<h4>US Population Density</h4>' +  (props ?
+      '<b>' + props.name + '</b><br />' + props.density + ' people / mi<sup>2</sup>'
+      : 'Hover over a state');
+  };
+
+  info.addTo(map);
 
 
 // lat/long extremes of each state
