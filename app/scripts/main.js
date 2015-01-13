@@ -21,17 +21,24 @@ $(function() {
   
 
   function getStyle(feature) {
-    fillColor = feature.properties.density ?
-      getColor(feature.properties.density) :
-      getZipColor(feature.properties.zip);
-
     return {
         weight: 2,
         opacity: 0.1,
         color: 'black',
         fillOpacity: 0.7,
-        fillColor: fillColor
+        fillColor: getColor(feature.properties.density)
     };
+  }
+
+  function getZipStyle(feature) {
+    return {
+        weight: 0,
+        opacity: 0.1,
+        fillOpacity: 0.7,
+        fillColor: getZipColor(feature.properties.zip)
+
+    };
+
   }
 
   var pallet = [
@@ -99,7 +106,7 @@ $(function() {
         ziplayers[state] = omnivore.topojson('topo/' + state + '-zipcodes-10m.json', 
           null, 
           L.geoJson(null, {
-            style: getStyle,
+            style: getZipStyle,
             onEachFeature: onEachFeature
           })
         );
@@ -159,6 +166,10 @@ $(function() {
 
   function resetHighlight(e) {
     statesLayer.resetStyle(e.target);
+    _.each(ziplayers, function(layer) {
+      layer.resetStyle(e.target);
+    });
+
     info.update();
   }
 
@@ -175,9 +186,17 @@ $(function() {
   }
 
   info.update = function (props) {
-    this._div.innerHTML = '<h4>US Population Density</h4>' +  (props ?
-      '<b>' + props.name + '</b><br />' + props.density + ' people / mi<sup>2</sup>'
-      : 'Hover over a state');
+    html = '<h4>Population Density</h4>';
+    if(props && props.name) 
+      html += '<b>' + props.name + '</b><br />' + props.density + ' people / mi<sup>2</sup>';
+
+    if(props && props.zip) 
+      html += '<b>' + props.zip + '</b><br />' + (props.zip % 5) + ' people / mi<sup>2</sup>';
+
+    if(!props) 
+      html += 'Hover over map';
+
+    this._div.innerHTML = html
   };
 
   info.addTo(map);
