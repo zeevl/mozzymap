@@ -12,7 +12,7 @@ $(function() {
     .on('zoomend', zoomChanged)
     .on('moveend', positionChanged);
 
-  var statesLayer = omnivore.topojson('../topo/states.json', null, L.geoJson(null, {
+  var statesLayer = omnivore.topojson('topo/states.json', null, L.geoJson(null, {
     style: getStyle,
     onEachFeature: onEachFeature
   })
@@ -97,7 +97,7 @@ $(function() {
 
     _.each(states, function(state) {
       if(!ziplayers[state]) {
-        ziplayers[state] = omnivore.topojson('../topo/' + state + '-zipcodes-10m.json', 
+        ziplayers[state] = omnivore.topojson('topo/' + state + '-zipcodes-10m.json', 
           null, 
           L.geoJson(null, {
             style: getStyle,
