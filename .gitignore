@@ -1,0 +1,4 @@
+.tmp
+dist
+*.sublime-workspace
+node_modules
