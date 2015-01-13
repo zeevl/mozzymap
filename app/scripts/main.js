@@ -165,10 +165,14 @@ $(function() {
   }
 
   function resetHighlight(e) {
-    statesLayer.resetStyle(e.target);
-    _.each(ziplayers, function(layer) {
-      layer.resetStyle(e.target);
-    });
+    if(map.hasLayer(statesLayer)) {
+      statesLayer.resetStyle(e.target);      
+    }
+    else {
+      _.each(ziplayers, function(layer) {
+        layer.resetStyle(e.target);
+      });      
+    }
 
     info.update();
   }
