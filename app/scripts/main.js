@@ -1,4 +1,9 @@
 
+// TODO: need to merge the zipcode polygons. Looks like the topojson api
+// can do that.  need to compile the smallest zipcodes into one for the merge
+// zipcode areas are in us-atlas repo.
+
+
 $(function() {
   // what level we toggle zip detail
   var DETAIL_ZOOM = 7
@@ -18,7 +23,7 @@ $(function() {
   })).addTo(map);
 
   var ziplayers = {};
-  
+
 
   function getStyle(feature) {
     return {
@@ -38,8 +43,18 @@ $(function() {
         fillColor: getZipColor(feature.properties.zip)
 
     };
-
   }
+
+  function getCityStyle(feature) {
+    return {
+        weight: 0,
+        opacity: 0.1,
+        fillOpacity: 0.7,
+        fillColor: getCityColor(feature.properties.poname || feature.properties.zip)
+
+    };
+  }
+
 
   var pallet = [
     'rgb(247,251,255)',
@@ -67,6 +82,10 @@ $(function() {
     return pallet[zip % 5]
   }
 
+  function getCityColor(name) {
+    return name ? pallet[name.charCodeAt() % 5] : pallet[0]
+  }
+
   function zoomChanged() {
     if(map.getZoom() > DETAIL_ZOOM) {
       map.removeLayer(statesLayer);
@@ -77,7 +96,7 @@ $(function() {
         return;
 
       for(var key in ziplayers) {
-        if(ziplayers.hasOwnProperty(key)) 
+        if(ziplayers.hasOwnProperty(key))
           map.removeLayer(ziplayers[key]);
       }
 
@@ -103,10 +122,10 @@ $(function() {
 
     _.each(states, function(state) {
       if(!ziplayers[state]) {
-        ziplayers[state] = omnivore.topojson('topo/' + state + '-zipcodes-10m.json', 
-          null, 
+        ziplayers[state] = omnivore.topojson('poname/' + state + '.json',
+          null,
           L.geoJson(null, {
-            style: getZipStyle,
+            style: getCityStyle,
             onEachFeature: onEachFeature
           })
         );
@@ -114,7 +133,7 @@ $(function() {
 
       if(!map.hasLayer(ziplayers[state])) {
         map.addLayer(ziplayers[state]);
-      }      
+      }
     });
 
   }
@@ -127,9 +146,9 @@ $(function() {
     });
   }
 
-  // returns list of states that are visible within the 
+  // returns list of states that are visible within the
   // current viewport, by looking for intersections of the maximum bounding
-  // box around each state with the viewport box. 
+  // box around each state with the viewport box.
   function getVisibleStates() {
     var states = [];
     var viewport = map.getBounds();
@@ -149,7 +168,7 @@ $(function() {
   function highlightFeature(e) {
     var layer = e.target;
     layer.setStyle({
-      weight: 5, 
+      weight: 5,
       color: '#000',
       dashArray: '',
       fillOpacity: 0.7
@@ -166,12 +185,12 @@ $(function() {
 
   function resetHighlight(e) {
     if(map.hasLayer(statesLayer)) {
-      statesLayer.resetStyle(e.target);      
+      statesLayer.resetStyle(e.target);
     }
     else {
       _.each(ziplayers, function(layer) {
         layer.resetStyle(e.target);
-      });      
+      });
     }
 
     info.update();
@@ -184,20 +203,23 @@ $(function() {
   // info popup
   var info = L.control();
   info.onAdd = function(map) {
-    this._div = L.DomUtil.create('div', 'info'); 
+    this._div = L.DomUtil.create('div', 'info');
     this.update();
     return this._div;
   }
 
   info.update = function (props) {
     html = '<h4>Population Density</h4>';
-    if(props && props.name) 
+    if(props && props.poname)
+      html += '<b>' + props.poname + '</b>';
+
+    if(props && props.name)
       html += '<b>' + props.name + '</b><br />' + props.density + ' people / mi<sup>2</sup>';
 
-    if(props && props.zip) 
+    if(props && props.zip)
       html += '<b>' + props.zip + '</b><br />' + (props.zip % 5) + ' people / mi<sup>2</sup>';
 
-    if(!props) 
+    if(!props)
       html += 'Hover over map';
 
     this._div.innerHTML = html
