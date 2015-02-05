@@ -122,7 +122,7 @@ $(function() {
 
     _.each(states, function(state) {
       if(!ziplayers[state]) {
-        ziplayers[state] = omnivore.topojson('poname/' + state + '.json',
+        ziplayers[state] = omnivore.topojson('grouped/' + state + '.json',
           null,
           L.geoJson(null, {
             style: getCityStyle,
