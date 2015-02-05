@@ -6,7 +6,8 @@
 
 $(function() {
   // what level we toggle zip detail
-  var DETAIL_ZOOM = 7
+  var GROUP_ZOOM = 6
+  var ZIP_ZOOM = 8
 
   $("#map").height($(window).innerHeight() - 100);
 
@@ -23,7 +24,7 @@ $(function() {
   })).addTo(map);
 
   var ziplayers = {};
-
+  var grouplayers = {};
 
   function getStyle(feature) {
     return {
@@ -45,13 +46,12 @@ $(function() {
     };
   }
 
-  function getCityStyle(feature) {
+  function getGroupStyle(feature) {
     return {
         weight: 0,
         opacity: 0.1,
         fillOpacity: 0.7,
-        fillColor: getCityColor(feature.properties.poname || feature.properties.zip)
-
+        fillColor: getZipColor(feature.properties.zipcodes[0])
     };
   }
 
@@ -87,28 +87,60 @@ $(function() {
   }
 
   function zoomChanged() {
-    if(map.getZoom() > DETAIL_ZOOM) {
-      map.removeLayer(statesLayer);
-      showVisibleZipcodes();
-    }
-    else {
-      if(map.hasLayer(statesLayer))
-        return;
+    zoom = map.getZoom();
 
-      for(var key in ziplayers) {
-        if(ziplayers.hasOwnProperty(key))
-          map.removeLayer(ziplayers[key]);
-      }
+    if(zoom > ZIP_ZOOM)
+      showZipcodeLayer();
+    else if(zoom > GROUP_ZOOM)
+      showGroupedLayer();
+    else
+      showStatesLayer();
+  }
 
+  function showZipcodeLayer() {
+    removeStates();
+    removeGroups();
+    showVisibleZipcodes();
+  }
+
+  function showGroupedLayer() {
+    removeStates();
+    removeZipcodes();
+    showVisibleGroups();
+  }
+
+  function showStatesLayer() {
+    removeZipcodes();
+    removeGroups();
+
+    if(!map.hasLayer(statesLayer))
       map.addLayer(statesLayer);
+  }
+
+  function removeStates() {
+    map.removeLayer(statesLayer);
+  }
+
+  function removeZipcodes() {
+    for(var key in ziplayers) {
+      if(ziplayers.hasOwnProperty(key))
+        map.removeLayer(ziplayers[key]);
+    }
+  }
+
+  function removeGroups() {
+    for(var key in grouplayers) {
+      if(grouplayers.hasOwnProperty(key))
+        map.removeLayer(grouplayers[key]);
     }
   }
 
   function positionChanged() {
-    if(map.getZoom() <= DETAIL_ZOOM)
-      return;
+    zoomChanged();
+    // if(map.getZoom() <= GROUP_ZOOM)
+    //   return;
 
-    showVisibleZipcodes();
+    // showVisibleZipcodes();
   }
 
   function showVisibleZipcodes() {
@@ -122,10 +154,10 @@ $(function() {
 
     _.each(states, function(state) {
       if(!ziplayers[state]) {
-        ziplayers[state] = omnivore.topojson('grouped/' + state + '.json',
+        ziplayers[state] = omnivore.topojson('zipcode/' + state + '.json',
           null,
           L.geoJson(null, {
-            style: getCityStyle,
+            style: getZipStyle,
             onEachFeature: onEachFeature
           })
         );
@@ -135,7 +167,32 @@ $(function() {
         map.addLayer(ziplayers[state]);
       }
     });
+  }
 
+  function showVisibleGroups() {
+    var states = getVisibleStates();
+
+    var removeStates = _.difference(_.keys(grouplayers), states);
+    _.each(removeStates, function(state) {
+      map.removeLayer(grouplayers[state]);
+      delete grouplayers[state];
+    });
+
+    _.each(states, function(state) {
+      if(!grouplayers[state]) {
+        grouplayers[state] = omnivore.topojson('grouped/' + state + '.json',
+          null,
+          L.geoJson(null, {
+            style: getGroupStyle,
+            onEachFeature: onEachFeature
+          })
+        );
+      }
+
+      if(!map.hasLayer(grouplayers[state])) {
+        map.addLayer(grouplayers[state]);
+      }
+    });
   }
 
   function onEachFeature(feature, layer) {
@@ -184,14 +241,20 @@ $(function() {
   }
 
   function resetHighlight(e) {
-    if(map.hasLayer(statesLayer)) {
-      statesLayer.resetStyle(e.target);
-    }
-    else {
+    zoom = map.getZoom();
+
+    if(zoom > ZIP_ZOOM) {
       _.each(ziplayers, function(layer) {
         layer.resetStyle(e.target);
       });
     }
+    else if(zoom > GROUP_ZOOM) {
+      _.each(grouplayers, function(layer) {
+        layer.resetStyle(e.target);
+      });
+    }
+    else
+      statesLayer.resetStyle(e.target);
 
     info.update();
   }
