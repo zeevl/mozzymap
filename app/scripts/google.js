@@ -8,20 +8,51 @@ $(function() {
   // what level we toggle zip detail
   var GROUP_ZOOM = 6
   var ZIP_ZOOM = 8
+  var map = null;
 
   $("#map").height($(window).innerHeight() - 100);
 
-  L.mapbox.accessToken = 'pk.eyJ1IjoiemVldmwiLCJhIjoicFJzVU8zMCJ9.q6b4Uw5qGAULFaNrCGM7DA';
+  function initialize() {
+     var mapOptions = {
+       center: { lat: 41.850033, lng: -87.6500523},
+       zoom: 3
+     };
 
-  var map = L.mapbox.map('map', 'zeevl.kmnm0b2n')
-    .setView([37.02, -98.965], 4)
-    .on('zoomend', zoomChanged)
-    .on('moveend', positionChanged);
+     map = new google.maps.Map(document.getElementById('map'),
+         mapOptions);
 
-  var statesLayer = omnivore.topojson('topo/states.json', null, L.geoJson(null, {
-    style: getStyle,
-    onEachFeature: onEachFeature
-  })).addTo(map);
+     loadStates();
+  }
+
+  google.maps.event.addDomListener(window, 'load', initialize);
+
+
+  function loadStates() {
+    $.getJSON('topo/states.json', function(data) {
+      var geoJson = topojson.feature(data, data.objects['us-states']);
+      map.data.addGeoJson(geoJson);
+
+      map.data.setStyle(function(feature) {
+        return {
+          fillColor: getColor(feature.k.density),
+          fillOpacity: 0.7,
+          strokeColor: 'black',
+          strokeWeight: 2,
+          strokeOpacity: 0.1
+        }
+      })
+
+    });
+
+
+  }
+
+
+
+  // var statesLayer = omnivore.topojson('topo/states.json', null, L.geoJson(null, {
+  //   style: getStyle,
+  //   onEachFeature: onEachFeature
+  // })).addTo(map);
 
   var ziplayers = {};
   var grouplayers = {};
@@ -263,32 +294,32 @@ $(function() {
     map.fitBounds(e.target.getBounds());
   }
 
-  // info popup
-  var info = L.control();
-  info.onAdd = function(map) {
-    this._div = L.DomUtil.create('div', 'info');
-    this.update();
-    return this._div;
-  }
+  // // info popup
+  // var info = L.control();
+  // info.onAdd = function(map) {
+  //   this._div = L.DomUtil.create('div', 'info');
+  //   this.update();
+  //   return this._div;
+  // }
 
-  info.update = function (props) {
-    html = '<h4>Population Density</h4>';
-    if(props && props.poname)
-      html += '<b>' + props.poname + '</b>';
+  // info.update = function (props) {
+  //   html = '<h4>Population Density</h4>';
+  //   if(props && props.poname)
+  //     html += '<b>' + props.poname + '</b>';
 
-    if(props && props.name)
-      html += '<b>' + props.name + '</b><br />' + props.density + ' people / mi<sup>2</sup>';
+  //   if(props && props.name)
+  //     html += '<b>' + props.name + '</b><br />' + props.density + ' people / mi<sup>2</sup>';
 
-    if(props && props.zip)
-      html += '<b>' + props.zip + '</b><br />' + (props.zip % 5) + ' people / mi<sup>2</sup>';
+  //   if(props && props.zip)
+  //     html += '<b>' + props.zip + '</b><br />' + (props.zip % 5) + ' people / mi<sup>2</sup>';
 
-    if(!props)
-      html += 'Hover over map';
+  //   if(!props)
+  //     html += 'Hover over map';
 
-    this._div.innerHTML = html
-  };
+  //   this._div.innerHTML = html
+  // };
 
-  info.addTo(map);
+  // info.addTo(map);
 
 
 // lat/long extremes of each state
