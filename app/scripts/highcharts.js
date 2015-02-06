@@ -4,10 +4,9 @@ $(function() {
   var GROUP_ZOOM = 6
   var ZIP_ZOOM = 8
 
-  var data = Highcharts.geojson(Highcharts.maps['countries/us/us-all']),
-      // Some responsiveness
-      small = $('#container').width() < 400;
+  $("#map").height($(window).innerHeight() - 100);
 
+  var data = Highcharts.geojson(Highcharts.maps['countries/us/us-all']);
   // Set drilldown pointers
   $.each(data, function (i) {
       this.drilldown = this.properties['hc-key'];
@@ -84,7 +83,7 @@ $(function() {
           }
       },
 
-      legend: small ? {} : {
+      legend: {
           layout: 'vertical',
           align: 'right',
           verticalAlign: 'middle'
@@ -97,7 +96,7 @@ $(function() {
       },
 
       mapNavigation: {
-          enabled: true,
+          enabled: false,
           buttonOptions: {
               verticalAlign: 'bottom'
           }
