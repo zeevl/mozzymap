@@ -198,8 +198,8 @@ $(function() {
       },
 
       colorAxis: {
-        min: 50,
-        max: 100,
+        min: 60,
+        max: 80,
         minColor: '#E6E7E8',
         maxColor: '#005645'
       },
