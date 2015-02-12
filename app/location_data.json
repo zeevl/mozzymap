@@ -1,0 +1,8968 @@
+[
+  {
+    "id": "00757a20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 57
+    },
+    "zip_code": "94565",
+    "state": "CA"
+  },
+  {
+    "id": "0091dbc0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 55
+    },
+    "zip_code": "94560",
+    "state": "CA"
+  },
+  {
+    "id": "00b25c10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 77
+    },
+    "zip_code": "95008",
+    "state": "CA"
+  },
+  {
+    "id": "00cbb070-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 87,
+      "reach": 57
+    },
+    "zip_code": "92591",
+    "state": "CA"
+  },
+  {
+    "id": "00e7c3f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 67
+    },
+    "zip_code": "94403",
+    "state": "CA"
+  },
+  {
+    "id": "0157c3d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 57
+    },
+    "zip_code": "92021",
+    "state": "CA"
+  },
+  {
+    "id": "01987650-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 92,
+      "reach": 72
+    },
+    "zip_code": "95121",
+    "state": "CA"
+  },
+  {
+    "id": "01ec89c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 30
+    },
+    "zip_code": "95204",
+    "state": "CA"
+  },
+  {
+    "id": "02516610-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 62,
+      "reach": 51
+    },
+    "zip_code": "92335",
+    "state": "CA"
+  },
+  {
+    "id": "027e6980-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 72
+    },
+    "zip_code": "95122",
+    "state": "CA"
+  },
+  {
+    "id": "028ebd30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 68
+    },
+    "zip_code": "94501",
+    "state": "CA"
+  },
+  {
+    "id": "02ae0500-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 73
+    },
+    "zip_code": "94578",
+    "state": "CA"
+  },
+  {
+    "id": "02b753d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 58
+    },
+    "zip_code": "94087",
+    "state": "CA"
+  },
+  {
+    "id": "02d9f700-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 65
+    },
+    "zip_code": "95403",
+    "state": "CA"
+  },
+  {
+    "id": "03012e10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 72
+    },
+    "zip_code": "94531",
+    "state": "CA"
+  },
+  {
+    "id": "03366ee0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 85,
+      "reach": 62
+    },
+    "zip_code": "95123",
+    "state": "CA"
+  },
+  {
+    "id": "03634b40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 64
+    },
+    "zip_code": "95128",
+    "state": "CA"
+  },
+  {
+    "id": "03bd7930-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 73
+    },
+    "zip_code": "95355",
+    "state": "CA"
+  },
+  {
+    "id": "03c4cc30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 63
+    },
+    "zip_code": "93611",
+    "state": "CA"
+  },
+  {
+    "id": "03f63c70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 58
+    },
+    "zip_code": "93306",
+    "state": "CA"
+  },
+  {
+    "id": "041a6640-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 56
+    },
+    "zip_code": "93726",
+    "state": "CA"
+  },
+  {
+    "id": "04271070-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 61
+    },
+    "zip_code": "95608",
+    "state": "CA"
+  },
+  {
+    "id": "044a76f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 52
+    },
+    "zip_code": "93702",
+    "state": "CA"
+  },
+  {
+    "id": "04b28790-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 59
+    },
+    "zip_code": "95842",
+    "state": "CA"
+  },
+  {
+    "id": "04f42470-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 85,
+      "reach": 63
+    },
+    "zip_code": "92545",
+    "state": "CA"
+  },
+  {
+    "id": "051c6cf0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 24
+    },
+    "zip_code": "95823",
+    "state": "CA"
+  },
+  {
+    "id": "055f9070-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 87,
+      "reach": 54
+    },
+    "zip_code": "93638",
+    "state": "CA"
+  },
+  {
+    "id": "059baf10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 61
+    },
+    "zip_code": "94533",
+    "state": "CA"
+  },
+  {
+    "id": "05eb7cc0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 66
+    },
+    "zip_code": "93304",
+    "state": "CA"
+  },
+  {
+    "id": "060baef0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 58
+    },
+    "zip_code": "93277",
+    "state": "CA"
+  },
+  {
+    "id": "061b8d70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 85,
+      "reach": 57
+    },
+    "zip_code": "93722",
+    "state": "CA"
+  },
+  {
+    "id": "065932b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 54
+    },
+    "zip_code": "93727",
+    "state": "CA"
+  },
+  {
+    "id": "066a97d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 67
+    },
+    "zip_code": "96003",
+    "state": "CA"
+  },
+  {
+    "id": "068f36d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 76
+    },
+    "zip_code": "95822",
+    "state": "CA"
+  },
+  {
+    "id": "06b97b20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 67
+    },
+    "zip_code": "93309",
+    "state": "CA"
+  },
+  {
+    "id": "06e63070-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 85,
+      "reach": 58
+    },
+    "zip_code": "95240",
+    "state": "CA"
+  },
+  {
+    "id": "070ca430-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 63
+    },
+    "zip_code": "92626",
+    "state": "CA"
+  },
+  {
+    "id": "073cdbf0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 55
+    },
+    "zip_code": "93711",
+    "state": "CA"
+  },
+  {
+    "id": "0746ee10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 89,
+      "reach": 55
+    },
+    "zip_code": "90260",
+    "state": "CA"
+  },
+  {
+    "id": "075b6070-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 62
+    },
+    "zip_code": "92780",
+    "state": "CA"
+  },
+  {
+    "id": "079d4b70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 61
+    },
+    "zip_code": "91761",
+    "state": "CA"
+  },
+  {
+    "id": "07e63b50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 50
+    },
+    "zip_code": "90808",
+    "state": "CA"
+  },
+  {
+    "id": "0801d9a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 64
+    },
+    "zip_code": "91710",
+    "state": "CA"
+  },
+  {
+    "id": "081c6680-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 64
+    },
+    "zip_code": "90712",
+    "state": "CA"
+  },
+  {
+    "id": "08409050-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 59,
+      "reach": 35
+    },
+    "zip_code": "91331",
+    "state": "CA"
+  },
+  {
+    "id": "084e4bf0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 88,
+      "reach": 62
+    },
+    "zip_code": "92704",
+    "state": "CA"
+  },
+  {
+    "id": "087caef0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 63
+    },
+    "zip_code": "92376",
+    "state": "CA"
+  },
+  {
+    "id": "089b8190-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 31
+    },
+    "zip_code": "95695",
+    "state": "CA"
+  },
+  {
+    "id": "08b71fe0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 57
+    },
+    "zip_code": "93274",
+    "state": "CA"
+  },
+  {
+    "id": "08e6e270-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 53
+    },
+    "zip_code": "90270",
+    "state": "CA"
+  },
+  {
+    "id": "092c76f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 56
+    },
+    "zip_code": "91706",
+    "state": "CA"
+  },
+  {
+    "id": "09385dd0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 58
+    },
+    "zip_code": "91762",
+    "state": "CA"
+  },
+  {
+    "id": "095ad9f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 49
+    },
+    "zip_code": "90710",
+    "state": "CA"
+  },
+  {
+    "id": "09739210-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 63
+    },
+    "zip_code": "91744",
+    "state": "CA"
+  },
+  {
+    "id": "098ebb30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 66
+    },
+    "zip_code": "90631",
+    "state": "CA"
+  },
+  {
+    "id": "09a10ab0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 87,
+      "reach": 62
+    },
+    "zip_code": "93257",
+    "state": "CA"
+  },
+  {
+    "id": "09b38140-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 46
+    },
+    "zip_code": "90640",
+    "state": "CA"
+  },
+  {
+    "id": "09c05280-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 52
+    },
+    "zip_code": "90601",
+    "state": "CA"
+  },
+  {
+    "id": "09d38c60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 91,
+      "reach": 52
+    },
+    "zip_code": "91105",
+    "state": "CA"
+  },
+  {
+    "id": "09e47c50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 53
+    },
+    "zip_code": "90638",
+    "state": "CA"
+  },
+  {
+    "id": "0a938100-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 64
+    },
+    "zip_code": "92054",
+    "state": "CA"
+  },
+  {
+    "id": "0aacfc70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 65,
+      "reach": 51
+    },
+    "zip_code": "90716",
+    "state": "CA"
+  },
+  {
+    "id": "0b353f40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 65
+    },
+    "zip_code": "50310",
+    "state": "IA"
+  },
+  {
+    "id": "0b6046e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 57
+    },
+    "zip_code": "50703",
+    "state": "IA"
+  },
+  {
+    "id": "0b87f320-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 16
+    },
+    "zip_code": "52807",
+    "state": "IA"
+  },
+  {
+    "id": "0ba05d20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 65,
+      "reach": 17
+    },
+    "zip_code": "51501",
+    "state": "IA"
+  },
+  {
+    "id": "0bb71970-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 11
+    },
+    "zip_code": "52732",
+    "state": "IA"
+  },
+  {
+    "id": "0bf0ee20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 62
+    },
+    "zip_code": "34653",
+    "state": "FL"
+  },
+  {
+    "id": "0c0141d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 93,
+      "reach": 66
+    },
+    "zip_code": "95825",
+    "state": "CA"
+  },
+  {
+    "id": "0c2ac2d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 53
+    },
+    "zip_code": "96080",
+    "state": "CA"
+  },
+  {
+    "id": "0c6b2730-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 60
+    },
+    "zip_code": "52405",
+    "state": "IA"
+  },
+  {
+    "id": "0cce55d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 66
+    },
+    "zip_code": "92057",
+    "state": "CA"
+  },
+  {
+    "id": "0cdc1170-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 65
+    },
+    "zip_code": "92505",
+    "state": "CA"
+  },
+  {
+    "id": "0d098a10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 59
+    },
+    "zip_code": "94588",
+    "state": "CA"
+  },
+  {
+    "id": "0d4b4e00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 65
+    },
+    "zip_code": "91942",
+    "state": "CA"
+  },
+  {
+    "id": "0d7962e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 46
+    },
+    "zip_code": "92553",
+    "state": "CA"
+  },
+  {
+    "id": "0d8d8720-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 59
+    },
+    "zip_code": "92869",
+    "state": "CA"
+  },
+  {
+    "id": "0d977230-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 60
+    },
+    "zip_code": "92154",
+    "state": "CA"
+  },
+  {
+    "id": "0dce39a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 49
+    },
+    "zip_code": "95350",
+    "state": "CA"
+  },
+  {
+    "id": "0dfb3d10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 59
+    },
+    "zip_code": "94954",
+    "state": "CA"
+  },
+  {
+    "id": "0e1fdc10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 16
+    },
+    "zip_code": "92025",
+    "state": "CA"
+  },
+  {
+    "id": "0e2ed030-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 66
+    },
+    "zip_code": "50315",
+    "state": "IA"
+  },
+  {
+    "id": "0e403550-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 57
+    },
+    "zip_code": "92126",
+    "state": "CA"
+  },
+  {
+    "id": "0e69dd60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 65
+    },
+    "zip_code": "94590",
+    "state": "CA"
+  },
+  {
+    "id": "0e933750-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 60
+    },
+    "zip_code": "94564",
+    "state": "CA"
+  },
+  {
+    "id": "0ea69840-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 49
+    },
+    "zip_code": "51103",
+    "state": "IA"
+  },
+  {
+    "id": "0ee3c850-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 53
+    },
+    "zip_code": "93422",
+    "state": "CA"
+  },
+  {
+    "id": "0ef665f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 52
+    },
+    "zip_code": "92071",
+    "state": "CA"
+  },
+  {
+    "id": "0f061d60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 50
+    },
+    "zip_code": "34668",
+    "state": "FL"
+  },
+  {
+    "id": "0f181ec0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 87,
+      "reach": 76
+    },
+    "zip_code": "95051",
+    "state": "CA"
+  },
+  {
+    "id": "0f20aa40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 50
+    },
+    "zip_code": "93401",
+    "state": "CA"
+  },
+  {
+    "id": "0f434d70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 57
+    },
+    "zip_code": "93003",
+    "state": "CA"
+  },
+  {
+    "id": "0f4a0430-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 64
+    },
+    "zip_code": "52402",
+    "state": "IA"
+  },
+  {
+    "id": "0f58f850-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 62
+    },
+    "zip_code": "96002",
+    "state": "CA"
+  },
+  {
+    "id": "0f68afc0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 41
+    },
+    "zip_code": "93436",
+    "state": "CA"
+  },
+  {
+    "id": "0f936940-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 88,
+      "reach": 50
+    },
+    "zip_code": "93446",
+    "state": "CA"
+  },
+  {
+    "id": "0fc7e6c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 68
+    },
+    "zip_code": "93312",
+    "state": "CA"
+  },
+  {
+    "id": "0fde06d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 89,
+      "reach": 56
+    },
+    "zip_code": "95301",
+    "state": "CA"
+  },
+  {
+    "id": "101c6f60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 63
+    },
+    "zip_code": "94538",
+    "state": "CA"
+  },
+  {
+    "id": "10321a40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 55
+    },
+    "zip_code": "33712",
+    "state": "FL"
+  },
+  {
+    "id": "1056e050-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 53
+    },
+    "zip_code": "95991",
+    "state": "CA"
+  },
+  {
+    "id": "107eb3a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 60
+    },
+    "zip_code": "94530",
+    "state": "CA"
+  },
+  {
+    "id": "10945e80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 76
+    },
+    "zip_code": "34207",
+    "state": "FL"
+  },
+  {
+    "id": "10a30480-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 88,
+      "reach": 65
+    },
+    "zip_code": "32211",
+    "state": "FL"
+  },
+  {
+    "id": "10cc3760-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 67
+    },
+    "zip_code": "32218",
+    "state": "FL"
+  },
+  {
+    "id": "10fda7a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 85,
+      "reach": 70
+    },
+    "zip_code": "34237",
+    "state": "FL"
+  },
+  {
+    "id": "10fe9200-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 53
+    },
+    "zip_code": "93635",
+    "state": "CA"
+  },
+  {
+    "id": "11442680-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 56
+    },
+    "zip_code": "33145",
+    "state": "FL"
+  },
+  {
+    "id": "116bd2c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 60
+    },
+    "zip_code": "33165",
+    "state": "FL"
+  },
+  {
+    "id": "11ba40e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 35
+    },
+    "zip_code": "33617",
+    "state": "FL"
+  },
+  {
+    "id": "11f80d30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 60
+    },
+    "zip_code": "33612",
+    "state": "FL"
+  },
+  {
+    "id": "121b4ca0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 63
+    },
+    "zip_code": "33634",
+    "state": "FL"
+  },
+  {
+    "id": "1252b050-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 57
+    },
+    "zip_code": "32211",
+    "state": "FL"
+  },
+  {
+    "id": "12792410-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 50
+    },
+    "zip_code": "34293",
+    "state": "FL"
+  },
+  {
+    "id": "12861c60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 62
+    },
+    "zip_code": "33948",
+    "state": "FL"
+  },
+  {
+    "id": "12b28390-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 67
+    },
+    "zip_code": "33023",
+    "state": "FL"
+  },
+  {
+    "id": "12f299d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 61
+    },
+    "zip_code": "33442",
+    "state": "FL"
+  },
+  {
+    "id": "13025140-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 25
+    },
+    "zip_code": "33169",
+    "state": "FL"
+  },
+  {
+    "id": "131bccb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 51
+    },
+    "zip_code": "52246",
+    "state": "IA"
+  },
+  {
+    "id": "13529420-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 45
+    },
+    "zip_code": "33322",
+    "state": "FL"
+  },
+  {
+    "id": "1368b430-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "32907",
+    "state": "FL"
+  },
+  {
+    "id": "13906070-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 43
+    },
+    "zip_code": "33351-6720",
+    "state": "FL"
+  },
+  {
+    "id": "13ad3740-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 57
+    },
+    "zip_code": "33009",
+    "state": "FL"
+  },
+  {
+    "id": "13be0020-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 51
+    },
+    "zip_code": "33032",
+    "state": "FL"
+  },
+  {
+    "id": "1417b8e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 65
+    },
+    "zip_code": "32780",
+    "state": "FL"
+  },
+  {
+    "id": "14e40990-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 69
+    },
+    "zip_code": "33407",
+    "state": "FL"
+  },
+  {
+    "id": "15146860-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 67
+    },
+    "zip_code": "32839",
+    "state": "FL"
+  },
+  {
+    "id": "158ad0e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 71
+    },
+    "zip_code": "33990",
+    "state": "FL"
+  },
+  {
+    "id": "15e2b4e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 56
+    },
+    "zip_code": "32174",
+    "state": "FL"
+  },
+  {
+    "id": "16150f80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 41
+    },
+    "zip_code": "83714",
+    "state": "ID"
+  },
+  {
+    "id": "162f7550-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 66
+    },
+    "zip_code": "32835",
+    "state": "FL"
+  },
+  {
+    "id": "16663cc0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 54
+    },
+    "zip_code": "32958",
+    "state": "FL"
+  },
+  {
+    "id": "168e1010-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 74
+    },
+    "zip_code": "34470",
+    "state": "FL"
+  },
+  {
+    "id": "174c08e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 66
+    },
+    "zip_code": "34984",
+    "state": "FL"
+  },
+  {
+    "id": "17e7d3b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 57
+    },
+    "zip_code": "32935",
+    "state": "FL"
+  },
+  {
+    "id": "18191ce0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 44
+    },
+    "zip_code": "33467",
+    "state": "FL"
+  },
+  {
+    "id": "18263c40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 61
+    },
+    "zip_code": "83404",
+    "state": "ID"
+  },
+  {
+    "id": "18330d80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 51
+    },
+    "zip_code": "83709",
+    "state": "ID"
+  },
+  {
+    "id": "1847ce00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 61
+    },
+    "zip_code": "83651",
+    "state": "ID"
+  },
+  {
+    "id": "18793e40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 70
+    },
+    "zip_code": "34112",
+    "state": "FL"
+  },
+  {
+    "id": "18ea2880-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 66
+    },
+    "zip_code": "33809",
+    "state": "FL"
+  },
+  {
+    "id": "19113880-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 61
+    },
+    "zip_code": "83201",
+    "state": "ID"
+  },
+  {
+    "id": "1a306420-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 58
+    },
+    "zip_code": "84106",
+    "state": "UT"
+  },
+  {
+    "id": "1a53caa0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 46
+    },
+    "zip_code": "84044",
+    "state": "UT"
+  },
+  {
+    "id": "1a9148d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "87031",
+    "state": "NM"
+  },
+  {
+    "id": "1afbca70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 45
+    },
+    "zip_code": "88201",
+    "state": "NM"
+  },
+  {
+    "id": "1b306f00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 55
+    },
+    "zip_code": "87402",
+    "state": "NM"
+  },
+  {
+    "id": "1b5709d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 50
+    },
+    "zip_code": "84123",
+    "state": "UT"
+  },
+  {
+    "id": "1b63b400-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 25
+    },
+    "zip_code": "84118",
+    "state": "UT"
+  },
+  {
+    "id": "1b6ab8e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 58
+    },
+    "zip_code": "84321",
+    "state": "UT"
+  },
+  {
+    "id": "1ba21c90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "87301",
+    "state": "NM"
+  },
+  {
+    "id": "1bafd830-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 62
+    },
+    "zip_code": "87110",
+    "state": "NM"
+  },
+  {
+    "id": "1bf608f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 61
+    },
+    "zip_code": "90745",
+    "state": "CA"
+  },
+  {
+    "id": "1c14b480-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 92,
+      "reach": 65
+    },
+    "zip_code": "90255",
+    "state": "CA"
+  },
+  {
+    "id": "1c6d82e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 72
+    },
+    "zip_code": "93065",
+    "state": "CA"
+  },
+  {
+    "id": "1c7487c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 54
+    },
+    "zip_code": "91709",
+    "state": "CA"
+  },
+  {
+    "id": "1cae3560-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 90,
+      "reach": 67
+    },
+    "zip_code": "90620",
+    "state": "CA"
+  },
+  {
+    "id": "1cc12120-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 56
+    },
+    "zip_code": "91324",
+    "state": "CA"
+  },
+  {
+    "id": "1d0c33e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 76
+    },
+    "zip_code": "89015",
+    "state": "NV"
+  },
+  {
+    "id": "1d29a6f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 50
+    },
+    "zip_code": "92804",
+    "state": "CA"
+  },
+  {
+    "id": "1e11e410-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 64
+    },
+    "zip_code": "91722",
+    "state": "CA"
+  },
+  {
+    "id": "1e3ec070-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 60
+    },
+    "zip_code": "87124",
+    "state": "NM"
+  },
+  {
+    "id": "1e459e40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 49
+    },
+    "zip_code": "90047",
+    "state": "CA"
+  },
+  {
+    "id": "1e6904c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 71
+    },
+    "zip_code": "38671",
+    "state": "MS"
+  },
+  {
+    "id": "1e7e8890-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 56
+    },
+    "zip_code": "68117",
+    "state": "NE"
+  },
+  {
+    "id": "1e8f0350-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 61
+    },
+    "zip_code": "89506",
+    "state": "NV"
+  },
+  {
+    "id": "1f32e470-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 51
+    },
+    "zip_code": "91107",
+    "state": "CA"
+  },
+  {
+    "id": "1f38fef0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 63
+    },
+    "zip_code": "90813",
+    "state": "CA"
+  },
+  {
+    "id": "1f6761f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 55
+    },
+    "zip_code": "91010",
+    "state": "CA"
+  },
+  {
+    "id": "1f852320-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 52
+    },
+    "zip_code": "92881",
+    "state": "CA"
+  },
+  {
+    "id": "1f9ec5a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 61
+    },
+    "zip_code": "39204",
+    "state": "MS"
+  },
+  {
+    "id": "1fa70300-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 57
+    },
+    "zip_code": "68134",
+    "state": "NE"
+  },
+  {
+    "id": "1fe607d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 58
+    },
+    "zip_code": "91001",
+    "state": "CA"
+  },
+  {
+    "id": "1ffff870-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 60
+    },
+    "zip_code": "68127",
+    "state": "NE"
+  },
+  {
+    "id": "20375c20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 54
+    },
+    "zip_code": "91306",
+    "state": "CA"
+  },
+  {
+    "id": "2055b990-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 38
+    },
+    "zip_code": "91352",
+    "state": "CA"
+  },
+  {
+    "id": "20899ad0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 65
+    },
+    "zip_code": "89706",
+    "state": "NV"
+  },
+  {
+    "id": "20daef20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 48
+    },
+    "zip_code": "92392",
+    "state": "CA"
+  },
+  {
+    "id": "20ef3a70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 57
+    },
+    "zip_code": "91776",
+    "state": "CA"
+  },
+  {
+    "id": "20fcf610-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 58
+    },
+    "zip_code": "92833",
+    "state": "CA"
+  },
+  {
+    "id": "212824c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 34
+    },
+    "zip_code": "88101",
+    "state": "NM"
+  },
+  {
+    "id": "213bd3d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 64
+    },
+    "zip_code": "53719",
+    "state": "WI"
+  },
+  {
+    "id": "2149dd90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 55
+    },
+    "zip_code": "93010",
+    "state": "CA"
+  },
+  {
+    "id": "21820490-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 49
+    },
+    "zip_code": "88310",
+    "state": "NM"
+  },
+  {
+    "id": "21a12550-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 53
+    },
+    "zip_code": "88011",
+    "state": "NM"
+  },
+  {
+    "id": "21bc0050-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 43
+    },
+    "zip_code": "87505",
+    "state": "NM"
+  },
+  {
+    "id": "21f8e240-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 61
+    },
+    "zip_code": "92395",
+    "state": "92395"
+  },
+  {
+    "id": "22d315a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 61
+    },
+    "zip_code": "87112",
+    "state": "NM"
+  },
+  {
+    "id": "23137a00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 63
+    },
+    "zip_code": "68521",
+    "state": "NE"
+  },
+  {
+    "id": "2333fa50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 59
+    },
+    "zip_code": "54915",
+    "state": "WI"
+  },
+  {
+    "id": "234e1200-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 60
+    },
+    "zip_code": "54901",
+    "state": "WI"
+  },
+  {
+    "id": "23d9d740-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 56
+    },
+    "zip_code": "53094",
+    "state": "WI"
+  },
+  {
+    "id": "23f46420-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 45
+    },
+    "zip_code": "54601",
+    "state": "WI"
+  },
+  {
+    "id": "23faf3d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 45
+    },
+    "zip_code": "53704",
+    "state": "WI"
+  },
+  {
+    "id": "241d6ff0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 89,
+      "reach": 71
+    },
+    "zip_code": "54935",
+    "state": "WI"
+  },
+  {
+    "id": "247728b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "54481",
+    "state": "WI"
+  },
+  {
+    "id": "25882380-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 47
+    },
+    "zip_code": "54729",
+    "state": "WI"
+  },
+  {
+    "id": "25b1cb90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 57
+    },
+    "zip_code": "54701",
+    "state": "WI"
+  },
+  {
+    "id": "26cadcb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 67
+    },
+    "zip_code": "53095",
+    "state": "WI"
+  },
+  {
+    "id": "26f80730-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 44
+    },
+    "zip_code": "53901",
+    "state": "WI"
+  },
+  {
+    "id": "26fee500-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 51
+    },
+    "zip_code": "54016",
+    "state": "WI"
+  },
+  {
+    "id": "270db210-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 56
+    },
+    "zip_code": "54401",
+    "state": "WI"
+  },
+  {
+    "id": "271998f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 62
+    },
+    "zip_code": "53222",
+    "state": "WI"
+  },
+  {
+    "id": "2728b420-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 57
+    },
+    "zip_code": "54301",
+    "state": "WI"
+  },
+  {
+    "id": "273a6760-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 52
+    },
+    "zip_code": "54751",
+    "state": "WI"
+  },
+  {
+    "id": "2748e650-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "42420",
+    "state": "KY"
+  },
+  {
+    "id": "279ef590-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 63
+    },
+    "zip_code": "54880",
+    "state": "WI"
+  },
+  {
+    "id": "27dcc1e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 88,
+      "reach": 59
+    },
+    "zip_code": "64014",
+    "state": "MO"
+  },
+  {
+    "id": "287b4bd0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 57
+    },
+    "zip_code": "54650",
+    "state": "WI"
+  },
+  {
+    "id": "28c85a60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 60
+    },
+    "zip_code": "53081",
+    "state": "WI"
+  },
+  {
+    "id": "29402270-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 45
+    },
+    "zip_code": "63033",
+    "state": "MO"
+  },
+  {
+    "id": "29497140-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 52
+    },
+    "zip_code": "54452",
+    "state": "WI"
+  },
+  {
+    "id": "296a18a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 60
+    },
+    "zip_code": "53215",
+    "state": "WI"
+  },
+  {
+    "id": "29c2bff0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 39
+    },
+    "zip_code": "63401",
+    "state": "MO"
+  },
+  {
+    "id": "29f7d9b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 70
+    },
+    "zip_code": "29615",
+    "state": "SC"
+  },
+  {
+    "id": "2a060a80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 55
+    },
+    "zip_code": "29625",
+    "state": "SC"
+  },
+  {
+    "id": "2b977ff0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 66,
+      "reach": 65
+    },
+    "zip_code": "65201",
+    "state": "MO"
+  },
+  {
+    "id": "2c231e20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 50
+    },
+    "zip_code": "63044",
+    "state": "MO"
+  },
+  {
+    "id": "2c45e860-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 48
+    },
+    "zip_code": "63376",
+    "state": "MO"
+  },
+  {
+    "id": "2c8450f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 73
+    },
+    "zip_code": "29607",
+    "state": "SC"
+  },
+  {
+    "id": "2cc2b980-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 45
+    },
+    "zip_code": "29150",
+    "state": "SC"
+  },
+  {
+    "id": "2cd1fbc0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 53
+    },
+    "zip_code": "65536",
+    "state": "MO"
+  },
+  {
+    "id": "2ceb7730-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 76
+    },
+    "zip_code": "29577",
+    "state": "SC"
+  },
+  {
+    "id": "2cfa4440-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 55
+    },
+    "zip_code": "29301",
+    "state": "SC"
+  },
+  {
+    "id": "2d4f1b00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 36
+    },
+    "zip_code": "29407",
+    "state": "SC"
+  },
+  {
+    "id": "2dfb6090-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 57
+    },
+    "zip_code": "29118",
+    "state": "SC"
+  },
+  {
+    "id": "2e34e720-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 53
+    },
+    "zip_code": "29063",
+    "state": "SC"
+  },
+  {
+    "id": "2e68a150-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 49
+    },
+    "zip_code": "63010",
+    "state": "MO"
+  },
+  {
+    "id": "2e859f30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 59
+    },
+    "zip_code": "29841",
+    "state": "SC"
+  },
+  {
+    "id": "2edf30e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 57
+    },
+    "zip_code": "29223",
+    "state": "SC"
+  },
+  {
+    "id": "2ef83720-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 52
+    },
+    "zip_code": "29406",
+    "state": "SC"
+  },
+  {
+    "id": "2f0d93e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 15
+    },
+    "zip_code": "44124",
+    "state": "OH"
+  },
+  {
+    "id": "2f24c560-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 59,
+      "reach": 65
+    },
+    "zip_code": "29732",
+    "state": "SC"
+  },
+  {
+    "id": "30b6fe20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 47
+    },
+    "zip_code": "29464",
+    "state": "SC"
+  },
+  {
+    "id": "30c83c30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 75
+    },
+    "zip_code": "45213",
+    "state": "OH"
+  },
+  {
+    "id": "30d582a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 55
+    },
+    "zip_code": "45251",
+    "state": "OH"
+  },
+  {
+    "id": "31012680-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 53
+    },
+    "zip_code": "29649",
+    "state": "SC"
+  },
+  {
+    "id": "312db4c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 76
+    },
+    "zip_code": "44144",
+    "state": "OH"
+  },
+  {
+    "id": "31676260-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 65
+    },
+    "zip_code": "44119",
+    "state": "OH"
+  },
+  {
+    "id": "316825b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 49
+    },
+    "zip_code": "44320",
+    "state": "OH"
+  },
+  {
+    "id": "318aa1d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 58
+    },
+    "zip_code": "29445",
+    "state": "SC"
+  },
+  {
+    "id": "320d1840-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 77
+    },
+    "zip_code": "44137",
+    "state": "OH"
+  },
+  {
+    "id": "321a85c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 64
+    },
+    "zip_code": "45245",
+    "state": "OH"
+  },
+  {
+    "id": "3227cc30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 69
+    },
+    "zip_code": "44035",
+    "state": "OH"
+  },
+  {
+    "id": "324650b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "45211",
+    "state": "OH"
+  },
+  {
+    "id": "3274b3b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 59
+    },
+    "zip_code": "29501",
+    "state": "SC"
+  },
+  {
+    "id": "32894d20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 61,
+      "reach": 61
+    },
+    "zip_code": "40601",
+    "state": "KY"
+  },
+  {
+    "id": "329756e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 58
+    },
+    "zip_code": "44905",
+    "state": "OH"
+  },
+  {
+    "id": "32e46570-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 63,
+      "reach": 54
+    },
+    "zip_code": "45231",
+    "state": "OH"
+  },
+  {
+    "id": "333e1e30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 66
+    },
+    "zip_code": "44070",
+    "state": "OH"
+  },
+  {
+    "id": "3377f2e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 30
+    },
+    "zip_code": "45405",
+    "state": "OH"
+  },
+  {
+    "id": "33851240-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 34
+    },
+    "zip_code": "43229",
+    "state": "OH"
+  },
+  {
+    "id": "339f02e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 73
+    },
+    "zip_code": "44310",
+    "state": "OH"
+  },
+  {
+    "id": "33bc9d00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 68
+    },
+    "zip_code": "45044",
+    "state": "OH"
+  },
+  {
+    "id": "33d26ef0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 57
+    },
+    "zip_code": "40509",
+    "state": "KY"
+  },
+  {
+    "id": "33ea3cb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 66,
+      "reach": 36
+    },
+    "zip_code": "45680",
+    "state": "OH"
+  },
+  {
+    "id": "34095d70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 44
+    },
+    "zip_code": "45840",
+    "state": "OH"
+  },
+  {
+    "id": "342019c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 50
+    },
+    "zip_code": "60628",
+    "state": "IL"
+  },
+  {
+    "id": "349faa00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 63
+    },
+    "zip_code": "44515",
+    "state": "OH"
+  },
+  {
+    "id": "34b49190-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 31
+    },
+    "zip_code": "43701",
+    "state": "OH"
+  },
+  {
+    "id": "34e7fda0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 46
+    },
+    "zip_code": "61802",
+    "state": "IL"
+  },
+  {
+    "id": "353cd460-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 72
+    },
+    "zip_code": "60435",
+    "state": "IL"
+  },
+  {
+    "id": "356e6bb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 44
+    },
+    "zip_code": "44060",
+    "state": "OH"
+  },
+  {
+    "id": "35d2d2d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 57
+    },
+    "zip_code": "45503",
+    "state": "OH"
+  },
+  {
+    "id": "35f48ba0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 66
+    },
+    "zip_code": "60473",
+    "state": "IL"
+  },
+  {
+    "id": "3618dc80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 55
+    },
+    "zip_code": "60619",
+    "state": "IL"
+  },
+  {
+    "id": "36462e10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 66
+    },
+    "zip_code": "60402",
+    "state": "IL"
+  },
+  {
+    "id": "36cf5b40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 43
+    },
+    "zip_code": "60014",
+    "state": "IL"
+  },
+  {
+    "id": "36dd6500-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 85,
+      "reach": 54
+    },
+    "zip_code": "60409",
+    "state": "IL"
+  },
+  {
+    "id": "36f273a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 66
+    },
+    "zip_code": "61350",
+    "state": "IL"
+  },
+  {
+    "id": "37007d60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 65
+    },
+    "zip_code": "60302",
+    "state": "IL"
+  },
+  {
+    "id": "370efc50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 42
+    },
+    "zip_code": "62301",
+    "state": "IL"
+  },
+  {
+    "id": "376a3bb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 62
+    },
+    "zip_code": "60429",
+    "state": "IL"
+  },
+  {
+    "id": "37a68160-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 72
+    },
+    "zip_code": "60506",
+    "state": "IL"
+  },
+  {
+    "id": "37b1cc00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 48
+    },
+    "zip_code": "62946",
+    "state": "IL"
+  },
+  {
+    "id": "37c04af0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 85,
+      "reach": 62
+    },
+    "zip_code": "60139",
+    "state": "IL"
+  },
+  {
+    "id": "380dceb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 60
+    },
+    "zip_code": "61265",
+    "state": "IL"
+  },
+  {
+    "id": "38374fb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 92,
+      "reach": 70
+    },
+    "zip_code": "60625",
+    "state": "IL"
+  },
+  {
+    "id": "3871c0a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 84
+    },
+    "zip_code": "60193",
+    "state": "IL"
+  },
+  {
+    "id": "388a51b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 58
+    },
+    "zip_code": "60647",
+    "state": "IL"
+  },
+  {
+    "id": "38988280-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 60
+    },
+    "zip_code": "60411",
+    "state": "IL"
+  },
+  {
+    "id": "38a5a1e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 64
+    },
+    "zip_code": "60076",
+    "state": "IL"
+  },
+  {
+    "id": "38b29a30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 62
+    },
+    "zip_code": "60636",
+    "state": "IL"
+  },
+  {
+    "id": "38c0f210-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 52
+    },
+    "zip_code": "60073",
+    "state": "IL"
+  },
+  {
+    "id": "38d05b60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 51
+    },
+    "zip_code": "60914",
+    "state": "IL"
+  },
+  {
+    "id": "392929c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 13
+    },
+    "zip_code": "54494",
+    "state": "WI"
+  },
+  {
+    "id": "39395660-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 75
+    },
+    "zip_code": "60504",
+    "state": "IL"
+  },
+  {
+    "id": "398a5c90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 57,
+      "reach": 44
+    },
+    "zip_code": "60655",
+    "state": "IL"
+  },
+  {
+    "id": "3993f980-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 70
+    },
+    "zip_code": "60106",
+    "state": "IL"
+  },
+  {
+    "id": "399b4c80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 62
+    },
+    "zip_code": "60169",
+    "state": "60169"
+  },
+  {
+    "id": "39ac8a90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 69
+    },
+    "zip_code": "60714",
+    "state": "IL"
+  },
+  {
+    "id": "39bc9020-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 60
+    },
+    "zip_code": "42101",
+    "state": "KY"
+  },
+  {
+    "id": "39ca99e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 53
+    },
+    "zip_code": "41101",
+    "state": "KY"
+  },
+  {
+    "id": "39f616b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 35
+    },
+    "zip_code": "33138",
+    "state": "FL"
+  },
+  {
+    "id": "3a2e16a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 65,
+      "reach": 52
+    },
+    "zip_code": "45014",
+    "state": "OH"
+  },
+  {
+    "id": "3a487c70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 36
+    },
+    "zip_code": "60148",
+    "state": "IL"
+  },
+  {
+    "id": "3a55e9f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 62
+    },
+    "zip_code": "42503",
+    "state": "KY"
+  },
+  {
+    "id": "3a7d2100-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 49
+    },
+    "zip_code": "33056",
+    "state": "FL"
+  },
+  {
+    "id": "3a8ab590-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 89,
+      "reach": 67
+    },
+    "zip_code": "32073",
+    "state": "FL"
+  },
+  {
+    "id": "3a97fc00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 93,
+      "reach": 67
+    },
+    "zip_code": "95827",
+    "state": "CA"
+  },
+  {
+    "id": "3ade2cc0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 42
+    },
+    "zip_code": "93230",
+    "state": "CA"
+  },
+  {
+    "id": "3b1df4e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 75
+    },
+    "zip_code": "33771",
+    "state": "FL"
+  },
+  {
+    "id": "3b2bd790-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 64
+    },
+    "zip_code": "33901",
+    "state": "FL"
+  },
+  {
+    "id": "3b3f1170-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 71
+    },
+    "zip_code": "40504",
+    "state": "KY"
+  },
+  {
+    "id": "3b6de9a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 75
+    },
+    "zip_code": "44708",
+    "state": "OH"
+  },
+  {
+    "id": "3badb1c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 63
+    },
+    "zip_code": "42701",
+    "state": "KY"
+  },
+  {
+    "id": "3c1b1990-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 57
+    },
+    "zip_code": "38122",
+    "state": "TN"
+  },
+  {
+    "id": "3cb9ca90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 34
+    },
+    "zip_code": "60445",
+    "state": "IL"
+  },
+  {
+    "id": "3cc73810-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 36
+    },
+    "zip_code": "60804",
+    "state": "IL"
+  },
+  {
+    "id": "3cd39420-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 60
+    },
+    "zip_code": "38104",
+    "state": "TN"
+  },
+  {
+    "id": "3cf721b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 68
+    },
+    "zip_code": "60632",
+    "state": "IL"
+  },
+  {
+    "id": "3d044110-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 68
+    },
+    "zip_code": "53223",
+    "state": "WI"
+  },
+  {
+    "id": "3d0c5760-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 51
+    },
+    "zip_code": "60425",
+    "state": "IL"
+  },
+  {
+    "id": "3d1a6120-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 56
+    },
+    "zip_code": "60459",
+    "state": "IL"
+  },
+  {
+    "id": "3d297c50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 57
+    },
+    "zip_code": "38128",
+    "state": "TN"
+  },
+  {
+    "id": "3d37ad20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 61
+    },
+    "zip_code": "38115",
+    "state": "TN"
+  },
+  {
+    "id": "3d4ae700-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 57
+    },
+    "zip_code": "60706",
+    "state": "IL"
+  },
+  {
+    "id": "3d5a2940-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 56
+    },
+    "zip_code": "61008",
+    "state": "IL"
+  },
+  {
+    "id": "3d60e000-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 67
+    },
+    "zip_code": "60651",
+    "state": "IL"
+  },
+  {
+    "id": "3d6fad10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 63
+    },
+    "zip_code": "62526",
+    "state": "IL"
+  },
+  {
+    "id": "3d7e2c00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 75
+    },
+    "zip_code": "60608",
+    "state": "IL"
+  },
+  {
+    "id": "3d8557f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 65,
+      "reach": 54
+    },
+    "zip_code": "61834",
+    "state": "IL"
+  },
+  {
+    "id": "3db8eb10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 57
+    },
+    "zip_code": "61821",
+    "state": "IL"
+  },
+  {
+    "id": "3de10c80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 78
+    },
+    "zip_code": "61615",
+    "state": "IL"
+  },
+  {
+    "id": "3df70580-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 64
+    },
+    "zip_code": "61108",
+    "state": "IL"
+  },
+  {
+    "id": "3eb26640-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 59
+    },
+    "zip_code": "61701",
+    "state": "IL"
+  },
+  {
+    "id": "3ee0f050-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 77
+    },
+    "zip_code": "60639",
+    "state": "IL"
+  },
+  {
+    "id": "3f20df80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 62
+    },
+    "zip_code": "53209",
+    "state": "WI"
+  },
+  {
+    "id": "3f507b00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 53
+    },
+    "zip_code": "53202",
+    "state": "WI"
+  },
+  {
+    "id": "3f72a900-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 75
+    },
+    "zip_code": "53188",
+    "state": "WI"
+  },
+  {
+    "id": "3f96d2d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 44
+    },
+    "zip_code": "53227",
+    "state": "WI"
+  },
+  {
+    "id": "3ff98c40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 64
+    },
+    "zip_code": "84010",
+    "state": "UT"
+  },
+  {
+    "id": "4007bd10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 85,
+      "reach": 59
+    },
+    "zip_code": "53218",
+    "state": "WI"
+  },
+  {
+    "id": "400dd790-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 52
+    },
+    "zip_code": "53142",
+    "state": "WI"
+  },
+  {
+    "id": "402afc80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 57
+    },
+    "zip_code": "53212",
+    "state": "WI"
+  },
+  {
+    "id": "403dc130-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 85,
+      "reach": 59
+    },
+    "zip_code": "53143",
+    "state": "WI"
+  },
+  {
+    "id": "40523390-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 56
+    },
+    "zip_code": "53511",
+    "state": "WI"
+  },
+  {
+    "id": "40619ce0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 65
+    },
+    "zip_code": "74135",
+    "state": "OK"
+  },
+  {
+    "id": "4073ec60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 46
+    },
+    "zip_code": "73160",
+    "state": "OK"
+  },
+  {
+    "id": "40a583b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 65
+    },
+    "zip_code": "73130",
+    "state": "OK"
+  },
+  {
+    "id": "40bc4000-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 66
+    },
+    "zip_code": "73071",
+    "state": "OK"
+  },
+  {
+    "id": "40c7b1b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 52
+    },
+    "zip_code": "53132",
+    "state": "WI"
+  },
+  {
+    "id": "4105a510-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 65
+    },
+    "zip_code": "53545",
+    "state": "WI"
+  },
+  {
+    "id": "415f5dd0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 57
+    },
+    "zip_code": "94110",
+    "state": "CA"
+  },
+  {
+    "id": "41c8f510-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 56
+    },
+    "zip_code": "53115",
+    "state": "WI"
+  },
+  {
+    "id": "423858b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 63
+    },
+    "zip_code": "74403",
+    "state": "OK"
+  },
+  {
+    "id": "42570440-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "74429",
+    "state": "OK"
+  },
+  {
+    "id": "428455d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 57
+    },
+    "zip_code": "74953",
+    "state": "OK"
+  },
+  {
+    "id": "42ac5030-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 36
+    },
+    "zip_code": "73703",
+    "state": "OK"
+  },
+  {
+    "id": "42bb9270-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 55
+    },
+    "zip_code": "74133",
+    "state": "OK"
+  },
+  {
+    "id": "43139d80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 58
+    },
+    "zip_code": "73013",
+    "state": "OK"
+  },
+  {
+    "id": "4320e3f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 60
+    },
+    "zip_code": "84070",
+    "state": "UT"
+  },
+  {
+    "id": "43309b60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 45
+    },
+    "zip_code": "73132",
+    "state": "OK"
+  },
+  {
+    "id": "434e0e70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 55
+    },
+    "zip_code": "74012",
+    "state": "OK"
+  },
+  {
+    "id": "4355af90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 59
+    },
+    "zip_code": "74344",
+    "state": "OK"
+  },
+  {
+    "id": "4367d800-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 56
+    },
+    "zip_code": "73036",
+    "state": "OK"
+  },
+  {
+    "id": "4376f330-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 58
+    },
+    "zip_code": "74066",
+    "state": "OK"
+  },
+  {
+    "id": "43863570-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 50
+    },
+    "zip_code": "73064",
+    "state": "OK"
+  },
+  {
+    "id": "439836d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 59
+    },
+    "zip_code": "74464",
+    "state": "OK"
+  },
+  {
+    "id": "43a81550-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 58
+    },
+    "zip_code": "73505",
+    "state": "OK"
+  },
+  {
+    "id": "43ec9860-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 57
+    },
+    "zip_code": "73521",
+    "state": "OK"
+  },
+  {
+    "id": "446ee7c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 54
+    },
+    "zip_code": "74354",
+    "state": "OK"
+  },
+  {
+    "id": "44881510-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 57
+    },
+    "zip_code": "74006",
+    "state": "OK"
+  },
+  {
+    "id": "452f0370-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 93,
+      "reach": 66
+    },
+    "zip_code": "94102",
+    "state": "CA"
+  },
+  {
+    "id": "45a67d60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 63
+    },
+    "zip_code": "74955",
+    "state": "OK"
+  },
+  {
+    "id": "45b8a5d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 54
+    },
+    "zip_code": "74701",
+    "state": "OK"
+  },
+  {
+    "id": "45ceecf0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 48
+    },
+    "zip_code": "73801-6735",
+    "state": "OK"
+  },
+  {
+    "id": "45f16910-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 70
+    },
+    "zip_code": "73099",
+    "state": "OK"
+  },
+  {
+    "id": "46025900-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 85,
+      "reach": 60
+    },
+    "zip_code": "94030",
+    "state": "CA"
+  },
+  {
+    "id": "460e3fe0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 68
+    },
+    "zip_code": "91601",
+    "state": "CA"
+  },
+  {
+    "id": "464a5e80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 51
+    },
+    "zip_code": "92571",
+    "state": "CA"
+  },
+  {
+    "id": "4654e5d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 53
+    },
+    "zip_code": "92220",
+    "state": "CA"
+  },
+  {
+    "id": "466168f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 52
+    },
+    "zip_code": "29801",
+    "state": "SC"
+  },
+  {
+    "id": "467761f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 60
+    },
+    "zip_code": "74804",
+    "state": "OK"
+  },
+  {
+    "id": "46865610-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 67
+    },
+    "zip_code": "74129",
+    "state": "OK"
+  },
+  {
+    "id": "469ff890-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 55
+    },
+    "zip_code": "29680",
+    "state": "SC"
+  },
+  {
+    "id": "46ae9e90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 47
+    },
+    "zip_code": "74501",
+    "state": "OK"
+  },
+  {
+    "id": "46bc0c10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 57
+    },
+    "zip_code": "84116",
+    "state": "UT"
+  },
+  {
+    "id": "46cfbb20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 33
+    },
+    "zip_code": "74017",
+    "state": "OK"
+  },
+  {
+    "id": "472de0b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 73
+    },
+    "zip_code": "94609",
+    "state": "CA"
+  },
+  {
+    "id": "474894a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 50
+    },
+    "zip_code": "29532",
+    "state": "SC"
+  },
+  {
+    "id": "47759810-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 58
+    },
+    "zip_code": "29169",
+    "state": "SC"
+  },
+  {
+    "id": "47b0f360-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 69
+    },
+    "zip_code": "93308",
+    "state": "CA"
+  },
+  {
+    "id": "47cbf570-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 43
+    },
+    "zip_code": "87107",
+    "state": "NM"
+  },
+  {
+    "id": "47eb1630-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 53
+    },
+    "zip_code": "63114",
+    "state": "MO"
+  },
+  {
+    "id": "489d2820-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 62
+    },
+    "zip_code": "65803",
+    "state": "MO"
+  },
+  {
+    "id": "48acb880-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 67
+    },
+    "zip_code": "29745",
+    "state": "SC"
+  },
+  {
+    "id": "48c87de0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 54
+    },
+    "zip_code": "90660",
+    "state": "CA"
+  },
+  {
+    "id": "48d48bd0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 61
+    },
+    "zip_code": "91767",
+    "state": "CA"
+  },
+  {
+    "id": "48eea380-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 85,
+      "reach": 55
+    },
+    "zip_code": "93536",
+    "state": "CA"
+  },
+  {
+    "id": "491fecb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 67
+    },
+    "zip_code": "87120",
+    "state": "NM"
+  },
+  {
+    "id": "49339bc0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 63
+    },
+    "zip_code": "93905",
+    "state": "CA"
+  },
+  {
+    "id": "494b1b60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 59
+    },
+    "zip_code": "92806",
+    "state": "CA"
+  },
+  {
+    "id": "495ea360-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 51
+    },
+    "zip_code": "29485",
+    "state": "SC"
+  },
+  {
+    "id": "496cad20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 91,
+      "reach": 57
+    },
+    "zip_code": "93550",
+    "state": "CA"
+  },
+  {
+    "id": "49775b80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 61,
+      "reach": 6
+    },
+    "zip_code": "88220",
+    "state": "NM"
+  },
+  {
+    "id": "498dc9b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 65,
+      "reach": 69
+    },
+    "zip_code": "32763",
+    "state": "FL"
+  },
+  {
+    "id": "498fc580-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 42
+    },
+    "zip_code": "84074",
+    "state": "UT"
+  },
+  {
+    "id": "499a4cd0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 58
+    },
+    "zip_code": "54303",
+    "state": "WI"
+  },
+  {
+    "id": "4a048050-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 62
+    },
+    "zip_code": "58103",
+    "state": "ND"
+  },
+  {
+    "id": "4a985be0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 60,
+      "reach": 52
+    },
+    "zip_code": "58701",
+    "state": "ND"
+  },
+  {
+    "id": "4ad95c80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 56
+    },
+    "zip_code": "60443",
+    "state": "IL"
+  },
+  {
+    "id": "4ae67be0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 50
+    },
+    "zip_code": "41017",
+    "state": "KY"
+  },
+  {
+    "id": "4aef7c90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 57
+    },
+    "zip_code": "74820",
+    "state": "OK"
+  },
+  {
+    "id": "4b4c4290-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 62
+    },
+    "zip_code": "32223",
+    "state": "FL"
+  },
+  {
+    "id": "4b54a700-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 55
+    },
+    "zip_code": "92373",
+    "state": "CA"
+  },
+  {
+    "id": "4bdf0cb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 16
+    },
+    "zip_code": "92104",
+    "state": "CA"
+  },
+  {
+    "id": "4be686c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 18
+    },
+    "zip_code": "92109",
+    "state": "CA"
+  },
+  {
+    "id": "4bf6b360-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 49
+    },
+    "zip_code": "58401",
+    "state": "ND"
+  },
+  {
+    "id": "4c0ab090-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 42
+    },
+    "zip_code": "60620",
+    "state": "IL"
+  },
+  {
+    "id": "4c36a290-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 57
+    },
+    "zip_code": "41076",
+    "state": "KY"
+  },
+  {
+    "id": "4c43c1f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 59
+    },
+    "zip_code": "41042",
+    "state": "KY"
+  },
+  {
+    "id": "4c51cbb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 45
+    },
+    "zip_code": "48223",
+    "state": "MI"
+  },
+  {
+    "id": "4c618320-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 52
+    },
+    "zip_code": "41056",
+    "state": "KY"
+  },
+  {
+    "id": "4c6d3860-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 43
+    },
+    "zip_code": "75951",
+    "state": "TX"
+  },
+  {
+    "id": "4c705030-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 56
+    },
+    "zip_code": "58504",
+    "state": "ND"
+  },
+  {
+    "id": "4c775510-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 24
+    },
+    "zip_code": "32224",
+    "state": "FL"
+  },
+  {
+    "id": "4c884500-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 72
+    },
+    "zip_code": "35208",
+    "state": "AL"
+  },
+  {
+    "id": "4ca0d610-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 52
+    },
+    "zip_code": "74601",
+    "state": "OK"
+  },
+  {
+    "id": "4cc2f980-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 59
+    },
+    "zip_code": "32210",
+    "state": "FL"
+  },
+  {
+    "id": "4cf41ba0-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 69
+    },
+    "zip_code": "64055",
+    "state": "MO"
+  },
+  {
+    "id": "4d0be960-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 46
+    },
+    "zip_code": "76033",
+    "state": "TX"
+  },
+  {
+    "id": "4d1a4140-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 47
+    },
+    "zip_code": "90041",
+    "state": "CA"
+  },
+  {
+    "id": "4d2d3790-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 66
+    },
+    "zip_code": "35601",
+    "state": "AL"
+  },
+  {
+    "id": "4d3cc7f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 54
+    },
+    "zip_code": "93420",
+    "state": "CA"
+  },
+  {
+    "id": "4d46da10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "36867",
+    "state": "AL"
+  },
+  {
+    "id": "4d7abb50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 58
+    },
+    "zip_code": "73122",
+    "state": "OK"
+  },
+  {
+    "id": "4d88c510-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 68
+    },
+    "zip_code": "41011",
+    "state": "KY"
+  },
+  {
+    "id": "4d9dd3b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 49
+    },
+    "zip_code": "35128",
+    "state": "AL"
+  },
+  {
+    "id": "4da32050-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 48
+    },
+    "zip_code": "73005",
+    "state": "OK"
+  },
+  {
+    "id": "4db77630-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 50
+    },
+    "zip_code": "65109",
+    "state": "MO"
+  },
+  {
+    "id": "4e369140-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 47
+    },
+    "zip_code": "73003",
+    "state": "OK"
+  },
+  {
+    "id": "4e659080-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 62,
+      "reach": 49
+    },
+    "zip_code": "74106",
+    "state": "OK"
+  },
+  {
+    "id": "4e765960-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 50
+    },
+    "zip_code": "93454",
+    "state": "CA"
+  },
+  {
+    "id": "4e907110-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 60
+    },
+    "zip_code": "73107",
+    "state": "OK"
+  },
+  {
+    "id": "4ea139f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 47
+    },
+    "zip_code": "84721",
+    "state": "84721"
+  },
+  {
+    "id": "4f0eefe0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 55
+    },
+    "zip_code": "62221",
+    "state": "IL"
+  },
+  {
+    "id": "4f23fe80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 52
+    },
+    "zip_code": "36206",
+    "state": "AL"
+  },
+  {
+    "id": "4f325660-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 54
+    },
+    "zip_code": "35476",
+    "state": "AL"
+  },
+  {
+    "id": "4f3b3000-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 63,
+      "reach": 3
+    },
+    "zip_code": "35235",
+    "state": "AL"
+  },
+  {
+    "id": "4f587c00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 63
+    },
+    "zip_code": "36116",
+    "state": "AL"
+  },
+  {
+    "id": "4f5d5e00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 63,
+      "reach": 44
+    },
+    "zip_code": "73644",
+    "state": "OK"
+  },
+  {
+    "id": "4f68f6c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 58
+    },
+    "zip_code": "83301",
+    "state": "ID"
+  },
+  {
+    "id": "4f95d320-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 66
+    },
+    "zip_code": "35124",
+    "state": "AL"
+  },
+  {
+    "id": "4fb939a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 62
+    },
+    "zip_code": "84067",
+    "state": "UT"
+  },
+  {
+    "id": "4fbbd1b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 54
+    },
+    "zip_code": "35633",
+    "state": "AL"
+  },
+  {
+    "id": "4fbff060-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 61,
+      "reach": 5
+    },
+    "zip_code": "36303",
+    "state": "AL"
+  },
+  {
+    "id": "4fdacb60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 54
+    },
+    "zip_code": "35661",
+    "state": "AL"
+  },
+  {
+    "id": "5015b180-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 87,
+      "reach": 53
+    },
+    "zip_code": "35045",
+    "state": "AL"
+  },
+  {
+    "id": "50367ff0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 62
+    },
+    "zip_code": "36695",
+    "state": "AL"
+  },
+  {
+    "id": "50766f20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "35654",
+    "state": "AL"
+  },
+  {
+    "id": "50bc03a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 44
+    },
+    "zip_code": "36203",
+    "state": "AL"
+  },
+  {
+    "id": "50f7fb30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 61
+    },
+    "zip_code": "63026",
+    "state": "MO"
+  },
+  {
+    "id": "51139980-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 58
+    },
+    "zip_code": "35068",
+    "state": "AL"
+  },
+  {
+    "id": "51acf350-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "73533",
+    "state": "OK"
+  },
+  {
+    "id": "52726630-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 62
+    },
+    "zip_code": "63139",
+    "state": "MO"
+  },
+  {
+    "id": "528ddd70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 51
+    },
+    "zip_code": "36619",
+    "state": "AL"
+  },
+  {
+    "id": "52c0fb60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 61
+    },
+    "zip_code": "36607",
+    "state": "AL"
+  },
+  {
+    "id": "53169570-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 56
+    },
+    "zip_code": "35020",
+    "state": "AL"
+  },
+  {
+    "id": "5319a2b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 48
+    },
+    "zip_code": "36703",
+    "state": "AL"
+  },
+  {
+    "id": "534630f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 50
+    },
+    "zip_code": "52577",
+    "state": "IA"
+  },
+  {
+    "id": "534c7280-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 27
+    },
+    "zip_code": "35007",
+    "state": "AL"
+  },
+  {
+    "id": "534e9560-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 53
+    },
+    "zip_code": "92236",
+    "state": "CA"
+  },
+  {
+    "id": "53677490-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 49
+    },
+    "zip_code": "50501",
+    "state": "IA"
+  },
+  {
+    "id": "537d4680-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 57
+    },
+    "zip_code": "29582",
+    "state": "SC"
+  },
+  {
+    "id": "538c3aa0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 52
+    },
+    "zip_code": "47274",
+    "state": "IN"
+  },
+  {
+    "id": "53a085f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 26
+    },
+    "zip_code": "35210",
+    "state": "AL"
+  },
+  {
+    "id": "53adcc60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 57
+    },
+    "zip_code": "63385",
+    "state": "MO"
+  },
+  {
+    "id": "53bc4b50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 43
+    },
+    "zip_code": "35976",
+    "state": "AL"
+  },
+  {
+    "id": "53da0c80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 37
+    },
+    "zip_code": "50208",
+    "state": "IA"
+  },
+  {
+    "id": "53ee57d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 22
+    },
+    "zip_code": "35950",
+    "state": "AL"
+  },
+  {
+    "id": "54031850-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 51
+    },
+    "zip_code": "35023",
+    "state": "AL"
+  },
+  {
+    "id": "54184e00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 52
+    },
+    "zip_code": "73401",
+    "state": "OK"
+  },
+  {
+    "id": "542ebc30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 47
+    },
+    "zip_code": "73717",
+    "state": "OK"
+  },
+  {
+    "id": "54346180-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 62,
+      "reach": 57
+    },
+    "zip_code": "35228",
+    "state": "AL"
+  },
+  {
+    "id": "5570b210-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 60
+    },
+    "zip_code": "73120",
+    "state": "OK"
+  },
+  {
+    "id": "557dd170-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 47
+    },
+    "zip_code": "73065",
+    "state": "OK"
+  },
+  {
+    "id": "55930720-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 54,
+      "reach": 1
+    },
+    "zip_code": "52655",
+    "state": "IA"
+  },
+  {
+    "id": "55a97550-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 57
+    },
+    "zip_code": "73115",
+    "state": "OK"
+  },
+  {
+    "id": "55dce160-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 66,
+      "reach": 46
+    },
+    "zip_code": "48059",
+    "state": "MI"
+  },
+  {
+    "id": "55e37110-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 56
+    },
+    "zip_code": "93955",
+    "state": "CA"
+  },
+  {
+    "id": "55f57270-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 59
+    },
+    "zip_code": "83854",
+    "state": "ID"
+  },
+  {
+    "id": "560773d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 60
+    },
+    "zip_code": "74437",
+    "state": "OK"
+  },
+  {
+    "id": "56146c20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "62269",
+    "state": "IL"
+  },
+  {
+    "id": "561f68a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 50
+    },
+    "zip_code": "95965",
+    "state": "CA"
+  },
+  {
+    "id": "562f9540-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 43
+    },
+    "zip_code": "74631",
+    "state": "OK"
+  },
+  {
+    "id": "564d2f60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 88,
+      "reach": 65
+    },
+    "zip_code": "44103",
+    "state": "OH"
+  },
+  {
+    "id": "565b6030-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 87,
+      "reach": 58
+    },
+    "zip_code": "29640",
+    "state": "SC"
+  },
+  {
+    "id": "5661c8d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 57
+    },
+    "zip_code": "42003",
+    "state": "KY"
+  },
+  {
+    "id": "56936020-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 50
+    },
+    "zip_code": "74070",
+    "state": "OK"
+  },
+  {
+    "id": "56a401f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 47
+    },
+    "zip_code": "92284",
+    "state": "CA"
+  },
+  {
+    "id": "56ab06d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 53
+    },
+    "zip_code": "35954",
+    "state": "AL"
+  },
+  {
+    "id": "56b7ff20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 60
+    },
+    "zip_code": "48423",
+    "state": "MI"
+  },
+  {
+    "id": "56d1c8b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 38
+    },
+    "zip_code": "35214",
+    "state": "AL"
+  },
+  {
+    "id": "56f4e110-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 46
+    },
+    "zip_code": "47933",
+    "state": "IN"
+  },
+  {
+    "id": "57cc2e40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 59,
+      "reach": 53
+    },
+    "zip_code": "36421-2403",
+    "state": "36421-2403"
+  },
+  {
+    "id": "57e645f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "84078",
+    "state": "UT"
+  },
+  {
+    "id": "57f009f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 55
+    },
+    "zip_code": "92234",
+    "state": "CA"
+  },
+  {
+    "id": "57f6c0b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "35803",
+    "state": "AL"
+  },
+  {
+    "id": "5807fec0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 45
+    },
+    "zip_code": "47025",
+    "state": "IN"
+  },
+  {
+    "id": "5815e170-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 44
+    },
+    "zip_code": "63106",
+    "state": "MO"
+  },
+  {
+    "id": "582aa1f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 53
+    },
+    "zip_code": "84065",
+    "state": "UT"
+  },
+  {
+    "id": "58374c20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 57
+    },
+    "zip_code": "46231",
+    "state": "IN"
+  },
+  {
+    "id": "5857f380-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 11
+    },
+    "zip_code": "93654",
+    "state": "CA"
+  },
+  {
+    "id": "58708490-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 64
+    },
+    "zip_code": "92404",
+    "state": "CA"
+  },
+  {
+    "id": "58803c00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 66,
+      "reach": 45
+    },
+    "zip_code": "84790",
+    "state": "UT"
+  },
+  {
+    "id": "58921650-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 68
+    },
+    "zip_code": "46143",
+    "state": "IN"
+  },
+  {
+    "id": "58a9bd00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 51
+    },
+    "zip_code": "67114",
+    "state": "KS"
+  },
+  {
+    "id": "58b7edd0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 51
+    },
+    "zip_code": "83642",
+    "state": "ID"
+  },
+  {
+    "id": "58c1b1d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 45
+    },
+    "zip_code": "95370",
+    "state": "CA"
+  },
+  {
+    "id": "58ec1d30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 2
+    },
+    "zip_code": "66762",
+    "state": "KS"
+  },
+  {
+    "id": "59155010-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 40
+    },
+    "zip_code": "92301",
+    "state": "CA"
+  },
+  {
+    "id": "59584c80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 51
+    },
+    "zip_code": "67217",
+    "state": "KS"
+  },
+  {
+    "id": "595b32b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 62
+    },
+    "zip_code": "46385",
+    "state": "IN"
+  },
+  {
+    "id": "59637010-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 48
+    },
+    "zip_code": "48116",
+    "state": "MI"
+  },
+  {
+    "id": "59b19010-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 53
+    },
+    "zip_code": "50021",
+    "state": "IA"
+  },
+  {
+    "id": "59d9d890-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 47
+    },
+    "zip_code": "67010",
+    "state": "KS"
+  },
+  {
+    "id": "59e85780-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 38
+    },
+    "zip_code": "67042",
+    "state": "KS"
+  },
+  {
+    "id": "59fb1c30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 57
+    },
+    "zip_code": "66112",
+    "state": "KS"
+  },
+  {
+    "id": "5a0a8580-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 64,
+      "reach": 49
+    },
+    "zip_code": "29316",
+    "state": "SC"
+  },
+  {
+    "id": "5a16e190-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 62
+    },
+    "zip_code": "66046",
+    "state": "KS"
+  },
+  {
+    "id": "5a3035f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 54
+    },
+    "zip_code": "67801",
+    "state": "KS"
+  },
+  {
+    "id": "5a3f2a10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 62
+    },
+    "zip_code": "95076",
+    "state": "CA"
+  },
+  {
+    "id": "5a5a2c20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 43
+    },
+    "zip_code": "67846",
+    "state": "KS"
+  },
+  {
+    "id": "5a71d2d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 66,
+      "reach": 62
+    },
+    "zip_code": "29730",
+    "state": "SC"
+  },
+  {
+    "id": "5aa3df50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 34
+    },
+    "zip_code": "66204",
+    "state": "KS"
+  },
+  {
+    "id": "5aa4c9b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 25
+    },
+    "zip_code": "67220",
+    "state": "KS"
+  },
+  {
+    "id": "5aa8e860-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 55
+    },
+    "zip_code": "57105",
+    "state": "SD"
+  },
+  {
+    "id": "5abb8600-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 58,
+      "reach": 41
+    },
+    "zip_code": "66502",
+    "state": "KS"
+  },
+  {
+    "id": "5b044ed0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 47
+    },
+    "zip_code": "67901",
+    "state": "KS"
+  },
+  {
+    "id": "5b1342f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 51
+    },
+    "zip_code": "67501",
+    "state": "KS"
+  },
+  {
+    "id": "5b23e4c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 59
+    },
+    "zip_code": "94928",
+    "state": "CA"
+  },
+  {
+    "id": "5b932150-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 47
+    },
+    "zip_code": "54449",
+    "state": "WI"
+  },
+  {
+    "id": "5c6cb870-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 61
+    },
+    "zip_code": "57103",
+    "state": "SD"
+  },
+  {
+    "id": "5c89dd60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 55
+    },
+    "zip_code": "95642",
+    "state": "CA"
+  },
+  {
+    "id": "5cafdbf0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 60
+    },
+    "zip_code": "66441",
+    "state": "KS"
+  },
+  {
+    "id": "5ceb8560-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 65,
+      "reach": 34
+    },
+    "zip_code": "57006",
+    "state": "SD"
+  },
+  {
+    "id": "5d172940-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 47
+    },
+    "zip_code": "69361",
+    "state": "NE"
+  },
+  {
+    "id": "5d28dc80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 47
+    },
+    "zip_code": "69101",
+    "state": "NE"
+  },
+  {
+    "id": "5d2de590-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 43
+    },
+    "zip_code": "54982",
+    "state": "WI"
+  },
+  {
+    "id": "5d405c20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 54
+    },
+    "zip_code": "68847",
+    "state": "NE"
+  },
+  {
+    "id": "5d51c140-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 59
+    },
+    "zip_code": "50701",
+    "state": "IA"
+  },
+  {
+    "id": "5d6b15a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 64,
+      "reach": 18
+    },
+    "zip_code": "52002",
+    "state": "IA"
+  },
+  {
+    "id": "5d80e790-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 39
+    },
+    "zip_code": "02895",
+    "state": "RI"
+  },
+  {
+    "id": "5da55f80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 53
+    },
+    "zip_code": "57401",
+    "state": "SD"
+  },
+  {
+    "id": "5db3de70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 49
+    },
+    "zip_code": "68005",
+    "state": "NE"
+  },
+  {
+    "id": "5dd2d820-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 67
+    },
+    "zip_code": "60160",
+    "state": "IL"
+  },
+  {
+    "id": "5deb9040-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 62
+    },
+    "zip_code": "02886",
+    "state": "RI"
+  },
+  {
+    "id": "5dfa3640-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 56
+    },
+    "zip_code": "57701",
+    "state": "SD"
+  },
+  {
+    "id": "5e1c1620-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 49
+    },
+    "zip_code": "48080",
+    "state": "MI"
+  },
+  {
+    "id": "5e205be0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 55
+    },
+    "zip_code": "57201",
+    "state": "SD"
+  },
+  {
+    "id": "5e267660-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 46
+    },
+    "zip_code": "57078",
+    "state": "SD"
+  },
+  {
+    "id": "5e53ef00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 63
+    },
+    "zip_code": "66102",
+    "state": "KS"
+  },
+  {
+    "id": "5e83ffb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 59
+    },
+    "zip_code": "64138",
+    "state": "MO"
+  },
+  {
+    "id": "5e945360-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 57
+    },
+    "zip_code": "62702",
+    "state": "IL"
+  },
+  {
+    "id": "5ec30480-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 56
+    },
+    "zip_code": "68510",
+    "state": "NE"
+  },
+  {
+    "id": "5eff4a30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 64,
+      "reach": 29
+    },
+    "zip_code": "92562",
+    "state": "CA"
+  },
+  {
+    "id": "5f70d0b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 53
+    },
+    "zip_code": "68025",
+    "state": "NE"
+  },
+  {
+    "id": "5f856a20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 44
+    },
+    "zip_code": "68776",
+    "state": "NE"
+  },
+  {
+    "id": "5f952190-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 44
+    },
+    "zip_code": "57501",
+    "state": "SD"
+  },
+  {
+    "id": "5fd18e50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 56
+    },
+    "zip_code": "66043",
+    "state": "KS"
+  },
+  {
+    "id": "5fdb0430-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 50
+    },
+    "zip_code": "64506",
+    "state": "MO"
+  },
+  {
+    "id": "5fef2870-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 40
+    },
+    "zip_code": "48629",
+    "state": "MI"
+  },
+  {
+    "id": "600150e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 47
+    },
+    "zip_code": "48038",
+    "state": "MI"
+  },
+  {
+    "id": "60094020-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 41
+    },
+    "zip_code": "57350",
+    "state": "SD"
+  },
+  {
+    "id": "601dd990-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 46
+    },
+    "zip_code": "68701",
+    "state": "NE"
+  },
+  {
+    "id": "60473380-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 58
+    },
+    "zip_code": "02888",
+    "state": "RI"
+  },
+  {
+    "id": "60500d20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 58
+    },
+    "zip_code": "37334",
+    "state": "TN"
+  },
+  {
+    "id": "605e6500-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 66
+    },
+    "zip_code": "35094",
+    "state": "AL"
+  },
+  {
+    "id": "6066a260-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 73
+    },
+    "zip_code": "02908",
+    "state": "RI"
+  },
+  {
+    "id": "60760bb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 47
+    },
+    "zip_code": "54166",
+    "state": "WI"
+  },
+  {
+    "id": "608240b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 65,
+      "reach": 9
+    },
+    "zip_code": "84501",
+    "state": "UT"
+  },
+  {
+    "id": "60a7f120-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "83852",
+    "state": "83852"
+  },
+  {
+    "id": "60aab040-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 39
+    },
+    "zip_code": "96097",
+    "state": "CA"
+  },
+  {
+    "id": "60ea7860-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 49
+    },
+    "zip_code": "44870",
+    "state": "OH"
+  },
+  {
+    "id": "61389860-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 66,
+      "reach": 50
+    },
+    "zip_code": "37821",
+    "state": "TN"
+  },
+  {
+    "id": "61d6d430-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 89,
+      "reach": 41
+    },
+    "zip_code": "90042",
+    "state": "CA"
+  },
+  {
+    "id": "61e971d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 87,
+      "reach": 55
+    },
+    "zip_code": "32217",
+    "state": "FL"
+  },
+  {
+    "id": "61f7c9b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 85,
+      "reach": 65
+    },
+    "zip_code": "67601",
+    "state": "KS"
+  },
+  {
+    "id": "620a4040-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 59
+    },
+    "zip_code": "19720",
+    "state": "DE"
+  },
+  {
+    "id": "622409d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 88,
+      "reach": 71
+    },
+    "zip_code": "19713",
+    "state": "DE"
+  },
+  {
+    "id": "622d7fb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 57
+    },
+    "zip_code": "19801",
+    "state": "DE"
+  },
+  {
+    "id": "623aed30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 65
+    },
+    "zip_code": "36830",
+    "state": "AL"
+  },
+  {
+    "id": "62b39fa0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 51
+    },
+    "zip_code": "68112",
+    "state": "NE"
+  },
+  {
+    "id": "62de3210-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 90,
+      "reach": 34
+    },
+    "zip_code": "93555",
+    "state": "CA"
+  },
+  {
+    "id": "631e9670-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 49
+    },
+    "zip_code": "61021",
+    "state": "IL"
+  },
+  {
+    "id": "632b67b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 52
+    },
+    "zip_code": "37862",
+    "state": "TN"
+  },
+  {
+    "id": "6331d050-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 61
+    },
+    "zip_code": "35758",
+    "state": "AL"
+  },
+  {
+    "id": "63449500-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 45
+    },
+    "zip_code": "64870",
+    "state": "MO"
+  },
+  {
+    "id": "634f1c50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 32
+    },
+    "zip_code": "73080",
+    "state": "OK"
+  },
+  {
+    "id": "635d7430-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 52
+    },
+    "zip_code": "02904",
+    "state": "RI"
+  },
+  {
+    "id": "636c4140-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 59
+    },
+    "zip_code": "33803",
+    "state": "FL"
+  },
+  {
+    "id": "6381ec20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 54
+    },
+    "zip_code": "67301",
+    "state": "KS"
+  },
+  {
+    "id": "63932a30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 33
+    },
+    "zip_code": "50801",
+    "state": "IA"
+  },
+  {
+    "id": "63f128b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 42
+    },
+    "zip_code": "29687",
+    "state": "SC"
+  },
+  {
+    "id": "641aa9b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 66,
+      "reach": 45
+    },
+    "zip_code": "29070",
+    "state": "SC"
+  },
+  {
+    "id": "647b6750-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 55
+    },
+    "zip_code": "32216",
+    "state": "FL"
+  },
+  {
+    "id": "64930e00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 48
+    },
+    "zip_code": "93657",
+    "state": "CA"
+  },
+  {
+    "id": "64fc7e30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 48
+    },
+    "zip_code": "40324",
+    "state": "KY"
+  },
+  {
+    "id": "6507efe0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 44
+    },
+    "zip_code": "48371",
+    "state": "MI"
+  },
+  {
+    "id": "651d9ac0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 56
+    },
+    "zip_code": "36693",
+    "state": "AL"
+  },
+  {
+    "id": "653827a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 42
+    },
+    "zip_code": "37076",
+    "state": "TN"
+  },
+  {
+    "id": "65c09180-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 53
+    },
+    "zip_code": "29526",
+    "state": "SC"
+  },
+  {
+    "id": "65edbc00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 56
+    },
+    "zip_code": "33702",
+    "state": "FL"
+  },
+  {
+    "id": "65fadb60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 52
+    },
+    "zip_code": "33881",
+    "state": "FL"
+  },
+  {
+    "id": "660821d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 44
+    },
+    "zip_code": "33711",
+    "state": "FL"
+  },
+  {
+    "id": "6617d940-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 49
+    },
+    "zip_code": "50009",
+    "state": "IA"
+  },
+  {
+    "id": "66267f40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 44
+    },
+    "zip_code": "47670",
+    "state": "IN"
+  },
+  {
+    "id": "6635c180-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 53
+    },
+    "zip_code": "32738",
+    "state": "FL"
+  },
+  {
+    "id": "663e9b20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 60,
+      "reach": 41
+    },
+    "zip_code": "93223",
+    "state": "CA"
+  },
+  {
+    "id": "66544600-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 51
+    },
+    "zip_code": "50588",
+    "state": "IA"
+  },
+  {
+    "id": "665e5820-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 47
+    },
+    "zip_code": "19934",
+    "state": "DE"
+  },
+  {
+    "id": "666de880-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 39
+    },
+    "zip_code": "47601",
+    "state": "IN"
+  },
+  {
+    "id": "6675b0b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 61
+    },
+    "zip_code": "19901",
+    "state": "DE"
+  },
+  {
+    "id": "66e7d370-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 45
+    },
+    "zip_code": "42330",
+    "state": "KY"
+  },
+  {
+    "id": "674f47d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 38
+    },
+    "zip_code": "74361",
+    "state": "OK"
+  },
+  {
+    "id": "6767d8e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 41
+    },
+    "zip_code": "63640",
+    "state": "MO"
+  },
+  {
+    "id": "67cba3c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 60
+    },
+    "zip_code": "42301",
+    "state": "KY"
+  },
+  {
+    "id": "67e87a90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 57
+    },
+    "zip_code": "47710",
+    "state": "IN"
+  },
+  {
+    "id": "67fbdb80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 53
+    },
+    "zip_code": "32216",
+    "state": "FL"
+  },
+  {
+    "id": "6805eda0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 89,
+      "reach": 57
+    },
+    "zip_code": "92509",
+    "state": "CA"
+  },
+  {
+    "id": "68815f30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 45
+    },
+    "zip_code": "65301",
+    "state": "MO"
+  },
+  {
+    "id": "68cb8790-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 45
+    },
+    "zip_code": "67216",
+    "state": "KS"
+  },
+  {
+    "id": "6919f5b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "02842",
+    "state": "RI"
+  },
+  {
+    "id": "69391670-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 51
+    },
+    "zip_code": "37217",
+    "state": "TN"
+  },
+  {
+    "id": "6984c570-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 49
+    },
+    "zip_code": "66720",
+    "state": "KS"
+  },
+  {
+    "id": "6a1370e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 50
+    },
+    "zip_code": "47714",
+    "state": "IN"
+  },
+  {
+    "id": "6a3095d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 2
+    },
+    "zip_code": "77351",
+    "state": "TX"
+  },
+  {
+    "id": "6a481570-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 29
+    },
+    "zip_code": "67156",
+    "state": "KS"
+  },
+  {
+    "id": "6a5e83a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 46
+    },
+    "zip_code": "58801",
+    "state": "ND"
+  },
+  {
+    "id": "6a7259c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 38
+    },
+    "zip_code": "19977",
+    "state": "DE"
+  },
+  {
+    "id": "6a80d8b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 44
+    },
+    "zip_code": "74146",
+    "state": "OK"
+  },
+  {
+    "id": "6a8fccd0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 85,
+      "reach": 56
+    },
+    "zip_code": "93291",
+    "state": "CA"
+  },
+  {
+    "id": "6aa66210-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 53
+    },
+    "zip_code": "42431",
+    "state": "KY"
+  },
+  {
+    "id": "6abe56e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 49
+    },
+    "zip_code": "41005",
+    "state": "KY"
+  },
+  {
+    "id": "6afb38d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "77511",
+    "state": "TX"
+  },
+  {
+    "id": "6b7809f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 60,
+      "reach": 37
+    },
+    "zip_code": "88240",
+    "state": "NM"
+  },
+  {
+    "id": "6b8eed50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 44
+    },
+    "zip_code": "94523",
+    "state": "CA"
+  },
+  {
+    "id": "6b983c20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 52
+    },
+    "zip_code": "42001",
+    "state": "KY"
+  },
+  {
+    "id": "6bc93730-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 66,
+      "reach": 50
+    },
+    "zip_code": "79907",
+    "state": "TX"
+  },
+  {
+    "id": "6bd67da0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 65,
+      "reach": 36
+    },
+    "zip_code": "87701",
+    "state": "NM"
+  },
+  {
+    "id": "6bdce640-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 47
+    },
+    "zip_code": "42301",
+    "state": "KY"
+  },
+  {
+    "id": "6bf02020-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 61,
+      "reach": 35
+    },
+    "zip_code": "33055",
+    "state": "FL"
+  },
+  {
+    "id": "6c395e20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 31
+    },
+    "zip_code": "79925",
+    "state": "TX"
+  },
+  {
+    "id": "6c4963b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 92,
+      "reach": 71
+    },
+    "zip_code": "02919",
+    "state": "RI"
+  },
+  {
+    "id": "6c5375d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 29
+    },
+    "zip_code": "79928",
+    "state": "TX"
+  },
+  {
+    "id": "6ccd12a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 37
+    },
+    "zip_code": "43623",
+    "state": "OH"
+  },
+  {
+    "id": "6cd37b40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 65,
+      "reach": 13
+    },
+    "zip_code": "77023",
+    "state": "TX"
+  },
+  {
+    "id": "6cda0af0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 32
+    },
+    "zip_code": "84601",
+    "state": "UT"
+  },
+  {
+    "id": "6cf3d480-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 37
+    },
+    "zip_code": "87801",
+    "state": "NM"
+  },
+  {
+    "id": "6d014200-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 32
+    },
+    "zip_code": "78521",
+    "state": "TX"
+  },
+  {
+    "id": "6d07f8c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 26
+    },
+    "zip_code": "78413",
+    "state": "TX"
+  },
+  {
+    "id": "6d1a9660-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 32
+    },
+    "zip_code": "87105",
+    "state": "NM"
+  },
+  {
+    "id": "6d666c70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 34
+    },
+    "zip_code": "90241",
+    "state": "CA"
+  },
+  {
+    "id": "6dc30b60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 27
+    },
+    "zip_code": "43616",
+    "state": "OH"
+  },
+  {
+    "id": "6dee6120-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 19
+    },
+    "zip_code": "88005",
+    "state": "NM"
+  },
+  {
+    "id": "6e02ac70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 29
+    },
+    "zip_code": "95628",
+    "state": "CA"
+  },
+  {
+    "id": "6e6c91d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 58,
+      "reach": 33
+    },
+    "zip_code": "95661",
+    "state": "CA"
+  },
+  {
+    "id": "6f0e7720-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 39
+    },
+    "zip_code": "95660",
+    "state": "CA"
+  },
+  {
+    "id": "70925800-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 14
+    },
+    "zip_code": "90242",
+    "state": "CA"
+  },
+  {
+    "id": "70c37a20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 16
+    },
+    "zip_code": "78621",
+    "state": "TX"
+  },
+  {
+    "id": "70caa610-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 33
+    },
+    "zip_code": "91733",
+    "state": "CA"
+  },
+  {
+    "id": "710257e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 22
+    },
+    "zip_code": "87020",
+    "state": "NM"
+  },
+  {
+    "id": "732fbf30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 47
+    },
+    "zip_code": "47129",
+    "state": "IN"
+  },
+  {
+    "id": "734b3670-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 52
+    },
+    "zip_code": "46408-1428",
+    "state": "IN"
+  },
+  {
+    "id": "73526260-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "46368",
+    "state": "IN"
+  },
+  {
+    "id": "735a78b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 41
+    },
+    "zip_code": "46563",
+    "state": "IN"
+  },
+  {
+    "id": "738d6f90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 58
+    },
+    "zip_code": "46013",
+    "state": "IN"
+  },
+  {
+    "id": "73c43700-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 64
+    },
+    "zip_code": "46807",
+    "state": "IN"
+  },
+  {
+    "id": "73ee0620-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 60
+    },
+    "zip_code": "47905",
+    "state": "IN"
+  },
+  {
+    "id": "74025170-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 72
+    },
+    "zip_code": "47803",
+    "state": "IN"
+  },
+  {
+    "id": "741b30a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 44
+    },
+    "zip_code": "47172",
+    "state": "IN"
+  },
+  {
+    "id": "742da730-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 54
+    },
+    "zip_code": "47112",
+    "state": "IN"
+  },
+  {
+    "id": "74356f60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 41
+    },
+    "zip_code": "46307",
+    "state": "IN"
+  },
+  {
+    "id": "7443ee50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 63
+    },
+    "zip_code": "46321",
+    "state": "IN"
+  },
+  {
+    "id": "7460c520-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 55
+    },
+    "zip_code": "46952",
+    "state": "IN"
+  },
+  {
+    "id": "746fb940-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 65
+    },
+    "zip_code": "47303",
+    "state": "IN"
+  },
+  {
+    "id": "7486eac0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 55
+    },
+    "zip_code": "46107",
+    "state": "IN"
+  },
+  {
+    "id": "7670b960-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 54
+    },
+    "zip_code": "48036",
+    "state": "MI"
+  },
+  {
+    "id": "767eea30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 61
+    },
+    "zip_code": "49202",
+    "state": "MI"
+  },
+  {
+    "id": "76a536e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 61,
+      "reach": 57
+    },
+    "zip_code": "48911",
+    "state": "MI"
+  },
+  {
+    "id": "76ab9f80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 69
+    },
+    "zip_code": "46808",
+    "state": "IN"
+  },
+  {
+    "id": "76b31990-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 66
+    },
+    "zip_code": "46224",
+    "state": "IN"
+  },
+  {
+    "id": "76bf9cb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 62
+    },
+    "zip_code": "48506",
+    "state": "MI"
+  },
+  {
+    "id": "76cd5850-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 54
+    },
+    "zip_code": "46375",
+    "state": "IN"
+  },
+  {
+    "id": "7705f480-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 58
+    },
+    "zip_code": "48237",
+    "state": "MI"
+  },
+  {
+    "id": "770cd250-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 66,
+      "reach": 43
+    },
+    "zip_code": "49858-2762",
+    "state": "MI"
+  },
+  {
+    "id": "770cf960-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 59
+    },
+    "zip_code": "46614",
+    "state": "IN"
+  },
+  {
+    "id": "77624550-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 58
+    },
+    "zip_code": "48180",
+    "state": "MI"
+  },
+  {
+    "id": "777000f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 56
+    },
+    "zip_code": "48071",
+    "state": "MI"
+  },
+  {
+    "id": "77abaa60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 59
+    },
+    "zip_code": "48227",
+    "state": "MI"
+  },
+  {
+    "id": "77bb13b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 57
+    },
+    "zip_code": "48161",
+    "state": "MI"
+  },
+  {
+    "id": "77c992a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 58
+    },
+    "zip_code": "46226",
+    "state": "IN"
+  },
+  {
+    "id": "77e0c420-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 64
+    },
+    "zip_code": "46208",
+    "state": "IN"
+  },
+  {
+    "id": "77ecf920-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 57
+    },
+    "zip_code": "48917",
+    "state": "MI"
+  },
+  {
+    "id": "77fb5100-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 62
+    },
+    "zip_code": "49015",
+    "state": "MI"
+  },
+  {
+    "id": "7875ff40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 58
+    },
+    "zip_code": "48312",
+    "state": "MI"
+  },
+  {
+    "id": "78ea1dd0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 45
+    },
+    "zip_code": "47404",
+    "state": "IN"
+  },
+  {
+    "id": "79acd190-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 89,
+      "reach": 66
+    },
+    "zip_code": "49009",
+    "state": "MI"
+  },
+  {
+    "id": "79bb0260-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 41
+    },
+    "zip_code": "49015",
+    "state": "MI"
+  },
+  {
+    "id": "79cda000-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 52
+    },
+    "zip_code": "48638",
+    "state": "48638"
+  },
+  {
+    "id": "79d5b650-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 64
+    },
+    "zip_code": "48030",
+    "state": "MI"
+  },
+  {
+    "id": "79f09150-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 62
+    },
+    "zip_code": "48328",
+    "state": "MI"
+  },
+  {
+    "id": "7a006fd0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 55
+    },
+    "zip_code": "48146",
+    "state": "MI"
+  },
+  {
+    "id": "7a0ea0a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "48507",
+    "state": "MI"
+  },
+  {
+    "id": "7a1c5c40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 51
+    },
+    "zip_code": "49417",
+    "state": "MI"
+  },
+  {
+    "id": "7a2cfe10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 52
+    },
+    "zip_code": "48238",
+    "state": "MI"
+  },
+  {
+    "id": "7a345110-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 57
+    },
+    "zip_code": "49036",
+    "state": "MI"
+  },
+  {
+    "id": "7a5398e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 55
+    },
+    "zip_code": "48446",
+    "state": "MI"
+  },
+  {
+    "id": "7a5d35d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 59
+    },
+    "zip_code": "48126",
+    "state": "MI"
+  },
+  {
+    "id": "7ac5bba0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 58
+    },
+    "zip_code": "48212",
+    "state": "MI"
+  },
+  {
+    "id": "7ad3ec70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 67
+    },
+    "zip_code": "48084",
+    "state": "MI"
+  },
+  {
+    "id": "7adc77f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 64,
+      "reach": 57
+    },
+    "zip_code": "48066",
+    "state": "MI"
+  },
+  {
+    "id": "7af41ea0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 57
+    },
+    "zip_code": "48060",
+    "state": "MI"
+  },
+  {
+    "id": "7b02c4a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 63
+    },
+    "zip_code": "49022",
+    "state": "MI"
+  },
+  {
+    "id": "7b1191b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 60
+    },
+    "zip_code": "49250",
+    "state": "MI"
+  },
+  {
+    "id": "7bbdd740-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 50
+    },
+    "zip_code": "48867",
+    "state": "MI"
+  },
+  {
+    "id": "7c92da80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 64
+    },
+    "zip_code": "48197",
+    "state": "MI"
+  },
+  {
+    "id": "7d01f000-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 60
+    },
+    "zip_code": "48314",
+    "state": "MI"
+  },
+  {
+    "id": "7d42f0a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 42
+    },
+    "zip_code": "48234",
+    "state": "MI"
+  },
+  {
+    "id": "7d656cc0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 36
+    },
+    "zip_code": "48203",
+    "state": "MI"
+  },
+  {
+    "id": "7d737680-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 63
+    },
+    "zip_code": "49512",
+    "state": "MI"
+  },
+  {
+    "id": "7d9a8680-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 35
+    },
+    "zip_code": "48183",
+    "state": "MI"
+  },
+  {
+    "id": "7dad2420-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 64
+    },
+    "zip_code": "49525",
+    "state": "MI"
+  },
+  {
+    "id": "7db45010-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 52
+    },
+    "zip_code": "49002",
+    "state": "MI"
+  },
+  {
+    "id": "7dbb06d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 50
+    },
+    "zip_code": "48706",
+    "state": "MI"
+  },
+  {
+    "id": "7dcd5650-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 73
+    },
+    "zip_code": "49544",
+    "state": "MI"
+  },
+  {
+    "id": "7ded6170-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 60
+    },
+    "zip_code": "49221",
+    "state": "MI"
+  },
+  {
+    "id": "7dee24c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 45
+    },
+    "zip_code": "48843",
+    "state": "MI"
+  },
+  {
+    "id": "7e081560-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 49
+    },
+    "zip_code": "48239",
+    "state": "MI"
+  },
+  {
+    "id": "7e18b730-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 49
+    },
+    "zip_code": "48235",
+    "state": "MI"
+  },
+  {
+    "id": "7e27f970-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 49
+    },
+    "zip_code": "48240",
+    "state": "MI"
+  },
+  {
+    "id": "7e3abe20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 34
+    },
+    "zip_code": "49783",
+    "state": "MI"
+  },
+  {
+    "id": "7e41ea10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "49735",
+    "state": "MI"
+  },
+  {
+    "id": "7e55c030-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 65
+    },
+    "zip_code": "48215",
+    "state": "MI"
+  },
+  {
+    "id": "802772f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 66
+    },
+    "zip_code": "49423",
+    "state": "MI"
+  },
+  {
+    "id": "80326f70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 16
+    },
+    "zip_code": "78043",
+    "state": "TX"
+  },
+  {
+    "id": "80f59860-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 61
+    },
+    "zip_code": "49441",
+    "state": "MI"
+  },
+  {
+    "id": "8101cd60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 39
+    },
+    "zip_code": "48205",
+    "state": "MI"
+  },
+  {
+    "id": "81218a60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 55
+    },
+    "zip_code": "79912",
+    "state": "TX"
+  },
+  {
+    "id": "8127a4e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 53
+    },
+    "zip_code": "49120",
+    "state": "MI"
+  },
+  {
+    "id": "8135d5b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 55
+    },
+    "zip_code": "49686",
+    "state": "MI"
+  },
+  {
+    "id": "81456610-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 53
+    },
+    "zip_code": "48340",
+    "state": "MI"
+  },
+  {
+    "id": "81517400-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 47
+    },
+    "zip_code": "49091",
+    "state": "MI"
+  },
+  {
+    "id": "81826f10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 54
+    },
+    "zip_code": "49442",
+    "state": "MI"
+  },
+  {
+    "id": "81922680-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 60
+    },
+    "zip_code": "48207",
+    "state": "MI"
+  },
+  {
+    "id": "81a2a140-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 51
+    },
+    "zip_code": "76904",
+    "state": "TX"
+  },
+  {
+    "id": "81a95800-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 54
+    },
+    "zip_code": "79935",
+    "state": "TX"
+  },
+  {
+    "id": "81bc6ad0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 58
+    },
+    "zip_code": "48186",
+    "state": "MI"
+  },
+  {
+    "id": "81cb5ef0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 24
+    },
+    "zip_code": "49548",
+    "state": "MI"
+  },
+  {
+    "id": "81d54a00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 25
+    },
+    "zip_code": "48091",
+    "state": "MI"
+  },
+  {
+    "id": "81e29070-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 57
+    },
+    "zip_code": "48135",
+    "state": "MI"
+  },
+  {
+    "id": "8263f570-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 58
+    },
+    "zip_code": "48237",
+    "state": "MI"
+  },
+  {
+    "id": "835f4560-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 64
+    },
+    "zip_code": "48640",
+    "state": "MI"
+  },
+  {
+    "id": "83fd8130-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 48
+    },
+    "zip_code": "78254",
+    "state": "TX"
+  },
+  {
+    "id": "840b8af0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 60
+    },
+    "zip_code": "76306",
+    "state": "TX"
+  },
+  {
+    "id": "841994b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 49
+    },
+    "zip_code": "79119",
+    "state": "TX"
+  },
+  {
+    "id": "8430c630-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 44
+    },
+    "zip_code": "79763",
+    "state": "TX"
+  },
+  {
+    "id": "843707c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 46
+    },
+    "zip_code": "78217",
+    "state": "TX"
+  },
+  {
+    "id": "84469820-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 60
+    },
+    "zip_code": "48858",
+    "state": "MI"
+  },
+  {
+    "id": "8455b350-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "78216",
+    "state": "TX"
+  },
+  {
+    "id": "845d0650-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 64,
+      "reach": 52
+    },
+    "zip_code": "48912",
+    "state": "MI"
+  },
+  {
+    "id": "84754940-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 40
+    },
+    "zip_code": "79109",
+    "state": "TX"
+  },
+  {
+    "id": "849617b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 53
+    },
+    "zip_code": "48122",
+    "state": "MI"
+  },
+  {
+    "id": "84a86730-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 52
+    },
+    "zip_code": "49601",
+    "state": "MI"
+  },
+  {
+    "id": "84b8bae0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 68
+    },
+    "zip_code": "48504",
+    "state": "MI"
+  },
+  {
+    "id": "84cfec60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 42
+    },
+    "zip_code": "48089",
+    "state": "MI"
+  },
+  {
+    "id": "84edfbb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 85,
+      "reach": 50
+    },
+    "zip_code": "78238",
+    "state": "TX"
+  },
+  {
+    "id": "85068cc0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "79072",
+    "state": "TX"
+  },
+  {
+    "id": "85083a70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 43
+    },
+    "zip_code": "78221",
+    "state": "TX"
+  },
+  {
+    "id": "851cfaf0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 45
+    },
+    "zip_code": "79416",
+    "state": "TX"
+  },
+  {
+    "id": "852f9890-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 54
+    },
+    "zip_code": "79705",
+    "state": "TX"
+  },
+  {
+    "id": "85b4f530-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 54
+    },
+    "zip_code": "76308",
+    "state": "TX"
+  },
+  {
+    "id": "87b929a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 49
+    },
+    "zip_code": "78418",
+    "state": "TX"
+  },
+  {
+    "id": "87c7a890-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 40
+    },
+    "zip_code": "76712",
+    "state": "TX"
+  },
+  {
+    "id": "87d6c3c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 56
+    },
+    "zip_code": "79605",
+    "state": "TX"
+  },
+  {
+    "id": "87e17220-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 45
+    },
+    "zip_code": "79414",
+    "state": "TX"
+  },
+  {
+    "id": "87ee9180-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 30
+    },
+    "zip_code": "76504",
+    "state": "TX"
+  },
+  {
+    "id": "87fbff00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 50
+    },
+    "zip_code": "79107",
+    "state": "TX"
+  },
+  {
+    "id": "8802dcd0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 50
+    },
+    "zip_code": "75751",
+    "state": "TX"
+  },
+  {
+    "id": "880c0490-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 63,
+      "reach": 25
+    },
+    "zip_code": "78363",
+    "state": "TX"
+  },
+  {
+    "id": "88177640-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 52
+    },
+    "zip_code": "78201",
+    "state": "TX"
+  },
+  {
+    "id": "8823ab40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 48
+    },
+    "zip_code": "75965",
+    "state": "TX"
+  },
+  {
+    "id": "8890ec00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 38
+    },
+    "zip_code": "77092",
+    "state": "TX"
+  },
+  {
+    "id": "88a621b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 32
+    },
+    "zip_code": "78222",
+    "state": "TX"
+  },
+  {
+    "id": "88bf9d20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 34
+    },
+    "zip_code": "78233",
+    "state": "TX"
+  },
+  {
+    "id": "88cdf500-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 55
+    },
+    "zip_code": "78550",
+    "state": "TX"
+  },
+  {
+    "id": "88d60b50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 54
+    },
+    "zip_code": "76667",
+    "state": "TX"
+  },
+  {
+    "id": "88eb6810-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 49
+    },
+    "zip_code": "75904",
+    "state": "TX"
+  },
+  {
+    "id": "890f6ad0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 46
+    },
+    "zip_code": "78227",
+    "state": "TX"
+  },
+  {
+    "id": "891955e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 53
+    },
+    "zip_code": "75766",
+    "state": "TX"
+  },
+  {
+    "id": "8927d4d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 49
+    },
+    "zip_code": "75703",
+    "state": "TX"
+  },
+  {
+    "id": "89367ad0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 51
+    },
+    "zip_code": "77039",
+    "state": "TX"
+  },
+  {
+    "id": "8a1eb7f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 49
+    },
+    "zip_code": "78801",
+    "state": "TX"
+  },
+  {
+    "id": "8a330340-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 48
+    },
+    "zip_code": "79925",
+    "state": "TX"
+  },
+  {
+    "id": "8a49bf90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 62
+    },
+    "zip_code": "76542",
+    "state": "TX"
+  },
+  {
+    "id": "8ac29910-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 48
+    },
+    "zip_code": "75160",
+    "state": "TX"
+  },
+  {
+    "id": "8ac901b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 56
+    },
+    "zip_code": "77045",
+    "state": "TX"
+  },
+  {
+    "id": "8ad86b00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 53
+    },
+    "zip_code": "77506",
+    "state": "TX"
+  },
+  {
+    "id": "8ae51530-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 55
+    },
+    "zip_code": "75605",
+    "state": "TX"
+  },
+  {
+    "id": "8aec6830-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 66,
+      "reach": 39
+    },
+    "zip_code": "77067",
+    "state": "TX"
+  },
+  {
+    "id": "8b014fc0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 53
+    },
+    "zip_code": "78666",
+    "state": "TX"
+  },
+  {
+    "id": "8b096610-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 53
+    },
+    "zip_code": "77598",
+    "state": "TX"
+  },
+  {
+    "id": "8b0b3ad0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 65,
+      "reach": 67
+    },
+    "zip_code": "77304",
+    "state": "TX"
+  },
+  {
+    "id": "8b1b1950-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 54
+    },
+    "zip_code": "77864",
+    "state": "TX"
+  },
+  {
+    "id": "8b21f720-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 45
+    },
+    "zip_code": "78412",
+    "state": "TX"
+  },
+  {
+    "id": "8b96d900-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 50
+    },
+    "zip_code": "75052",
+    "state": "TX"
+  },
+  {
+    "id": "8bad6e40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 58
+    },
+    "zip_code": "77539",
+    "state": "TX"
+  },
+  {
+    "id": "8bece840-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 49
+    },
+    "zip_code": "77087",
+    "state": "TX"
+  },
+  {
+    "id": "8bfaf200-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 53
+    },
+    "zip_code": "77091",
+    "state": "TX"
+  },
+  {
+    "id": "8c1027b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 56
+    },
+    "zip_code": "78539",
+    "state": "TX"
+  },
+  {
+    "id": "8c1f42e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "78155",
+    "state": "TX"
+  },
+  {
+    "id": "8cc93e80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 53
+    },
+    "zip_code": "77089",
+    "state": "TX"
+  },
+  {
+    "id": "8d8821b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "78852",
+    "state": "TX"
+  },
+  {
+    "id": "8db57340-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 39
+    },
+    "zip_code": "77093",
+    "state": "TX"
+  },
+  {
+    "id": "8dc503a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 64
+    },
+    "zip_code": "76205",
+    "state": "TX"
+  },
+  {
+    "id": "8dcca4c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 63,
+      "reach": 42
+    },
+    "zip_code": "77357",
+    "state": "TX"
+  },
+  {
+    "id": "8dd09c60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 63,
+      "reach": 33
+    },
+    "zip_code": "77532",
+    "state": "TX"
+  },
+  {
+    "id": "8de69560-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 60,
+      "reach": 43
+    },
+    "zip_code": "75418",
+    "state": "TX"
+  },
+  {
+    "id": "8deadb20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 44
+    },
+    "zip_code": "78580",
+    "state": "TX"
+  },
+  {
+    "id": "8df47810-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 41
+    },
+    "zip_code": "78064",
+    "state": "TX"
+  },
+  {
+    "id": "8e060440-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 55
+    },
+    "zip_code": "77084",
+    "state": "TX"
+  },
+  {
+    "id": "8e14f860-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 6
+    },
+    "zip_code": "78332",
+    "state": "TX"
+  },
+  {
+    "id": "8e1b12e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 48
+    },
+    "zip_code": "77096",
+    "state": "TX"
+  },
+  {
+    "id": "8e909100-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 31
+    },
+    "zip_code": "77090",
+    "state": "TX"
+  },
+  {
+    "id": "8eb46cb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 28
+    },
+    "zip_code": "78415",
+    "state": "TX"
+  },
+  {
+    "id": "8ecc3a70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 52
+    },
+    "zip_code": "75087",
+    "state": "TX"
+  },
+  {
+    "id": "8edbcad0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 52
+    },
+    "zip_code": "77551",
+    "state": "TX"
+  },
+  {
+    "id": "8eec93b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 63
+    },
+    "zip_code": "76011",
+    "state": "TX"
+  },
+  {
+    "id": "8ef60990-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 45
+    },
+    "zip_code": "77083",
+    "state": "TX"
+  },
+  {
+    "id": "8eff7f70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 56
+    },
+    "zip_code": "77706",
+    "state": "TX"
+  },
+  {
+    "id": "8f0db040-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 47
+    },
+    "zip_code": "77021",
+    "state": "TX"
+  },
+  {
+    "id": "8f29c3c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 42
+    },
+    "zip_code": "76112",
+    "state": "TX"
+  },
+  {
+    "id": "8f4b5580-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 56
+    },
+    "zip_code": "76063",
+    "state": "TX"
+  },
+  {
+    "id": "90eb49e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 87,
+      "reach": 59
+    },
+    "zip_code": "75219",
+    "state": "TX"
+  },
+  {
+    "id": "90eef360-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 50
+    },
+    "zip_code": "76086",
+    "state": "TX"
+  },
+  {
+    "id": "90fb9d90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 87,
+      "reach": 49
+    },
+    "zip_code": "78006",
+    "state": "TX"
+  },
+  {
+    "id": "910bca30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 44
+    },
+    "zip_code": "77590",
+    "state": "TX"
+  },
+  {
+    "id": "91142ea0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 54
+    },
+    "zip_code": "78552",
+    "state": "TX"
+  },
+  {
+    "id": "9118e990-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 45
+    },
+    "zip_code": "78109",
+    "state": "TX"
+  },
+  {
+    "id": "91315390-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "78130",
+    "state": "TX"
+  },
+  {
+    "id": "9134fd10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 47
+    },
+    "zip_code": "77520",
+    "state": "TX"
+  },
+  {
+    "id": "913d3a70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 58
+    },
+    "zip_code": "78410",
+    "state": "TX"
+  },
+  {
+    "id": "914a32c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 55
+    },
+    "zip_code": "77375",
+    "state": "TX"
+  },
+  {
+    "id": "9157ee60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 42
+    },
+    "zip_code": "76048",
+    "state": "TX"
+  },
+  {
+    "id": "916079e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 58
+    },
+    "zip_code": "78526",
+    "state": "TX"
+  },
+  {
+    "id": "91661f30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 40
+    },
+    "zip_code": "76120",
+    "state": "TX"
+  },
+  {
+    "id": "91805df0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 49
+    },
+    "zip_code": "75224",
+    "state": "TX"
+  },
+  {
+    "id": "91869f80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 63
+    },
+    "zip_code": "77338",
+    "state": "TX"
+  },
+  {
+    "id": "91a3eb80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 52
+    },
+    "zip_code": "76180",
+    "state": "TX"
+  },
+  {
+    "id": "91c2e530-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 15
+    },
+    "zip_code": "78504",
+    "state": "TX"
+  },
+  {
+    "id": "91d35ff0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 50
+    },
+    "zip_code": "77904",
+    "state": "TX"
+  },
+  {
+    "id": "91ec3f20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 58
+    },
+    "zip_code": "76039",
+    "state": "TX"
+  },
+  {
+    "id": "92338150-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 51
+    },
+    "zip_code": "75134",
+    "state": "TX"
+  },
+  {
+    "id": "9311ac50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 46
+    },
+    "zip_code": "76116",
+    "state": "TX"
+  },
+  {
+    "id": "937d6670-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 49
+    },
+    "zip_code": "76140",
+    "state": "TX"
+  },
+  {
+    "id": "940756f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 59
+    },
+    "zip_code": "75150",
+    "state": "TX"
+  },
+  {
+    "id": "94147650-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 66
+    },
+    "zip_code": "75038",
+    "state": "TX"
+  },
+  {
+    "id": "942b0b90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 52
+    },
+    "zip_code": "77340",
+    "state": "TX"
+  },
+  {
+    "id": "9440dd80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 65
+    },
+    "zip_code": "77707",
+    "state": "TX"
+  },
+  {
+    "id": "94476d30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 50,
+      "reach": 9
+    },
+    "zip_code": "78586",
+    "state": "TX"
+  },
+  {
+    "id": "944f0e50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 41
+    },
+    "zip_code": "75455",
+    "state": "TX"
+  },
+  {
+    "id": "94602550-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 48
+    },
+    "zip_code": "75234",
+    "state": "TX"
+  },
+  {
+    "id": "9480f3c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 31
+    },
+    "zip_code": "75156",
+    "state": "75156"
+  },
+  {
+    "id": "94a3e510-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 55
+    },
+    "zip_code": "77489",
+    "state": "TX"
+  },
+  {
+    "id": "94afa4e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 47
+    },
+    "zip_code": "75237",
+    "state": "TX"
+  },
+  {
+    "id": "94ec5fc0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 31
+    },
+    "zip_code": "78223",
+    "state": "TX"
+  },
+  {
+    "id": "951c4960-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 31
+    },
+    "zip_code": "75119",
+    "state": "TX"
+  },
+  {
+    "id": "95324260-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 63
+    },
+    "zip_code": "76021",
+    "state": "TX"
+  },
+  {
+    "id": "9540e860-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 55
+    },
+    "zip_code": "75204",
+    "state": "TX"
+  },
+  {
+    "id": "954ecb10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 56
+    },
+    "zip_code": "76522",
+    "state": "TX"
+  },
+  {
+    "id": "955e3460-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 64
+    },
+    "zip_code": "75043",
+    "state": "TX"
+  },
+  {
+    "id": "956debd0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 58
+    },
+    "zip_code": "75501",
+    "state": "TX"
+  },
+  {
+    "id": "957cdff0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 55
+    },
+    "zip_code": "75074",
+    "state": "TX"
+  },
+  {
+    "id": "95ec4390-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "75115",
+    "state": "TX"
+  },
+  {
+    "id": "9662fa30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 52
+    },
+    "zip_code": "76133",
+    "state": "TX"
+  },
+  {
+    "id": "966e6be0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 60
+    },
+    "zip_code": "76028",
+    "state": "TX"
+  },
+  {
+    "id": "96c03560-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 55
+    },
+    "zip_code": "78664",
+    "state": "TX"
+  },
+  {
+    "id": "96f994e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 58
+    },
+    "zip_code": "75254",
+    "state": "TX"
+  },
+  {
+    "id": "96facd60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 34
+    },
+    "zip_code": "77488",
+    "state": "TX"
+  },
+  {
+    "id": "971fba80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 43
+    },
+    "zip_code": "76645",
+    "state": "TX"
+  },
+  {
+    "id": "97269850-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 66,
+      "reach": 40
+    },
+    "zip_code": "77515",
+    "state": "TX"
+  },
+  {
+    "id": "97398410-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 32
+    },
+    "zip_code": "76013",
+    "state": "TX"
+  },
+  {
+    "id": "97601ee0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "76240",
+    "state": "TX"
+  },
+  {
+    "id": "97775060-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 63,
+      "reach": 41
+    },
+    "zip_code": "75110",
+    "state": "TX"
+  },
+  {
+    "id": "97877d00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "75662",
+    "state": "TX"
+  },
+  {
+    "id": "97bd3300-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "79924",
+    "state": "TX"
+  },
+  {
+    "id": "97e37fb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 45
+    },
+    "zip_code": "75835",
+    "state": "TX"
+  },
+  {
+    "id": "981b5890-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 66,
+      "reach": 11
+    },
+    "zip_code": "78028",
+    "state": "TX"
+  },
+  {
+    "id": "9830b550-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 57
+    },
+    "zip_code": "75801",
+    "state": "TX"
+  },
+  {
+    "id": "984e7680-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 48
+    },
+    "zip_code": "75154",
+    "state": "TX"
+  },
+  {
+    "id": "985c8040-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 34
+    },
+    "zip_code": "78624",
+    "state": "TX"
+  },
+  {
+    "id": "9876e610-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 49
+    },
+    "zip_code": "79701",
+    "state": "TX"
+  },
+  {
+    "id": "988d2d30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 44
+    },
+    "zip_code": "75402",
+    "state": "TX"
+  },
+  {
+    "id": "98b24160-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "78602",
+    "state": "TX"
+  },
+  {
+    "id": "98ee11e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 52
+    },
+    "zip_code": "76135",
+    "state": "TX"
+  },
+  {
+    "id": "990ce480-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 60
+    },
+    "zip_code": "75165",
+    "state": "TX"
+  },
+  {
+    "id": "99a37f30-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 53
+    },
+    "zip_code": "78572",
+    "state": "TX"
+  },
+  {
+    "id": "99b7a370-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 42
+    },
+    "zip_code": "77015",
+    "state": "TX"
+  },
+  {
+    "id": "99da6db0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 50
+    },
+    "zip_code": "76574",
+    "state": "TX"
+  },
+  {
+    "id": "99e87770-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 13
+    },
+    "zip_code": "79556",
+    "state": "TX"
+  },
+  {
+    "id": "9a11d160-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 55
+    },
+    "zip_code": "78613",
+    "state": "TX"
+  },
+  {
+    "id": "9a1f8d00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 76,
+      "reach": 50
+    },
+    "zip_code": "77630",
+    "state": "TX"
+  },
+  {
+    "id": "9a2e5a10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 57
+    },
+    "zip_code": "75287",
+    "state": "TX"
+  },
+  {
+    "id": "9a3d2720-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 50
+    },
+    "zip_code": "77573",
+    "state": "TX"
+  },
+  {
+    "id": "9a4e8c40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 37
+    },
+    "zip_code": "77079",
+    "state": "TX"
+  },
+  {
+    "id": "9a7af370-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 45
+    },
+    "zip_code": "76017",
+    "state": "TX"
+  },
+  {
+    "id": "9ab47a00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 66,
+      "reach": 43
+    },
+    "zip_code": "78654",
+    "state": "TX"
+  },
+  {
+    "id": "9abba5f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 54
+    },
+    "zip_code": "78045",
+    "state": "TX"
+  },
+  {
+    "id": "9ac4a6a0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 52
+    },
+    "zip_code": "75067",
+    "state": "TX"
+  },
+  {
+    "id": "9ad39ac0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 42
+    },
+    "zip_code": "75116",
+    "state": "TX"
+  },
+  {
+    "id": "9ae3a050-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 39
+    },
+    "zip_code": "75670",
+    "state": "TX"
+  },
+  {
+    "id": "9ae91e90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 36
+    },
+    "zip_code": "78840",
+    "state": "TX"
+  },
+  {
+    "id": "9af92420-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 37
+    },
+    "zip_code": "75460",
+    "state": "TX"
+  },
+  {
+    "id": "9b563840-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 63,
+      "reach": 45
+    },
+    "zip_code": "78758",
+    "state": "TX"
+  },
+  {
+    "id": "9b5db250-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 45
+    },
+    "zip_code": "75088",
+    "state": "TX"
+  },
+  {
+    "id": "9be22490-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 39
+    },
+    "zip_code": "77657",
+    "state": "TX"
+  },
+  {
+    "id": "9bfd4db0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 51
+    },
+    "zip_code": "75070",
+    "state": "TX"
+  },
+  {
+    "id": "9c564320-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 35
+    },
+    "zip_code": "78704",
+    "state": "TX"
+  },
+  {
+    "id": "9c8ce380-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 54
+    },
+    "zip_code": "77536",
+    "state": "TX"
+  },
+  {
+    "id": "9c932510-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 49
+    },
+    "zip_code": "78749",
+    "state": "TX"
+  },
+  {
+    "id": "9c993f90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 74,
+      "reach": 50
+    },
+    "zip_code": "79936",
+    "state": "TX"
+  },
+  {
+    "id": "9ca833b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 39
+    },
+    "zip_code": "76448",
+    "state": "TX"
+  },
+  {
+    "id": "9cb1f7b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "78230",
+    "state": "TX"
+  },
+  {
+    "id": "9cc24b60-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 49
+    },
+    "zip_code": "75056",
+    "state": "TX"
+  },
+  {
+    "id": "9ccd6ef0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 15
+    },
+    "zip_code": "78223",
+    "state": "TX"
+  },
+  {
+    "id": "9ceb7e40-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 34
+    },
+    "zip_code": "76450",
+    "state": "TX"
+  },
+  {
+    "id": "9cf912d0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 47
+    },
+    "zip_code": "77058",
+    "state": "TX"
+  },
+  {
+    "id": "9d06a760-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 46
+    },
+    "zip_code": "75090",
+    "state": "TX"
+  },
+  {
+    "id": "9d0f59f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 43
+    },
+    "zip_code": "75771",
+    "state": "TX"
+  },
+  {
+    "id": "9d16fb10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 46
+    },
+    "zip_code": "76179",
+    "state": "TX"
+  },
+  {
+    "id": "9d357f90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 52
+    },
+    "zip_code": "77642",
+    "state": "TX"
+  },
+  {
+    "id": "9d438950-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 44
+    },
+    "zip_code": "77802",
+    "state": "TX"
+  },
+  {
+    "id": "9d606020-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 48
+    },
+    "zip_code": "76401",
+    "state": "TX"
+  },
+  {
+    "id": "9d75bce0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 58
+    },
+    "zip_code": "77505",
+    "state": "TX"
+  },
+  {
+    "id": "9d8b8ed0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 67,
+      "reach": 43
+    },
+    "zip_code": "75482",
+    "state": "TX"
+  },
+  {
+    "id": "9d9b4640-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 59
+    },
+    "zip_code": "77380",
+    "state": "TX"
+  },
+  {
+    "id": "9dbdc260-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 38
+    },
+    "zip_code": "78516",
+    "state": "TX"
+  },
+  {
+    "id": "9fd24a80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 43
+    },
+    "zip_code": "48193",
+    "state": "48193"
+  },
+  {
+    "id": "9fd90140-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 49
+    },
+    "zip_code": "79401",
+    "state": "TX"
+  },
+  {
+    "id": "9fe5f990-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 41
+    },
+    "zip_code": "78245",
+    "state": "TX"
+  },
+  {
+    "id": "9ff38e20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "77575",
+    "state": "TX"
+  },
+  {
+    "id": "a000ad80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 57
+    },
+    "zip_code": "48235",
+    "state": "MI"
+  },
+  {
+    "id": "a0171bb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 35
+    },
+    "zip_code": "48846",
+    "state": "MI"
+  },
+  {
+    "id": "a0230290-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 65
+    },
+    "zip_code": "49048",
+    "state": "MI"
+  },
+  {
+    "id": "a032e110-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 49
+    },
+    "zip_code": "77581",
+    "state": "TX"
+  },
+  {
+    "id": "a0409cb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 49
+    },
+    "zip_code": "77590",
+    "state": "TX"
+  },
+  {
+    "id": "a0529e10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 50
+    },
+    "zip_code": "48219",
+    "state": "MI"
+  },
+  {
+    "id": "a05a1820-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 44
+    },
+    "zip_code": "78251",
+    "state": "TX"
+  },
+  {
+    "id": "a060cee0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "49093",
+    "state": "MI"
+  },
+  {
+    "id": "a07cbb50-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 61,
+      "reach": 54
+    },
+    "zip_code": "48910",
+    "state": "MI"
+  },
+  {
+    "id": "a0ced2f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 49
+    },
+    "zip_code": "76903",
+    "state": "TX"
+  },
+  {
+    "id": "a0e5b650-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 59,
+      "reach": 47
+    },
+    "zip_code": "77087",
+    "state": "TX"
+  },
+  {
+    "id": "a1017bb0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 47
+    },
+    "zip_code": "75602",
+    "state": "TX"
+  },
+  {
+    "id": "a109b910-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 63,
+      "reach": 38
+    },
+    "zip_code": "76244",
+    "state": "76244"
+  },
+  {
+    "id": "a1fe5240-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 70,
+      "reach": 53
+    },
+    "zip_code": "77379",
+    "state": "TX"
+  },
+  {
+    "id": "a21869f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 41
+    },
+    "zip_code": "78230",
+    "state": "TX"
+  },
+  {
+    "id": "a22cb540-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 50
+    },
+    "zip_code": "48204",
+    "state": "MI"
+  },
+  {
+    "id": "a259dfc0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 57
+    },
+    "zip_code": "48180",
+    "state": "MI"
+  },
+  {
+    "id": "a281b310-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 40
+    },
+    "zip_code": "78942",
+    "state": "TX"
+  },
+  {
+    "id": "a2ae8f70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 46
+    },
+    "zip_code": "77566",
+    "state": "TX"
+  },
+  {
+    "id": "a2bc4b10-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 79,
+      "reach": 34
+    },
+    "zip_code": "76234",
+    "state": "TX"
+  },
+  {
+    "id": "a2f2c460-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 57,
+      "reach": 46
+    },
+    "zip_code": "48439",
+    "state": "MI"
+  },
+  {
+    "id": "a307abf0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 44
+    },
+    "zip_code": "76117",
+    "state": "TX"
+  },
+  {
+    "id": "a3263070-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 64
+    },
+    "zip_code": "48103",
+    "state": "MI"
+  },
+  {
+    "id": "a345c660-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 40
+    },
+    "zip_code": "48603",
+    "state": "MI"
+  },
+  {
+    "id": "a3982c20-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 86,
+      "reach": 55
+    },
+    "zip_code": "48732",
+    "state": "MI"
+  },
+  {
+    "id": "a3bc55f0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "76067",
+    "state": "TX"
+  },
+  {
+    "id": "a3d3fca0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 49
+    },
+    "zip_code": "76020",
+    "state": "TX"
+  },
+  {
+    "id": "a3e75d90-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 75,
+      "reach": 52
+    },
+    "zip_code": "48813",
+    "state": "MI"
+  },
+  {
+    "id": "a3f6edf0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 53
+    },
+    "zip_code": "48111",
+    "state": "MI"
+  },
+  {
+    "id": "a4039820-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 54
+    },
+    "zip_code": "49431",
+    "state": "MI"
+  },
+  {
+    "id": "a4304d70-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 77,
+      "reach": 58
+    },
+    "zip_code": "48076",
+    "state": "MI"
+  },
+  {
+    "id": "a4612170-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 85,
+      "reach": 71
+    },
+    "zip_code": "49548",
+    "state": "MI"
+  },
+  {
+    "id": "a46eb600-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 80,
+      "reach": 59
+    },
+    "zip_code": "48504",
+    "state": "MI"
+  },
+  {
+    "id": "a49577e0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 59
+    },
+    "zip_code": "48213",
+    "state": "MI"
+  },
+  {
+    "id": "a4a50840-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 58
+    },
+    "zip_code": "48329",
+    "state": "MI"
+  },
+  {
+    "id": "a4b3d550-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 68,
+      "reach": 45
+    },
+    "zip_code": "49085",
+    "state": "MI"
+  },
+  {
+    "id": "a5026a80-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 41
+    },
+    "zip_code": "48134",
+    "state": "MI"
+  },
+  {
+    "id": "a551c300-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 26
+    },
+    "zip_code": "88030",
+    "state": "NM"
+  },
+  {
+    "id": "a63df7c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 58
+    },
+    "zip_code": "48430",
+    "state": "MI"
+  },
+  {
+    "id": "a6b43930-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 71,
+      "reach": 52
+    },
+    "zip_code": "48239",
+    "state": "MI"
+  },
+  {
+    "id": "a6c61380-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 54
+    },
+    "zip_code": "48221",
+    "state": "MI"
+  },
+  {
+    "id": "a6d2e4c0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 82,
+      "reach": 54
+    },
+    "zip_code": "48473",
+    "state": "MI"
+  },
+  {
+    "id": "a6e645b0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 84,
+      "reach": 51
+    },
+    "zip_code": "49058",
+    "state": "MI"
+  },
+  {
+    "id": "a7156c00-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 54
+    },
+    "zip_code": "48118",
+    "state": "MI"
+  },
+  {
+    "id": "a730e340-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 61
+    },
+    "zip_code": "48044",
+    "state": "MI"
+  },
+  {
+    "id": "a74d1dd0-ccb6-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 87,
+      "reach": 53
+    },
+    "zip_code": "48601",
+    "state": "MI"
+  },
+  {
+    "id": "fc31b5f0-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 60
+    },
+    "zip_code": "95337",
+    "state": "CA"
+  },
+  {
+    "id": "fc660c60-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 66
+    },
+    "zip_code": "95376",
+    "state": "CA"
+  },
+  {
+    "id": "fc942140-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 89,
+      "reach": 54
+    },
+    "zip_code": "95207",
+    "state": "CA"
+  },
+  {
+    "id": "fce3a0d0-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 50
+    },
+    "zip_code": "95340",
+    "state": "CA"
+  },
+  {
+    "id": "fcf469b0-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 88,
+      "reach": 63
+    },
+    "zip_code": "92103",
+    "state": "CA"
+  },
+  {
+    "id": "fd2034a0-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 72,
+      "reach": 70
+    },
+    "zip_code": "95926",
+    "state": "CA"
+  },
+  {
+    "id": "fd80f240-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 81,
+      "reach": 70
+    },
+    "zip_code": "95380",
+    "state": "CA"
+  },
+  {
+    "id": "fdd15c30-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 62
+    },
+    "zip_code": "92346",
+    "state": "CA"
+  },
+  {
+    "id": "fe75d990-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 78,
+      "reach": 9
+    },
+    "zip_code": "92064",
+    "state": "CA"
+  },
+  {
+    "id": "ff5452b0-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 73,
+      "reach": 59
+    },
+    "zip_code": "92111",
+    "state": "CA"
+  },
+  {
+    "id": "ff7436c0-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 69,
+      "reach": 57
+    },
+    "zip_code": "91786",
+    "state": "CA"
+  },
+  {
+    "id": "ffca1ef0-ccb5-11e3-9438-b3137d2d7bb5",
+    "data": {
+      "scores": 83,
+      "reach": 68
+    },
+    "zip_code": "92506",
+    "state": "CA"
+  }
+]

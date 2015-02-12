@@ -7,6 +7,7 @@ $(function() {
   var state = '';
   var currentCountyFeature = null;
   var fail = null;
+  var locationData = null;
 
 
   function onDrilldown(e) {
@@ -121,14 +122,30 @@ $(function() {
   }
 
 
-  $.getJSON('countries/us-all.json', function(json) {
-    feature = topojson.feature(json, json.objects['us-all']);
+  async.parallel({
+    locationData: function(callback) {
+      $.getJSON('location_data.json', function(json) { callback(null, json); });
+    },
+
+    map: function(callback) {
+      $.getJSON('countries/us-all.json', function(json) { callback(null, json); });
+    }
+
+  }, function(err, results) {
+    locationData = results.locationData;
+
+    feature = topojson.feature(results.map, results.map.objects['us-all']);
     geojson = Highcharts.geojson(feature);
 
     // Set a non-random bogus value
     $.each(geojson, function (i) {
-      this.drilldown = this.properties['postal-code'].toLowerCase();
-      this.value = i;
+      state = this.properties['postal-code'];
+      this.drilldown = state.toLowerCase();
+
+      this.value = _.reduce(locationData, function(memo, location) {
+        return memo + (location.state == state ? location.data.scores : 0);
+      }, 0);
+
     });
 
     // Instanciate the map
