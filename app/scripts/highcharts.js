@@ -91,6 +91,8 @@ $(function() {
         memo += location.data.scores;
         locations++;
       }
+
+      return memo;
     }, 0);
 
     return (locations == 0 ? 0 : total / locations);
@@ -157,7 +159,7 @@ $(function() {
       var total = _.reduce(locationData, function(memo, location) {
         if(location.state == state) {
           locations++;
-          memo += locaiton.data.scores;
+          memo += location.data.scores;
         }
         return memo;
       }, 0);
@@ -196,7 +198,7 @@ $(function() {
       },
 
       colorAxis: {
-        min: 0,
+        min: 50,
         max: 100,
         minColor: '#E6E7E8',
         maxColor: '#005645'
