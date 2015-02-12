@@ -85,9 +85,15 @@ $(function() {
   }
 
   function getValueForZipcodes(zipcodes) {
-    return _.reduce(locationData, function(memo, location) {
-      return memo + (zipcodes.indexOf(location.zip_code) == -1 ? 0 : location.data.scores);
+    var locations = 0;
+    var total = _.reduce(locationData, function(memo, location) {
+      if(zipcodes.indexOf(location.zip_code) > -1) {
+        memo += location.data.scores;
+        locations++;
+      }
     }, 0);
+
+    return (locations == 0 ? 0 : total / locations);
   }
 
 
@@ -106,7 +112,6 @@ $(function() {
           this.drilldown = this.properties.name;
           this.value = getValueForZipcodes([this.properties.name]);
         }
-
       });
     }
 
@@ -148,9 +153,16 @@ $(function() {
       state = this.properties['postal-code'];
       this.drilldown = state.toLowerCase();
 
-      this.value = _.reduce(locationData, function(memo, location) {
-        return memo + (location.state == state ? location.data.scores : 0);
+      var locations = 0;
+      var total = _.reduce(locationData, function(memo, location) {
+        if(location.state == state) {
+          locations++;
+          memo += locaiton.data.scores;
+        }
+        return memo;
       }, 0);
+
+      this.value = (locations == 0 ? 0 : total / locations)
 
     });
 
@@ -185,6 +197,7 @@ $(function() {
 
       colorAxis: {
         min: 0,
+        max: 100,
         minColor: '#E6E7E8',
         maxColor: '#005645'
       },
