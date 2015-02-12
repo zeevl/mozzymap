@@ -84,6 +84,12 @@ $(function() {
     this.setTitle(null, { text: e.point.name || e.point.drilldown });
   }
 
+  function getValueForZipcodes(zipcodes) {
+    return _.reduce(locationData, function(memo, location) {
+      return memo + (zipcodes.indexOf(location.zip_code) == -1 ? 0 : location.data.scores);
+    }, 0);
+  }
+
 
   function addGeoJson(chart, point, json) {
     var geojson = Highcharts.geojson(json);
@@ -91,15 +97,16 @@ $(function() {
     if(level < 3) {
       // Set a non-random bogus value
       $.each(geojson, function (i) {
-        if(level == 1)
+        if(level == 1) {
           this.drilldown = this.name.toLowerCase().replace(' ', '_').replace('\'', '');
+          this.value = getValueForZipcodes(this.properties.zipcodes);
+        }
 
         if(level == 2) {
           this.drilldown = this.properties.name;
+          this.value = getValueForZipcodes([this.properties.name]);
         }
 
-
-        this.value = i;
       });
     }
 
@@ -137,7 +144,6 @@ $(function() {
     feature = topojson.feature(results.map, results.map.objects['us-all']);
     geojson = Highcharts.geojson(feature);
 
-    // Set a non-random bogus value
     $.each(geojson, function (i) {
       state = this.properties['postal-code'];
       this.drilldown = state.toLowerCase();
