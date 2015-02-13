@@ -16,8 +16,6 @@ $(function() {
 
     drillingDown = true;
 
-    console.log(e);
-
     if (e.seriesOptions) {
       console.log("** e.seriesOptions!");
       return;
@@ -205,7 +203,7 @@ $(function() {
       },
 
       mapNavigation: {
-        enabled: false,
+        enabled: true,
         buttonOptions: {
           verticalAlign: 'bottom'
         }
