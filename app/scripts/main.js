@@ -6,33 +6,69 @@
 
 $(function() {
   // what level we toggle zip detail
-  var GROUP_ZOOM = 6
+  var COUNTY_ZOOM = 6
   var ZIP_ZOOM = 8
+
+  var map = null;
+  var locationData = null;
+  var minScore, maxScore;
+  var layers = {counties: {}};
 
   $("#map").height($(window).innerHeight() - 100);
 
-  L.mapbox.accessToken = 'pk.eyJ1IjoiemVldmwiLCJhIjoicFJzVU8zMCJ9.q6b4Uw5qGAULFaNrCGM7DA';
+  $.getJSON('location_data.json', function(data) {
+    locationData = data;
 
-  var map = L.mapbox.map('map', 'zeevl.kmnm0b2n')
-    .setView([37.02, -98.965], 4)
-    .on('zoomend', zoomChanged)
-    .on('moveend', positionChanged);
+    maxScore = 0;
+    minScore = 100;
 
-  var statesLayer = omnivore.topojson('topo/states.json', null, L.geoJson(null, {
-    style: getStyle,
-    onEachFeature: onEachFeature
-  })).addTo(map);
+    _.each(locationData, function(location) {
+      minScore = Math.min(minScore, location.data.scores);
+      maxScore = Math.max(maxScore, location.data.scores);
+    });
 
-  var ziplayers = {};
-  var grouplayers = {};
+    minScore = Math.max(minScore, 0);
+
+    range = maxScore - minScore;
+
+    initMap();
+  });
+
+  function initMap() {
+    L.mapbox.accessToken = 'pk.eyJ1IjoiemVldmwiLCJhIjoicFJzVU8zMCJ9.q6b4Uw5qGAULFaNrCGM7DA';
+
+    map = L.mapbox.map('map', 'zeevl.kmnm0b2n', {attributionControl: false, infoControl: true})
+      .setView([37.02, -98.965], 4)
+      .on('zoomend', zoomChanged)
+      .on('moveend', positionChanged);
+
+    map.gridControl.options.follow = true;
+
+    layers.states = omnivore.topojson('topo/states.json', null, L.geoJson(null, {
+      style: getStyle,
+      onEachFeature: onEachFeature
+    })).addTo(map);
+
+    // info popup
+    var info = L.mapbox.gridControl(layers.states, {follow: true});
+    info.setTemplate('hi');
+    info.addTo(map);
+
+    // featureLayer.bindPopup?
+    //https://www.mapbox.com/mapbox.js/example/v1.0.0/custom-popup/
+
+  }
 
   function getStyle(feature) {
+    var score = getStateScore(feature.properties.name);
+    var color = getColorForScore(score);
+
     return {
         weight: 2,
         opacity: 0.1,
-        color: 'black',
+        color: 'white',
         fillOpacity: 0.7,
-        fillColor: getColor(feature.properties.density)
+        fillColor: color
     };
   }
 
@@ -46,92 +82,120 @@ $(function() {
     };
   }
 
-  function getGroupStyle(feature) {
+  function getCountiesStyle(feature) {
+    var score = getZipcodesScore(feature.properties.zipcodes);
+    var color = getColorForScore(score);
+
     return {
         weight: 0,
         opacity: 0.1,
+        color: 'white',
         fillOpacity: 0.7,
-        fillColor: getZipColor(feature.properties.zipcodes[0])
+        fillColor: color
     };
   }
 
 
-  var pallet = [
-    'rgb(247,251,255)',
-    'rgb(222,235,247)',
-    'rgb(198,219,239)',
-    'rgb(158,202,225)',
-    'rgb(107,174,214)',
-    'rgb(66,146,198)',
-    'rgb(33,113,181)',
-    'rgb(8,69,148)'
-  ];
+  function getZipcodesScore(zipcodes) {
+    var locations = 0;
+    var total = _.reduce(locationData, function(memo, location) {
+      if(zipcodes.indexOf(location.zip_code) > -1) {
+        memo += location.data.scores;
+        locations++;
+      }
 
-  function getColor(d) {
-    return d > 1000 ? pallet[0] :
-      d > 500  ? pallet[1] :
-      d > 200  ? pallet[2] :
-      d > 100  ? pallet[3] :
-      d > 50   ? pallet[4] :
-      d > 20   ? pallet[5] :
-      d > 10   ? pallet[6] :
-      pallet[7];
+      return memo;
+    }, 0);
+
+    return (locations == 0 ? 0 : total / locations);
   }
 
-  function getZipColor(zip) {
-    return pallet[zip % 5]
+
+
+  function getStateScore(name) {
+    var abbrev = stateAbbrevs[name.toLowerCase()];
+    var locations = 0;
+    var total = _.reduce(locationData, function(memo, location) {
+      if(location.state.toLowerCase() == abbrev) {
+        locations++;
+        memo += location.data.scores;
+      }
+      return memo;
+    }, 0);
+
+    return (locations == 0 ? 0 : total / locations);
   }
 
-  function getCityColor(name) {
-    return name ? pallet[name.charCodeAt() % 5] : pallet[0]
+
+  var minR = 247;
+  var minG = 251;
+  var minB = 255;
+
+  var maxR = 8;
+  var maxG = 69;
+  var maxB = 148;
+
+
+  function getColorForScore(score) {
+    if(!score) {
+      return 'rgba(0, 0, 0, 0)';
+    }
+    var pct = (score - minScore) / (maxScore - minScore);
+
+    return 'rgba(' +
+      + Math.round(minR - ((minR - maxR) * pct)) + ','
+      + Math.round(minG - ((minG - maxG) * pct)) + ','
+      + Math.round(minB - ((minB - maxB) * pct)) + ','
+      + '0.8)'
   }
 
   function zoomChanged() {
     zoom = map.getZoom();
+    console.log('zoom: ', zoom);
 
     if(zoom > ZIP_ZOOM)
       showZipcodeLayer();
-    else if(zoom > GROUP_ZOOM)
-      showGroupedLayer();
+    else if(zoom >= COUNTY_ZOOM)
+      showCountyLayer();
     else
       showStatesLayer();
   }
 
   function showZipcodeLayer() {
     removeStates();
-    removeGroups();
+    removeCounties();
     showVisibleZipcodes();
   }
 
-  function showGroupedLayer() {
+  function showCountyLayer() {
     removeStates();
     removeZipcodes();
-    showVisibleGroups();
+    showVisibleCounties();
   }
 
   function showStatesLayer() {
     removeZipcodes();
-    removeGroups();
+    removeCounties();
 
-    if(!map.hasLayer(statesLayer))
-      map.addLayer(statesLayer);
+    if(!map.hasLayer(layers.states))
+      map.addLayer(layers.states);
   }
 
   function removeStates() {
-    map.removeLayer(statesLayer);
+    map.removeLayer(layers.states);
   }
 
   function removeZipcodes() {
-    for(var key in ziplayers) {
-      if(ziplayers.hasOwnProperty(key))
-        map.removeLayer(ziplayers[key]);
+    for(var key in layers.zipcodes) {
+      if(layers.zipcodes.hasOwnProperty(key))
+        map.removeLayer(layers.zipcodes[key]);
     }
   }
 
-  function removeGroups() {
-    for(var key in grouplayers) {
-      if(grouplayers.hasOwnProperty(key))
-        map.removeLayer(grouplayers[key]);
+  function removeCounties() {
+    for(var key in layers.counties) {
+      if(layers.counties.hasOwnProperty(key))
+        map.removeLayer(layers.counties[key]);
     }
   }
 
@@ -146,15 +210,15 @@ $(function() {
   function showVisibleZipcodes() {
     var states = getVisibleStates();
 
-    var removeStates = _.difference(_.keys(ziplayers), states);
+    var removeStates = _.difference(_.keys(layers.zipcodes), states);
     _.each(removeStates, function(state) {
-      map.removeLayer(ziplayers[state]);
-      delete ziplayers[state];
+      map.removeLayer(layers.zipcodes[state]);
+      delete layers.zipcodes[state];
     });
 
     _.each(states, function(state) {
-      if(!ziplayers[state]) {
-        ziplayers[state] = omnivore.topojson('zipcode/' + state + '.json',
+      if(!layers.zipcodes[state]) {
+        layers.zipcodes[state] = omnivore.topojson('zipcode/' + state + '.json',
           null,
           L.geoJson(null, {
             style: getZipStyle,
@@ -163,34 +227,34 @@ $(function() {
         );
       }
 
-      if(!map.hasLayer(ziplayers[state])) {
-        map.addLayer(ziplayers[state]);
+      if(!map.hasLayer(layers.zipcodes[state])) {
+        map.addLayer(layers.zipcodes[state]);
       }
     });
   }
 
-  function showVisibleGroups() {
+  function showVisibleCounties() {
     var states = getVisibleStates();
 
-    var removeStates = _.difference(_.keys(grouplayers), states);
+    var removeStates = _.difference(_.keys(layers.counties), states);
     _.each(removeStates, function(state) {
-      map.removeLayer(grouplayers[state]);
-      delete grouplayers[state];
+      map.removeLayer(layers.counties[state]);
+      delete layers.counties[state];
     });
 
     _.each(states, function(state) {
-      if(!grouplayers[state]) {
-        grouplayers[state] = omnivore.topojson('grouped/' + state + '.json',
+      if(!layers.counties[state]) {
+        layers.counties[state] = omnivore.topojson('state-counties/' + state + '.json',
           null,
           L.geoJson(null, {
-            style: getGroupStyle,
+            style: getCountiesStyle,
             onEachFeature: onEachFeature
           })
         );
       }
 
-      if(!map.hasLayer(grouplayers[state])) {
-        map.addLayer(grouplayers[state]);
+      if(!map.hasLayer(layers.counties[state])) {
+        map.addLayer(layers.counties[state]);
       }
     });
   }
@@ -225,7 +289,7 @@ $(function() {
   function highlightFeature(e) {
     var layer = e.target;
     layer.setStyle({
-      weight: 5,
+      weight: 3,
       color: '#000',
       dashArray: '',
       fillOpacity: 0.7
@@ -237,58 +301,31 @@ $(function() {
       layer.bringToFront();
     }
 
-    info.update(layer.feature.properties);
+    // info.update(layer.feature.properties);
   }
 
   function resetHighlight(e) {
     zoom = map.getZoom();
 
-    if(zoom > ZIP_ZOOM) {
-      _.each(ziplayers, function(layer) {
+    if(zoom >= ZIP_ZOOM) {
+      _.each(layers.zipcodes, function(layer) {
         layer.resetStyle(e.target);
       });
     }
-    else if(zoom > GROUP_ZOOM) {
-      _.each(grouplayers, function(layer) {
+    else if(zoom >= COUNTY_ZOOM) {
+      _.each(layers.counties, function(layer) {
         layer.resetStyle(e.target);
       });
     }
     else
-      statesLayer.resetStyle(e.target);
+      layers.states.resetStyle(e.target);
 
-    info.update();
+    // info.update();
   }
 
   function zoomToFeature(e) {
     map.fitBounds(e.target.getBounds());
   }
-
-  // info popup
-  var info = L.control();
-  info.onAdd = function(map) {
-    this._div = L.DomUtil.create('div', 'info');
-    this.update();
-    return this._div;
-  }
-
-  info.update = function (props) {
-    html = '<h4>Population Density</h4>';
-    if(props && props.poname)
-      html += '<b>' + props.poname + '</b>';
-
-    if(props && props.name)
-      html += '<b>' + props.name + '</b><br />' + props.density + ' people / mi<sup>2</sup>';
-
-    if(props && props.zip)
-      html += '<b>' + props.zip + '</b><br />' + (props.zip % 5) + ' people / mi<sup>2</sup>';
-
-    if(!props)
-      html += 'Hover over map';
-
-    this._div.innerHTML = html
-  };
-
-  info.addTo(map);
 
 
 // lat/long extremes of each state
@@ -453,3 +490,57 @@ stateBoxes = [
 
 
 });
+
+
+var stateAbbrevs = {
+  'alabama': 'al',
+  'alaska': 'ak',
+  'arizona': 'az',
+  'arkansas': 'ar',
+  'california': 'ca',
+  'colorado': 'co',
+  'connecticut': 'ct',
+  'delaware': 'de',
+  'florida': 'fl',
+  'georgia': 'ga',
+  'hawaii': 'hi',
+  'idaho': 'id',
+  'illinois': 'il',
+  'indiana': 'in',
+  'iowa': 'ia',
+  'kansas': 'ks',
+  'kentucky': 'ky',
+  'louisiana': 'la',
+  'maine': 'me',
+  'maryland': 'md',
+  'massachusetts': 'ma',
+  'michigan': 'mi',
+  'minnesota': 'mn',
+  'mississippi': 'ms',
+  'missouri': 'mo',
+  'montana': 'mt',
+  'nebraska': 'ne',
+  'nevada': 'nv',
+  'new hampshire': 'nh',
+  'new jersey': 'nj',
+  'new mexico': 'nm',
+  'new york': 'ny',
+  'north carolina': 'nc',
+  'north dakota': 'nd',
+  'ohio': 'oh',
+  'oklahoma': 'ok',
+  'oregon': 'or',
+  'pennsylvania': 'pa',
+  'rhode island': 'ri',
+  'south carolina': 'sc',
+  'south dakota': 'sd',
+  'tennessee': 'tn',
+  'texas': 'tx',
+  'utah': 'ut',
+  'vermont': 'vt',
+  'virginia': 'va',
+  'washington': 'wa',
+  'west virginia': 'wv',
+  'wisconsin': 'wi',
+  'wyoming': 'wy'
+};
