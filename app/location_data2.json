@@ -1,1 +1,7859 @@
-[{"data":{"scores":89},"zip_code":"60073","state":"IL"},{"data":{"scores":61},"zip_code":"46123","state":"IN"},{"data":{"scores":82},"zip_code":"40059","state":"KY"},{"data":{"scores":60},"zip_code":"76063","state":"TX"},{"data":{"scores":87},"zip_code":"76123","state":"TX"},{"data":{"scores":82},"zip_code":"32514","state":"FL"},{"data":{"scores":60},"zip_code":"76116","state":"TX"},{"data":{"scores":73},"zip_code":"19341","state":"PA"},{"data":{"scores":77},"zip_code":"29209","state":"SC"},{"data":{"scores":83},"zip_code":"43147","state":"OH"},{"data":{"scores":67},"zip_code":"30039","state":"GA"},{"data":{"scores":76},"zip_code":"53711","state":"WI"},{"data":{"scores":66},"zip_code":"60050","state":"IL"},{"data":{"scores":68},"zip_code":"29483","state":"SC"},{"data":{"scores":65},"zip_code":"29412","state":"SC"},{"data":{"scores":80},"zip_code":"29414","state":"SC"},{"data":{"scores":65},"zip_code":"29501","state":"SC"},{"data":{"scores":60},"zip_code":"98003","state":"WA"},{"data":{"scores":63},"zip_code":"77095","state":"TX"},{"data":{"scores":63},"zip_code":"53508","state":"WI"},{"data":{"scores":80},"zip_code":"53575","state":"WI"},{"data":{"scores":82},"zip_code":"53711","state":"WI"},{"data":{"scores":64},"zip_code":"53717","state":"WI"},{"data":{"scores":74},"zip_code":"53717","state":"WI"},{"data":{"scores":75},"zip_code":"53593","state":"WI"},{"data":{"scores":89},"zip_code":"62269","state":"IL"},{"data":{"scores":87},"zip_code":"78154","state":"TX"},{"data":{"scores":68},"zip_code":"91902","state":"CA"},{"data":{"scores":60},"zip_code":"14450","state":"NY"},{"data":{"scores":85},"zip_code":"14526","state":"NY"},{"data":{"scores":71},"zip_code":"14616","state":"NY"},{"data":{"scores":80},"zip_code":"14615","state":"NY"},{"data":{"scores":77},"zip_code":"48047","state":"MI"},{"data":{"scores":67},"zip_code":"48042","state":"MI"},{"data":{"scores":81},"zip_code":"85308","state":"AZ"},{"data":{"scores":71},"zip_code":"91801","state":"CA"},{"data":{"scores":89},"zip_code":"78660","state":"TX"},{"data":{"scores":78},"zip_code":"45050","state":"OH"},{"data":{"scores":67},"zip_code":"45202","state":"OH"},{"data":{"scores":70},"zip_code":"60137","state":"IL"},{"data":{"scores":81},"zip_code":"60543","state":"IL"},{"data":{"scores":84},"zip_code":"78759","state":"TX"},{"data":{"scores":64},"zip_code":"78613","state":"TX"},{"data":{"scores":64},"zip_code":"85249","state":"AZ"},{"data":{"scores":80},"zip_code":"85208","state":"AZ"},{"data":{"scores":77},"zip_code":"97024","state":"OR"},{"data":{"scores":89},"zip_code":"97140","state":"OR"},{"data":{"scores":75},"zip_code":"84041","state":"UT"},{"data":{"scores":88},"zip_code":"44906","state":"OH"},{"data":{"scores":62},"zip_code":"30044","state":"GA"},{"data":{"scores":70},"zip_code":"98059","state":"WA"},{"data":{"scores":69},"zip_code":"78664","state":"TX"},{"data":{"scores":83},"zip_code":"32837","state":"FL"},{"data":{"scores":60},"zip_code":"32714","state":"FL"},{"data":{"scores":66},"zip_code":"95492","state":"CA"},{"data":{"scores":76},"zip_code":"32765","state":"FL"},{"data":{"scores":62},"zip_code":"21215","state":"MD"},{"data":{"scores":81},"zip_code":"21204","state":"MD"},{"data":{"scores":74},"zip_code":"44146","state":"OH"},{"data":{"scores":80},"zip_code":"44070","state":"OH"},{"data":{"scores":88},"zip_code":"72712","state":"AR"},{"data":{"scores":64},"zip_code":"85283","state":"AZ"},{"data":{"scores":67},"zip_code":"72703","state":"AR"},{"data":{"scores":72},"zip_code":"23321","state":"VA"},{"data":{"scores":77},"zip_code":"23320","state":"VA"},{"data":{"scores":76},"zip_code":"23320","state":"VA"},{"data":{"scores":73},"zip_code":"90040","state":"CA"},{"data":{"scores":68},"zip_code":"76021","state":"TX"},{"data":{"scores":67},"zip_code":"73159","state":"OK"},{"data":{"scores":60},"zip_code":"73130","state":"OK"},{"data":{"scores":65},"zip_code":"32955","state":"FL"},{"data":{"scores":70},"zip_code":"73162","state":"OK"},{"data":{"scores":79},"zip_code":"92056","state":"CA"},{"data":{"scores":84},"zip_code":"76021","state":"TX"},{"data":{"scores":61},"zip_code":"28078","state":"NC"},{"data":{"scores":62},"zip_code":"27410","state":"NC"},{"data":{"scores":64},"zip_code":"60451","state":"IL"},{"data":{"scores":85},"zip_code":"27282","state":"NC"},{"data":{"scores":88},"zip_code":"33510","state":"FL"},{"data":{"scores":70},"zip_code":"23831","state":"VA"},{"data":{"scores":72},"zip_code":"68516","state":"NE"},{"data":{"scores":73},"zip_code":"68046","state":"NE"},{"data":{"scores":86},"zip_code":"68510","state":"NE"},{"data":{"scores":71},"zip_code":"68134","state":"NE"},{"data":{"scores":89},"zip_code":"14221","state":"NY"},{"data":{"scores":79},"zip_code":"68154","state":"NE"},{"data":{"scores":81},"zip_code":"73034","state":"OK"},{"data":{"scores":87},"zip_code":"80241","state":"CO"},{"data":{"scores":69},"zip_code":"80020","state":"CO"},{"data":{"scores":68},"zip_code":"48126","state":"MI"},{"data":{"scores":82},"zip_code":"75024","state":"TX"},{"data":{"scores":66},"zip_code":"89128","state":"NV"},{"data":{"scores":76},"zip_code":"80128","state":"CO"},{"data":{"scores":78},"zip_code":"30096","state":"GA"},{"data":{"scores":88},"zip_code":"33190","state":"FL"},{"data":{"scores":60},"zip_code":"75063","state":"TX"},{"data":{"scores":67},"zip_code":"30083","state":"GA"},{"data":{"scores":69},"zip_code":"23456","state":"VA"},{"data":{"scores":70},"zip_code":"61704","state":"IL"},{"data":{"scores":81},"zip_code":"92392","state":"CA"},{"data":{"scores":81},"zip_code":"30064","state":"GA"},{"data":{"scores":75},"zip_code":"63128","state":"MO"},{"data":{"scores":60},"zip_code":"75052","state":"TX"},{"data":{"scores":87},"zip_code":"77060","state":"TX"},{"data":{"scores":74},"zip_code":"33025","state":"FL"},{"data":{"scores":66},"zip_code":"28110","state":"NC"},{"data":{"scores":82},"zip_code":"46123","state":"IN"},{"data":{"scores":65},"zip_code":"28078","state":"NC"},{"data":{"scores":70},"zip_code":"95401","state":"CA"},{"data":{"scores":70},"zip_code":"20874","state":"MD"},{"data":{"scores":60},"zip_code":"20602","state":"MD"},{"data":{"scores":69},"zip_code":"77008","state":"TX"},{"data":{"scores":74},"zip_code":"77382","state":"TX"},{"data":{"scores":62},"zip_code":"34243","state":"FL"},{"data":{"scores":73},"zip_code":"34205","state":"FL"},{"data":{"scores":70},"zip_code":"45324","state":"OH"},{"data":{"scores":87},"zip_code":"77380","state":"TX"},{"data":{"scores":80},"zip_code":"45342","state":"OH"},{"data":{"scores":73},"zip_code":"77450","state":"TX"},{"data":{"scores":69},"zip_code":"89103","state":"NV"},{"data":{"scores":72},"zip_code":"89145","state":"NV"},{"data":{"scores":81},"zip_code":"29229","state":"SC"},{"data":{"scores":85},"zip_code":"76054","state":"TX"},{"data":{"scores":82},"zip_code":"46304","state":"IN"},{"data":{"scores":78},"zip_code":"66223","state":"KS"},{"data":{"scores":62},"zip_code":"66216","state":"KS"},{"data":{"scores":68},"zip_code":"61821","state":"IL"},{"data":{"scores":78},"zip_code":"66226","state":"KS"},{"data":{"scores":60},"zip_code":"85392","state":"AZ"},{"data":{"scores":60},"zip_code":"76092","state":"TX"},{"data":{"scores":65},"zip_code":"33569","state":"FL"},{"data":{"scores":81},"zip_code":"62034","state":"IL"},{"data":{"scores":61},"zip_code":"14514","state":"NY"},{"data":{"scores":66},"zip_code":"11769","state":"NY"},{"data":{"scores":85},"zip_code":"78749","state":"TX"},{"data":{"scores":65},"zip_code":"85260","state":"AZ"},{"data":{"scores":84},"zip_code":"97229","state":"OR"},{"data":{"scores":79},"zip_code":"97068","state":"OR"},{"data":{"scores":63},"zip_code":"34761","state":"FL"},{"data":{"scores":80},"zip_code":"23693","state":"VA"},{"data":{"scores":89},"zip_code":"73003","state":"OK"},{"data":{"scores":68},"zip_code":"73120","state":"OK"},{"data":{"scores":85},"zip_code":"27127","state":"NC"},{"data":{"scores":75},"zip_code":"76248","state":"TX"},{"data":{"scores":83},"zip_code":"23233","state":"VA"},{"data":{"scores":79},"zip_code":"20878","state":"MD"},{"data":{"scores":84},"zip_code":"30012","state":"GA"},{"data":{"scores":65},"zip_code":"33186","state":"FL"},{"data":{"scores":61},"zip_code":"60610","state":"IL"},{"data":{"scores":89},"zip_code":"75056","state":"TX"},{"data":{"scores":61},"zip_code":"48185","state":"MI"},{"data":{"scores":87},"zip_code":"48202","state":"MI"},{"data":{"scores":79},"zip_code":"34667","state":"FL"},{"data":{"scores":82},"zip_code":"76210","state":"TX"},{"data":{"scores":68},"zip_code":"91765","state":"CA"},{"data":{"scores":85},"zip_code":"08822","state":"NJ"},{"data":{"scores":85},"zip_code":"32257","state":"FL"},{"data":{"scores":64},"zip_code":"33803","state":"FL"},{"data":{"scores":72},"zip_code":"40513","state":"KY"},{"data":{"scores":69},"zip_code":"11749","state":"NY"},{"data":{"scores":85},"zip_code":"64155","state":"MO"},{"data":{"scores":69},"zip_code":"29445","state":"SC"},{"data":{"scores":88},"zip_code":"76012","state":"TX"},{"data":{"scores":62},"zip_code":"76006","state":"TX"},{"data":{"scores":86},"zip_code":"93701","state":"CA"},{"data":{"scores":74},"zip_code":"20121","state":"VA"},{"data":{"scores":69},"zip_code":"37217","state":"TN"},{"data":{"scores":68},"zip_code":"85023","state":"AZ"},{"data":{"scores":62},"zip_code":"20120","state":"VA"},{"data":{"scores":78},"zip_code":"53717","state":"WI"},{"data":{"scores":63},"zip_code":"37167","state":"TN"},{"data":{"scores":72},"zip_code":"37122","state":"TN"},{"data":{"scores":86},"zip_code":"49546","state":"MI"},{"data":{"scores":73},"zip_code":"33428","state":"FL"},{"data":{"scores":72},"zip_code":"48316","state":"MI"},{"data":{"scores":60},"zip_code":"60504","state":"IL"},{"data":{"scores":86},"zip_code":"50021","state":"IA"},{"data":{"scores":76},"zip_code":"11741","state":"NY"},{"data":{"scores":66},"zip_code":"63026","state":"MO"},{"data":{"scores":79},"zip_code":"23464","state":"VA"},{"data":{"scores":61},"zip_code":"78664","state":"TX"},{"data":{"scores":60},"zip_code":"85142","state":"AZ"},{"data":{"scores":88},"zip_code":"32822","state":"FL"},{"data":{"scores":85},"zip_code":"32765","state":"FL"},{"data":{"scores":89},"zip_code":"64804","state":"MO"},{"data":{"scores":76},"zip_code":"66047","state":"KS"},{"data":{"scores":61},"zip_code":"32960","state":"FL"},{"data":{"scores":81},"zip_code":"37312","state":"TN"},{"data":{"scores":63},"zip_code":"66614","state":"KS"},{"data":{"scores":81},"zip_code":"76134","state":"TX"},{"data":{"scores":87},"zip_code":"76017","state":"TX"},{"data":{"scores":73},"zip_code":"73159","state":"OK"},{"data":{"scores":79},"zip_code":"32953","state":"FL"},{"data":{"scores":74},"zip_code":"76002","state":"TX"},{"data":{"scores":68},"zip_code":"52402","state":"IA"},{"data":{"scores":86},"zip_code":"32905","state":"FL"},{"data":{"scores":82},"zip_code":"76131","state":"TX"},{"data":{"scores":66},"zip_code":"44320","state":"OH"},{"data":{"scores":60},"zip_code":"93003","state":"CA"},{"data":{"scores":68},"zip_code":"23112","state":"VA"},{"data":{"scores":64},"zip_code":"68137","state":"NE"},{"data":{"scores":77},"zip_code":"84094","state":"UT"},{"data":{"scores":63},"zip_code":"66049","state":"KS"},{"data":{"scores":76},"zip_code":"30022","state":"GA"},{"data":{"scores":75},"zip_code":"89014","state":"NV"},{"data":{"scores":63},"zip_code":"89014","state":"NV"},{"data":{"scores":66},"zip_code":"23456","state":"VA"},{"data":{"scores":60},"zip_code":"75028","state":"TX"},{"data":{"scores":79},"zip_code":"20602","state":"MD"},{"data":{"scores":88},"zip_code":"77479","state":"TX"},{"data":{"scores":63},"zip_code":"92591","state":"CA"},{"data":{"scores":78},"zip_code":"92505","state":"CA"},{"data":{"scores":87},"zip_code":"77479","state":"TX"},{"data":{"scores":69},"zip_code":"92677","state":"CA"},{"data":{"scores":88},"zip_code":"42104","state":"KY"},{"data":{"scores":62},"zip_code":"92646","state":"CA"},{"data":{"scores":82},"zip_code":"77479","state":"TX"},{"data":{"scores":82},"zip_code":"91387","state":"CA"},{"data":{"scores":82},"zip_code":"77380","state":"TX"},{"data":{"scores":67},"zip_code":"48243","state":"MI"},{"data":{"scores":62},"zip_code":"30097","state":"GA"},{"data":{"scores":81},"zip_code":"27604","state":"NC"},{"data":{"scores":72},"zip_code":"77346","state":"TX"},{"data":{"scores":71},"zip_code":"89084","state":"NV"},{"data":{"scores":81},"zip_code":"95758","state":"CA"},{"data":{"scores":84},"zip_code":"53188","state":"WI"},{"data":{"scores":87},"zip_code":"31558","state":"GA"},{"data":{"scores":73},"zip_code":"08844","state":"NJ"},{"data":{"scores":64},"zip_code":"32068","state":"FL"},{"data":{"scores":65},"zip_code":"32225","state":"FL"},{"data":{"scores":78},"zip_code":"78221","state":"TX"},{"data":{"scores":70},"zip_code":"44142","state":"OH"},{"data":{"scores":75},"zip_code":"35244","state":"AL"},{"data":{"scores":85},"zip_code":"38128","state":"TN"},{"data":{"scores":89},"zip_code":"95240","state":"CA"},{"data":{"scores":78},"zip_code":"95355","state":"CA"},{"data":{"scores":65},"zip_code":"78216","state":"TX"},{"data":{"scores":72},"zip_code":"43606","state":"OH"},{"data":{"scores":63},"zip_code":"46203","state":"IN"},{"data":{"scores":85},"zip_code":"13041","state":"NY"},{"data":{"scores":63},"zip_code":"85259","state":"AZ"},{"data":{"scores":74},"zip_code":"64158","state":"MO"},{"data":{"scores":63},"zip_code":"60193","state":"IL"},{"data":{"scores":72},"zip_code":"60156","state":"IL"},{"data":{"scores":78},"zip_code":"37922","state":"TN"},{"data":{"scores":80},"zip_code":"76039","state":"TX"},{"data":{"scores":60},"zip_code":"37931","state":"TN"},{"data":{"scores":68},"zip_code":"76017","state":"TX"},{"data":{"scores":68},"zip_code":"20010","state":"DC"},{"data":{"scores":68},"zip_code":"37830","state":"TN"},{"data":{"scores":61},"zip_code":"29687","state":"SC"},{"data":{"scores":61},"zip_code":"29607","state":"SC"},{"data":{"scores":68},"zip_code":"92129","state":"CA"},{"data":{"scores":83},"zip_code":"76016","state":"TX"},{"data":{"scores":75},"zip_code":"37129","state":"TN"},{"data":{"scores":63},"zip_code":"92128","state":"CA"},{"data":{"scores":83},"zip_code":"32258","state":"FL"},{"data":{"scores":68},"zip_code":"32578","state":"FL"},{"data":{"scores":64},"zip_code":"35805","state":"AL"},{"data":{"scores":80},"zip_code":"76108","state":"TX"},{"data":{"scores":67},"zip_code":"33624","state":"FL"},{"data":{"scores":78},"zip_code":"80916","state":"CO"},{"data":{"scores":86},"zip_code":"64131","state":"MO"},{"data":{"scores":62},"zip_code":"80918","state":"CO"},{"data":{"scores":89},"zip_code":"29485","state":"SC"},{"data":{"scores":66},"zip_code":"33647","state":"FL"},{"data":{"scores":77},"zip_code":"93065","state":"CA"},{"data":{"scores":69},"zip_code":"33624","state":"FL"},{"data":{"scores":66},"zip_code":"76017","state":"TX"},{"data":{"scores":64},"zip_code":"76034","state":"TX"},{"data":{"scores":80},"zip_code":"76021","state":"TX"},{"data":{"scores":88},"zip_code":"33511","state":"FL"},{"data":{"scores":68},"zip_code":"53589","state":"WI"},{"data":{"scores":80},"zip_code":"98052","state":"WA"},{"data":{"scores":81},"zip_code":"33615","state":"FL"},{"data":{"scores":83},"zip_code":"43240","state":"OH"},{"data":{"scores":65},"zip_code":"43081","state":"OH"},{"data":{"scores":81},"zip_code":"43026","state":"OH"},{"data":{"scores":73},"zip_code":"43004","state":"OH"},{"data":{"scores":77},"zip_code":"43081","state":"OH"},{"data":{"scores":87},"zip_code":"85018","state":"AZ"},{"data":{"scores":67},"zip_code":"53713","state":"WI"},{"data":{"scores":66},"zip_code":"53718","state":"WI"},{"data":{"scores":81},"zip_code":"37138","state":"TN"},{"data":{"scores":86},"zip_code":"53590","state":"WI"},{"data":{"scores":62},"zip_code":"53597","state":"WI"},{"data":{"scores":63},"zip_code":"37072","state":"TN"},{"data":{"scores":62},"zip_code":"93720","state":"CA"},{"data":{"scores":71},"zip_code":"93611","state":"CA"},{"data":{"scores":75},"zip_code":"49428","state":"MI"},{"data":{"scores":72},"zip_code":"33436","state":"FL"},{"data":{"scores":66},"zip_code":"33411","state":"FL"},{"data":{"scores":70},"zip_code":"62221","state":"IL"},{"data":{"scores":62},"zip_code":"91910","state":"CA"},{"data":{"scores":62},"zip_code":"92071","state":"CA"},{"data":{"scores":60},"zip_code":"91942","state":"CA"},{"data":{"scores":67},"zip_code":"48315","state":"MI"},{"data":{"scores":89},"zip_code":"85027","state":"AZ"},{"data":{"scores":78},"zip_code":"45040","state":"OH"},{"data":{"scores":65},"zip_code":"85302","state":"AZ"},{"data":{"scores":75},"zip_code":"48167","state":"MI"},{"data":{"scores":76},"zip_code":"45202","state":"OH"},{"data":{"scores":67},"zip_code":"92126","state":"CA"},{"data":{"scores":69},"zip_code":"45069","state":"OH"},{"data":{"scores":71},"zip_code":"60564","state":"IL"},{"data":{"scores":74},"zip_code":"50309","state":"IA"},{"data":{"scores":83},"zip_code":"60506","state":"IL"},{"data":{"scores":89},"zip_code":"50315","state":"IA"},{"data":{"scores":63},"zip_code":"60565","state":"IL"},{"data":{"scores":86},"zip_code":"11788","state":"NY"},{"data":{"scores":79},"zip_code":"50021","state":"IA"},{"data":{"scores":71},"zip_code":"63021","state":"MO"},{"data":{"scores":80},"zip_code":"85635","state":"AZ"},{"data":{"scores":63},"zip_code":"63010","state":"MO"},{"data":{"scores":65},"zip_code":"78758","state":"TX"},{"data":{"scores":84},"zip_code":"85043","state":"AZ"},{"data":{"scores":78},"zip_code":"85715","state":"AZ"},{"data":{"scores":64},"zip_code":"85746","state":"AZ"},{"data":{"scores":62},"zip_code":"85730","state":"AZ"},{"data":{"scores":85},"zip_code":"85748","state":"AZ"},{"data":{"scores":78},"zip_code":"85741","state":"AZ"},{"data":{"scores":82},"zip_code":"85719","state":"AZ"},{"data":{"scores":71},"zip_code":"85749","state":"AZ"},{"data":{"scores":63},"zip_code":"78748","state":"TX"},{"data":{"scores":84},"zip_code":"28152","state":"NC"},{"data":{"scores":87},"zip_code":"08043","state":"NJ"},{"data":{"scores":83},"zip_code":"64151","state":"MO"},{"data":{"scores":77},"zip_code":"75067","state":"TX"},{"data":{"scores":70},"zip_code":"28273","state":"NC"},{"data":{"scores":67},"zip_code":"85226","state":"AZ"},{"data":{"scores":66},"zip_code":"40223","state":"KY"},{"data":{"scores":60},"zip_code":"76182","state":"TX"},{"data":{"scores":63},"zip_code":"87108","state":"NM"},{"data":{"scores":74},"zip_code":"87110","state":"NM"},{"data":{"scores":71},"zip_code":"87505","state":"NM"},{"data":{"scores":80},"zip_code":"87122","state":"NM"},{"data":{"scores":71},"zip_code":"87112","state":"NM"},{"data":{"scores":73},"zip_code":"87110","state":"NM"},{"data":{"scores":62},"zip_code":"87105","state":"NM"},{"data":{"scores":61},"zip_code":"87124","state":"NM"},{"data":{"scores":70},"zip_code":"87120","state":"NM"},{"data":{"scores":85},"zip_code":"87124","state":"NM"},{"data":{"scores":73},"zip_code":"87124","state":"NM"},{"data":{"scores":71},"zip_code":"87114","state":"NM"},{"data":{"scores":67},"zip_code":"94806","state":"CA"},{"data":{"scores":64},"zip_code":"48912","state":"MI"},{"data":{"scores":87},"zip_code":"32837","state":"FL"},{"data":{"scores":89},"zip_code":"32828","state":"FL"},{"data":{"scores":85},"zip_code":"32818","state":"FL"},{"data":{"scores":88},"zip_code":"32746","state":"FL"},{"data":{"scores":60},"zip_code":"32810","state":"FL"},{"data":{"scores":76},"zip_code":"92845","state":"CA"},{"data":{"scores":73},"zip_code":"34743","state":"FL"},{"data":{"scores":64},"zip_code":"34744","state":"FL"},{"data":{"scores":80},"zip_code":"32792","state":"FL"},{"data":{"scores":70},"zip_code":"34746","state":"FL"},{"data":{"scores":65},"zip_code":"21076","state":"MD"},{"data":{"scores":85},"zip_code":"21046","state":"MD"},{"data":{"scores":64},"zip_code":"21054","state":"MD"},{"data":{"scores":86},"zip_code":"21042","state":"MD"},{"data":{"scores":66},"zip_code":"21045","state":"MD"},{"data":{"scores":65},"zip_code":"21014","state":"MD"},{"data":{"scores":76},"zip_code":"75077","state":"TX"},{"data":{"scores":73},"zip_code":"65804","state":"MO"},{"data":{"scores":63},"zip_code":"98012","state":"WA"},{"data":{"scores":88},"zip_code":"98036","state":"WA"},{"data":{"scores":72},"zip_code":"98037","state":"WA"},{"data":{"scores":67},"zip_code":"87120","state":"NM"},{"data":{"scores":76},"zip_code":"94801","state":"CA"},{"data":{"scores":75},"zip_code":"78754","state":"TX"},{"data":{"scores":76},"zip_code":"78613","state":"TX"},{"data":{"scores":63},"zip_code":"78660","state":"TX"},{"data":{"scores":61},"zip_code":"73160","state":"OK"},{"data":{"scores":89},"zip_code":"78613","state":"TX"},{"data":{"scores":62},"zip_code":"98034","state":"WA"},{"data":{"scores":89},"zip_code":"30127","state":"GA"},{"data":{"scores":68},"zip_code":"98074","state":"WA"},{"data":{"scores":82},"zip_code":"23060","state":"VA"},{"data":{"scores":84},"zip_code":"23185","state":"VA"},{"data":{"scores":82},"zip_code":"84121","state":"UT"},{"data":{"scores":65},"zip_code":"23454","state":"VA"},{"data":{"scores":86},"zip_code":"85234","state":"AZ"},{"data":{"scores":78},"zip_code":"30101","state":"GA"},{"data":{"scores":70},"zip_code":"76018","state":"TX"},{"data":{"scores":75},"zip_code":"92057","state":"CA"},{"data":{"scores":61},"zip_code":"30274","state":"GA"},{"data":{"scores":69},"zip_code":"73034","state":"OK"},{"data":{"scores":76},"zip_code":"73013","state":"OK"},{"data":{"scores":74},"zip_code":"73099","state":"OK"},{"data":{"scores":60},"zip_code":"73099","state":"OK"},{"data":{"scores":79},"zip_code":"23456","state":"VA"},{"data":{"scores":84},"zip_code":"73072","state":"OK"},{"data":{"scores":66},"zip_code":"23703","state":"VA"},{"data":{"scores":61},"zip_code":"73139","state":"OK"},{"data":{"scores":88},"zip_code":"33759","state":"FL"},{"data":{"scores":75},"zip_code":"73170","state":"OK"},{"data":{"scores":61},"zip_code":"73119","state":"OK"},{"data":{"scores":84},"zip_code":"73139","state":"OK"},{"data":{"scores":64},"zip_code":"73162","state":"OK"},{"data":{"scores":87},"zip_code":"21017","state":"MD"},{"data":{"scores":65},"zip_code":"73132","state":"OK"},{"data":{"scores":82},"zip_code":"76051","state":"TX"},{"data":{"scores":66},"zip_code":"44312","state":"OH"},{"data":{"scores":61},"zip_code":"80917","state":"CO"},{"data":{"scores":88},"zip_code":"48106","state":"MI"},{"data":{"scores":86},"zip_code":"64118","state":"MO"},{"data":{"scores":80},"zip_code":"52240","state":"IA"},{"data":{"scores":65},"zip_code":"46219","state":"IN"},{"data":{"scores":86},"zip_code":"73110","state":"OK"},{"data":{"scores":72},"zip_code":"28025","state":"NC"},{"data":{"scores":83},"zip_code":"64082","state":"MO"},{"data":{"scores":83},"zip_code":"44333","state":"OH"},{"data":{"scores":65},"zip_code":"44319","state":"OH"},{"data":{"scores":82},"zip_code":"60586","state":"IL"},{"data":{"scores":74},"zip_code":"64506","state":"MO"},{"data":{"scores":71},"zip_code":"44221","state":"OH"},{"data":{"scores":65},"zip_code":"28273","state":"NC"},{"data":{"scores":81},"zip_code":"33614","state":"FL"},{"data":{"scores":81},"zip_code":"95687","state":"CA"},{"data":{"scores":65},"zip_code":"27410","state":"NC"},{"data":{"scores":61},"zip_code":"32608","state":"FL"},{"data":{"scores":69},"zip_code":"76155","state":"TX"},{"data":{"scores":81},"zip_code":"23832","state":"VA"},{"data":{"scores":63},"zip_code":"32940","state":"FL"},{"data":{"scores":62},"zip_code":"48185","state":"MI"},{"data":{"scores":60},"zip_code":"46184","state":"IN"},{"data":{"scores":69},"zip_code":"76137","state":"TX"},{"data":{"scores":74},"zip_code":"43065","state":"OH"},{"data":{"scores":77},"zip_code":"93001","state":"CA"},{"data":{"scores":73},"zip_code":"27284","state":"NC"},{"data":{"scores":89},"zip_code":"76137","state":"TX"},{"data":{"scores":74},"zip_code":"98383","state":"WA"},{"data":{"scores":88},"zip_code":"32174","state":"FL"},{"data":{"scores":63},"zip_code":"14127","state":"NY"},{"data":{"scores":63},"zip_code":"33594","state":"FL"},{"data":{"scores":89},"zip_code":"92867","state":"CA"},{"data":{"scores":84},"zip_code":"32127","state":"FL"},{"data":{"scores":88},"zip_code":"23112","state":"VA"},{"data":{"scores":81},"zip_code":"92648","state":"CA"},{"data":{"scores":88},"zip_code":"68123","state":"NE"},{"data":{"scores":71},"zip_code":"68137","state":"NE"},{"data":{"scores":80},"zip_code":"68144","state":"NE"},{"data":{"scores":60},"zip_code":"93309","state":"CA"},{"data":{"scores":84},"zip_code":"23112","state":"VA"},{"data":{"scores":74},"zip_code":"38637","state":"MS"},{"data":{"scores":67},"zip_code":"73099","state":"OK"},{"data":{"scores":76},"zip_code":"93311","state":"CA"},{"data":{"scores":80},"zip_code":"19707","state":"DE"},{"data":{"scores":87},"zip_code":"34953","state":"FL"},{"data":{"scores":88},"zip_code":"30290","state":"GA"},{"data":{"scores":76},"zip_code":"84093","state":"UT"},{"data":{"scores":63},"zip_code":"20877","state":"MD"},{"data":{"scores":61},"zip_code":"34986","state":"FL"},{"data":{"scores":77},"zip_code":"89128","state":"NV"},{"data":{"scores":79},"zip_code":"80104","state":"CO"},{"data":{"scores":69},"zip_code":"80027","state":"CO"},{"data":{"scores":73},"zip_code":"80020","state":"CO"},{"data":{"scores":85},"zip_code":"91390","state":"CA"},{"data":{"scores":69},"zip_code":"30005","state":"GA"},{"data":{"scores":66},"zip_code":"30038","state":"GA"},{"data":{"scores":66},"zip_code":"30022","state":"GA"},{"data":{"scores":62},"zip_code":"23185","state":"VA"},{"data":{"scores":67},"zip_code":"30058","state":"GA"},{"data":{"scores":86},"zip_code":"89119","state":"NV"},{"data":{"scores":67},"zip_code":"33157","state":"FL"},{"data":{"scores":67},"zip_code":"75019","state":"TX"},{"data":{"scores":83},"zip_code":"23454","state":"VA"},{"data":{"scores":76},"zip_code":"75062","state":"TX"},{"data":{"scores":69},"zip_code":"75022","state":"TX"},{"data":{"scores":88},"zip_code":"23669","state":"VA"},{"data":{"scores":88},"zip_code":"75040","state":"TX"},{"data":{"scores":86},"zip_code":"75028","state":"TX"},{"data":{"scores":86},"zip_code":"75007","state":"TX"},{"data":{"scores":78},"zip_code":"80013","state":"CO"},{"data":{"scores":74},"zip_code":"80013","state":"CO"},{"data":{"scores":72},"zip_code":"30047","state":"GA"},{"data":{"scores":73},"zip_code":"30066","state":"GA"},{"data":{"scores":82},"zip_code":"80226","state":"CO"},{"data":{"scores":81},"zip_code":"20165","state":"VA"},{"data":{"scores":63},"zip_code":"75007","state":"TX"},{"data":{"scores":88},"zip_code":"48236","state":"MI"},{"data":{"scores":80},"zip_code":"80111","state":"CO"},{"data":{"scores":79},"zip_code":"80138","state":"CO"},{"data":{"scores":72},"zip_code":"30093","state":"GA"},{"data":{"scores":87},"zip_code":"30066","state":"GA"},{"data":{"scores":60},"zip_code":"30122","state":"GA"},{"data":{"scores":85},"zip_code":"38654","state":"MS"},{"data":{"scores":66},"zip_code":"33126","state":"FL"},{"data":{"scores":64},"zip_code":"34653","state":"FL"},{"data":{"scores":68},"zip_code":"75074","state":"TX"},{"data":{"scores":85},"zip_code":"22039","state":"VA"},{"data":{"scores":72},"zip_code":"75024","state":"TX"},{"data":{"scores":82},"zip_code":"13090","state":"NY"},{"data":{"scores":65},"zip_code":"13027","state":"NY"},{"data":{"scores":88},"zip_code":"76177","state":"TX"},{"data":{"scores":75},"zip_code":"75150","state":"TX"},{"data":{"scores":62},"zip_code":"13215","state":"NY"},{"data":{"scores":62},"zip_code":"75052","state":"TX"},{"data":{"scores":69},"zip_code":"48187","state":"MI"},{"data":{"scores":76},"zip_code":"75007","state":"TX"},{"data":{"scores":76},"zip_code":"33063","state":"FL"},{"data":{"scores":79},"zip_code":"33024","state":"FL"},{"data":{"scores":79},"zip_code":"33326","state":"FL"},{"data":{"scores":63},"zip_code":"46254","state":"IN"},{"data":{"scores":78},"zip_code":"33025","state":"FL"},{"data":{"scores":85},"zip_code":"93550","state":"CA"},{"data":{"scores":86},"zip_code":"75067","state":"TX"},{"data":{"scores":62},"zip_code":"60491","state":"IL"},{"data":{"scores":81},"zip_code":"28213","state":"NC"},{"data":{"scores":62},"zip_code":"20814","state":"MD"},{"data":{"scores":60},"zip_code":"92808","state":"CA"},{"data":{"scores":70},"zip_code":"75063","state":"TX"},{"data":{"scores":73},"zip_code":"21701","state":"MD"},{"data":{"scores":76},"zip_code":"92677","state":"CA"},{"data":{"scores":77},"zip_code":"77478","state":"TX"},{"data":{"scores":73},"zip_code":"53142","state":"WI"},{"data":{"scores":88},"zip_code":"77450","state":"TX"},{"data":{"scores":78},"zip_code":"94553","state":"CA"},{"data":{"scores":85},"zip_code":"76131","state":"TX"},{"data":{"scores":65},"zip_code":"94509","state":"CA"},{"data":{"scores":76},"zip_code":"94518","state":"CA"},{"data":{"scores":68},"zip_code":"77373","state":"TX"},{"data":{"scores":60},"zip_code":"21701","state":"MD"},{"data":{"scores":79},"zip_code":"32003","state":"FL"},{"data":{"scores":82},"zip_code":"27713","state":"NC"},{"data":{"scores":73},"zip_code":"77449","state":"TX"},{"data":{"scores":60},"zip_code":"27613","state":"NC"},{"data":{"scores":74},"zip_code":"27511","state":"NC"},{"data":{"scores":74},"zip_code":"77429","state":"TX"},{"data":{"scores":68},"zip_code":"77379","state":"TX"},{"data":{"scores":80},"zip_code":"74108","state":"OK"},{"data":{"scores":79},"zip_code":"98003","state":"WA"},{"data":{"scores":69},"zip_code":"89110","state":"NV"},{"data":{"scores":77},"zip_code":"98042","state":"WA"},{"data":{"scores":79},"zip_code":"98373","state":"WA"},{"data":{"scores":62},"zip_code":"48075","state":"MI"},{"data":{"scores":67},"zip_code":"92336","state":"CA"},{"data":{"scores":89},"zip_code":"48098","state":"MI"},{"data":{"scores":89},"zip_code":"35242","state":"AL"},{"data":{"scores":60},"zip_code":"98374","state":"WA"},{"data":{"scores":73},"zip_code":"95670","state":"CA"},{"data":{"scores":61},"zip_code":"46804","state":"IN"},{"data":{"scores":85},"zip_code":"20110","state":"VA"},{"data":{"scores":85},"zip_code":"66221","state":"KS"},{"data":{"scores":70},"zip_code":"22033","state":"VA"},{"data":{"scores":78},"zip_code":"53186","state":"WI"},{"data":{"scores":70},"zip_code":"10504","state":"NY"},{"data":{"scores":87},"zip_code":"91367","state":"CA"},{"data":{"scores":81},"zip_code":"22303","state":"VA"},{"data":{"scores":71},"zip_code":"20147","state":"VA"},{"data":{"scores":67},"zip_code":"29418","state":"SC"},{"data":{"scores":72},"zip_code":"66202","state":"KS"},{"data":{"scores":80},"zip_code":"48331","state":"MI"},{"data":{"scores":86},"zip_code":"48085","state":"MI"},{"data":{"scores":66},"zip_code":"92376","state":"CA"},{"data":{"scores":72},"zip_code":"31548","state":"GA"},{"data":{"scores":80},"zip_code":"35209","state":"AL"},{"data":{"scores":82},"zip_code":"08807","state":"NJ"},{"data":{"scores":75},"zip_code":"27836","state":"NC"},{"data":{"scores":86},"zip_code":"64014","state":"MO"},{"data":{"scores":69},"zip_code":"78244","state":"TX"},{"data":{"scores":89},"zip_code":"32244","state":"FL"},{"data":{"scores":81},"zip_code":"78240","state":"TX"},{"data":{"scores":88},"zip_code":"32003","state":"FL"},{"data":{"scores":61},"zip_code":"78259","state":"TX"},{"data":{"scores":66},"zip_code":"23112","state":"VA"},{"data":{"scores":63},"zip_code":"37923","state":"TN"},{"data":{"scores":64},"zip_code":"33498","state":"FL"},{"data":{"scores":89},"zip_code":"27106","state":"NC"},{"data":{"scores":79},"zip_code":"77479","state":"TX"},{"data":{"scores":67},"zip_code":"75052","state":"TX"},{"data":{"scores":62},"zip_code":"76132","state":"TX"},{"data":{"scores":60},"zip_code":"21043","state":"MD"},{"data":{"scores":81},"zip_code":"48322","state":"MI"},{"data":{"scores":80},"zip_code":"38125","state":"TN"},{"data":{"scores":78},"zip_code":"38017","state":"TN"},{"data":{"scores":76},"zip_code":"35235","state":"AL"},{"data":{"scores":60},"zip_code":"38141","state":"TN"},{"data":{"scores":74},"zip_code":"38128","state":"TN"},{"data":{"scores":62},"zip_code":"06484","state":"CT"},{"data":{"scores":80},"zip_code":"23116","state":"VA"},{"data":{"scores":62},"zip_code":"37938","state":"TN"},{"data":{"scores":82},"zip_code":"37922","state":"TN"},{"data":{"scores":68},"zip_code":"45458","state":"OH"},{"data":{"scores":81},"zip_code":"21201","state":"MD"},{"data":{"scores":69},"zip_code":"78730","state":"TX"},{"data":{"scores":79},"zip_code":"27511","state":"NC"},{"data":{"scores":66},"zip_code":"80127","state":"CO"},{"data":{"scores":80},"zip_code":"12054","state":"NY"},{"data":{"scores":85},"zip_code":"32811","state":"FL"},{"data":{"scores":70},"zip_code":"66210","state":"KS"},{"data":{"scores":72},"zip_code":"32256","state":"FL"},{"data":{"scores":81},"zip_code":"78247","state":"TX"},{"data":{"scores":75},"zip_code":"20124","state":"VA"},{"data":{"scores":63},"zip_code":"93036","state":"CA"},{"data":{"scores":73},"zip_code":"77396","state":"TX"},{"data":{"scores":78},"zip_code":"75067","state":"TX"},{"data":{"scores":62},"zip_code":"32225","state":"FL"},{"data":{"scores":67},"zip_code":"30092","state":"GA"},{"data":{"scores":73},"zip_code":"43229","state":"OH"},{"data":{"scores":84},"zip_code":"75067","state":"TX"},{"data":{"scores":87},"zip_code":"85750","state":"AZ"},{"data":{"scores":67},"zip_code":"67202","state":"KS"},{"data":{"scores":66},"zip_code":"75181","state":"TX"},{"data":{"scores":89},"zip_code":"98003","state":"WA"},{"data":{"scores":84},"zip_code":"43062","state":"OH"},{"data":{"scores":68},"zip_code":"95610","state":"CA"},{"data":{"scores":80},"zip_code":"95833","state":"CA"},{"data":{"scores":62},"zip_code":"22026","state":"VA"},{"data":{"scores":84},"zip_code":"95765","state":"CA"},{"data":{"scores":79},"zip_code":"22153","state":"VA"},{"data":{"scores":66},"zip_code":"85044","state":"AZ"},{"data":{"scores":69},"zip_code":"66062","state":"KS"},{"data":{"scores":80},"zip_code":"91910","state":"CA"},{"data":{"scores":80},"zip_code":"23320","state":"VA"},{"data":{"scores":79},"zip_code":"92604","state":"CA"},{"data":{"scores":71},"zip_code":"23453","state":"VA"},{"data":{"scores":89},"zip_code":"32812","state":"FL"},{"data":{"scores":67},"zip_code":"32244","state":"FL"},{"data":{"scores":74},"zip_code":"23464","state":"VA"},{"data":{"scores":64},"zip_code":"78227","state":"TX"},{"data":{"scores":73},"zip_code":"45458","state":"OH"},{"data":{"scores":87},"zip_code":"38115","state":"TN"},{"data":{"scores":73},"zip_code":"44122","state":"OH"},{"data":{"scores":80},"zip_code":"28079","state":"NC"},{"data":{"scores":72},"zip_code":"73013","state":"OK"},{"data":{"scores":67},"zip_code":"22310","state":"VA"},{"data":{"scores":64},"zip_code":"30152","state":"GA"},{"data":{"scores":68},"zip_code":"95630","state":"CA"},{"data":{"scores":73},"zip_code":"33321","state":"FL"},{"data":{"scores":60},"zip_code":"49508","state":"MI"},{"data":{"scores":74},"zip_code":"73071","state":"OK"},{"data":{"scores":81},"zip_code":"08055","state":"NJ"},{"data":{"scores":73},"zip_code":"92509","state":"CA"},{"data":{"scores":79},"zip_code":"92553","state":"CA"},{"data":{"scores":72},"zip_code":"48076","state":"MI"},{"data":{"scores":69},"zip_code":"92660","state":"CA"},{"data":{"scores":71},"zip_code":"30044","state":"GA"},{"data":{"scores":77},"zip_code":"23464","state":"VA"},{"data":{"scores":68},"zip_code":"28590","state":"NC"},{"data":{"scores":82},"zip_code":"77429","state":"TX"},{"data":{"scores":65},"zip_code":"93535","state":"CA"},{"data":{"scores":77},"zip_code":"77429","state":"TX"},{"data":{"scores":61},"zip_code":"23111","state":"VA"},{"data":{"scores":71},"zip_code":"12065","state":"NY"},{"data":{"scores":78},"zip_code":"85741","state":"AZ"},{"data":{"scores":87},"zip_code":"67206","state":"KS"},{"data":{"scores":82},"zip_code":"95661","state":"CA"},{"data":{"scores":78},"zip_code":"35758","state":"AL"},{"data":{"scores":72},"zip_code":"66219","state":"KS"},{"data":{"scores":81},"zip_code":"89123","state":"NV"},{"data":{"scores":76},"zip_code":"77571","state":"TX"},{"data":{"scores":71},"zip_code":"46113","state":"IN"},{"data":{"scores":60},"zip_code":"32084","state":"FL"},{"data":{"scores":66},"zip_code":"60564","state":"IL"},{"data":{"scores":72},"zip_code":"77339","state":"TX"},{"data":{"scores":60},"zip_code":"10962","state":"NY"},{"data":{"scores":80},"zip_code":"78245","state":"TX"},{"data":{"scores":76},"zip_code":"86001","state":"AZ"},{"data":{"scores":60},"zip_code":"78250","state":"TX"},{"data":{"scores":78},"zip_code":"76013","state":"TX"},{"data":{"scores":64},"zip_code":"77084","state":"TX"},{"data":{"scores":64},"zip_code":"32224","state":"FL"},{"data":{"scores":75},"zip_code":"12205","state":"NY"},{"data":{"scores":75},"zip_code":"98031","state":"WA"},{"data":{"scores":86},"zip_code":"63010","state":"MO"},{"data":{"scores":66},"zip_code":"98354","state":"WA"},{"data":{"scores":64},"zip_code":"22554","state":"VA"},{"data":{"scores":75},"zip_code":"77065","state":"TX"},{"data":{"scores":70},"zip_code":"30236","state":"GA"},{"data":{"scores":65},"zip_code":"80015","state":"CO"},{"data":{"scores":86},"zip_code":"30078","state":"GA"},{"data":{"scores":85},"zip_code":"66061","state":"KS"},{"data":{"scores":74},"zip_code":"66212","state":"KS"},{"data":{"scores":85},"zip_code":"91752","state":"CA"},{"data":{"scores":65},"zip_code":"75088","state":"TX"},{"data":{"scores":68},"zip_code":"44223","state":"OH"},{"data":{"scores":73},"zip_code":"48820","state":"MI"},{"data":{"scores":61},"zip_code":"78249","state":"TX"},{"data":{"scores":63},"zip_code":"27613","state":"NC"},{"data":{"scores":78},"zip_code":"20720","state":"MD"},{"data":{"scores":65},"zip_code":"94583","state":"CA"},{"data":{"scores":75},"zip_code":"21703","state":"MD"},{"data":{"scores":71},"zip_code":"13214","state":"NY"},{"data":{"scores":61},"zip_code":"60194","state":"IL"},{"data":{"scores":64},"zip_code":"91350","state":"CA"},{"data":{"scores":88},"zip_code":"23320","state":"VA"},{"data":{"scores":80},"zip_code":"48315","state":"MI"},{"data":{"scores":63},"zip_code":"33442","state":"FL"},{"data":{"scores":73},"zip_code":"48170","state":"MI"},{"data":{"scores":75},"zip_code":"20190","state":"VA"},{"data":{"scores":73},"zip_code":"48382","state":"MI"},{"data":{"scores":63},"zip_code":"19335","state":"PA"},{"data":{"scores":76},"zip_code":"21045","state":"MD"},{"data":{"scores":71},"zip_code":"38018","state":"TN"},{"data":{"scores":65},"zip_code":"95356","state":"CA"},{"data":{"scores":79},"zip_code":"78240","state":"TX"},{"data":{"scores":84},"zip_code":"55311","state":"MN"},{"data":{"scores":69},"zip_code":"46545","state":"IN"},{"data":{"scores":82},"zip_code":"89031","state":"NV"},{"data":{"scores":60},"zip_code":"76132","state":"TX"},{"data":{"scores":66},"zip_code":"32725","state":"FL"},{"data":{"scores":85},"zip_code":"20110","state":"VA"},{"data":{"scores":73},"zip_code":"44223","state":"OH"},{"data":{"scores":79},"zip_code":"92705","state":"CA"},{"data":{"scores":79},"zip_code":"36695","state":"AL"},{"data":{"scores":66},"zip_code":"48170","state":"MI"},{"data":{"scores":73},"zip_code":"76112","state":"TX"},{"data":{"scores":82},"zip_code":"55427","state":"MN"},{"data":{"scores":76},"zip_code":"85020","state":"AZ"},{"data":{"scores":87},"zip_code":"45069","state":"OH"},{"data":{"scores":83},"zip_code":"45011","state":"OH"},{"data":{"scores":71},"zip_code":"45242","state":"OH"},{"data":{"scores":76},"zip_code":"13088","state":"NY"},{"data":{"scores":87},"zip_code":"10016","state":"NY"},{"data":{"scores":69},"zip_code":"27104","state":"NC"},{"data":{"scores":87},"zip_code":"14623","state":"NY"},{"data":{"scores":75},"zip_code":"29169","state":"SC"},{"data":{"scores":70},"zip_code":"27615","state":"NC"},{"data":{"scores":67},"zip_code":"94566","state":"CA"},{"data":{"scores":82},"zip_code":"77095","state":"TX"},{"data":{"scores":67},"zip_code":"15236","state":"PA"},{"data":{"scores":67},"zip_code":"46237","state":"IN"},{"data":{"scores":87},"zip_code":"35124","state":"AL"},{"data":{"scores":81},"zip_code":"43017","state":"OH"},{"data":{"scores":72},"zip_code":"77077","state":"TX"},{"data":{"scores":76},"zip_code":"90831","state":"CA"},{"data":{"scores":82},"zip_code":"44305","state":"OH"},{"data":{"scores":88},"zip_code":"23113","state":"VA"},{"data":{"scores":72},"zip_code":"92083","state":"CA"},{"data":{"scores":69},"zip_code":"07065","state":"NJ"},{"data":{"scores":87},"zip_code":"33063","state":"FL"},{"data":{"scores":61},"zip_code":"87004","state":"NM"},{"data":{"scores":62},"zip_code":"77380","state":"TX"},{"data":{"scores":69},"zip_code":"23666","state":"VA"},{"data":{"scores":61},"zip_code":"32218","state":"FL"},{"data":{"scores":60},"zip_code":"92122","state":"CA"},{"data":{"scores":60},"zip_code":"28262","state":"NC"},{"data":{"scores":66},"zip_code":"49525","state":"MI"},{"data":{"scores":66},"zip_code":"49546","state":"MI"},{"data":{"scores":69},"zip_code":"85022","state":"AZ"},{"data":{"scores":72},"zip_code":"85306","state":"AZ"},{"data":{"scores":60},"zip_code":"30080","state":"GA"},{"data":{"scores":83},"zip_code":"87114","state":"NM"},{"data":{"scores":71},"zip_code":"11209","state":"NY"},{"data":{"scores":65},"zip_code":"85234","state":"AZ"},{"data":{"scores":89},"zip_code":"60502","state":"IL"},{"data":{"scores":71},"zip_code":"28037","state":"NC"},{"data":{"scores":70},"zip_code":"85233","state":"AZ"},{"data":{"scores":79},"zip_code":"98052","state":"WA"},{"data":{"scores":73},"zip_code":"45440","state":"OH"},{"data":{"scores":65},"zip_code":"85226","state":"AZ"},{"data":{"scores":68},"zip_code":"11756","state":"NY"},{"data":{"scores":74},"zip_code":"27529","state":"NC"},{"data":{"scores":64},"zip_code":"55110","state":"MN"},{"data":{"scores":87},"zip_code":"30005","state":"GA"},{"data":{"scores":77},"zip_code":"85374","state":"AZ"},{"data":{"scores":60},"zip_code":"78209","state":"TX"},{"data":{"scores":61},"zip_code":"78109","state":"TX"},{"data":{"scores":69},"zip_code":"77339","state":"TX"},{"data":{"scores":71},"zip_code":"76034","state":"TX"},{"data":{"scores":74},"zip_code":"48188","state":"MI"},{"data":{"scores":61},"zip_code":"07921","state":"NJ"},{"data":{"scores":73},"zip_code":"55449","state":"MN"},{"data":{"scores":75},"zip_code":"48390","state":"MI"},{"data":{"scores":71},"zip_code":"49024","state":"MI"},{"data":{"scores":72},"zip_code":"74012","state":"OK"},{"data":{"scores":74},"zip_code":"67205","state":"KS"},{"data":{"scores":72},"zip_code":"95747","state":"CA"},{"data":{"scores":87},"zip_code":"35603","state":"AL"},{"data":{"scores":75},"zip_code":"55304","state":"MN"},{"data":{"scores":77},"zip_code":"44136","state":"OH"},{"data":{"scores":87},"zip_code":"90012","state":"CA"},{"data":{"scores":83},"zip_code":"60014","state":"IL"},{"data":{"scores":82},"zip_code":"46601","state":"IN"},{"data":{"scores":88},"zip_code":"60181","state":"IL"},{"data":{"scores":69},"zip_code":"94534","state":"CA"},{"data":{"scores":69},"zip_code":"32224","state":"FL"},{"data":{"scores":78},"zip_code":"48336","state":"MI"},{"data":{"scores":65},"zip_code":"91737","state":"CA"},{"data":{"scores":79},"zip_code":"92688","state":"CA"},{"data":{"scores":64},"zip_code":"85042","state":"AZ"},{"data":{"scores":76},"zip_code":"85382","state":"AZ"},{"data":{"scores":72},"zip_code":"60143","state":"IL"},{"data":{"scores":74},"zip_code":"60139","state":"IL"},{"data":{"scores":81},"zip_code":"11725","state":"NY"},{"data":{"scores":63},"zip_code":"92602","state":"CA"},{"data":{"scores":66},"zip_code":"85308","state":"AZ"},{"data":{"scores":64},"zip_code":"91384","state":"CA"},{"data":{"scores":86},"zip_code":"06516","state":"CT"},{"data":{"scores":80},"zip_code":"85018","state":"AZ"},{"data":{"scores":84},"zip_code":"13850","state":"NY"},{"data":{"scores":76},"zip_code":"67209","state":"KS"},{"data":{"scores":86},"zip_code":"28117","state":"NC"},{"data":{"scores":88},"zip_code":"85203","state":"AZ"},{"data":{"scores":65},"zip_code":"85203","state":"AZ"},{"data":{"scores":61},"zip_code":"06851","state":"CT"},{"data":{"scores":85},"zip_code":"28227","state":"NC"},{"data":{"scores":84},"zip_code":"92660","state":"CA"},{"data":{"scores":85},"zip_code":"75077","state":"TX"},{"data":{"scores":67},"zip_code":"85086","state":"AZ"},{"data":{"scores":61},"zip_code":"90630","state":"CA"},{"data":{"scores":69},"zip_code":"85338","state":"AZ"},{"data":{"scores":69},"zip_code":"85302","state":"AZ"},{"data":{"scores":62},"zip_code":"91784","state":"CA"},{"data":{"scores":81},"zip_code":"28027","state":"NC"},{"data":{"scores":80},"zip_code":"76120","state":"TX"},{"data":{"scores":71},"zip_code":"60047","state":"IL"},{"data":{"scores":82},"zip_code":"91789","state":"CA"},{"data":{"scores":81},"zip_code":"32244","state":"FL"},{"data":{"scores":83},"zip_code":"75137","state":"TX"},{"data":{"scores":67},"zip_code":"60108","state":"IL"},{"data":{"scores":87},"zip_code":"19446","state":"PA"},{"data":{"scores":68},"zip_code":"32092","state":"FL"},{"data":{"scores":83},"zip_code":"12061","state":"NY"},{"data":{"scores":65},"zip_code":"93065","state":"CA"},{"data":{"scores":65},"zip_code":"11779","state":"NY"},{"data":{"scores":84},"zip_code":"27703","state":"NC"},{"data":{"scores":63},"zip_code":"55016","state":"MN"},{"data":{"scores":66},"zip_code":"85255","state":"AZ"},{"data":{"scores":84},"zip_code":"85044","state":"AZ"},{"data":{"scores":61},"zip_code":"85224","state":"AZ"},{"data":{"scores":72},"zip_code":"85286","state":"AZ"},{"data":{"scores":68},"zip_code":"19808","state":"DE"},{"data":{"scores":62},"zip_code":"19803","state":"DE"},{"data":{"scores":88},"zip_code":"73162","state":"OK"},{"data":{"scores":77},"zip_code":"55124","state":"MN"},{"data":{"scores":71},"zip_code":"92563","state":"CA"},{"data":{"scores":60},"zip_code":"91730","state":"CA"},{"data":{"scores":75},"zip_code":"92706","state":"CA"},{"data":{"scores":76},"zip_code":"48312","state":"MI"},{"data":{"scores":88},"zip_code":"48312","state":"MI"},{"data":{"scores":72},"zip_code":"85006","state":"AZ"},{"data":{"scores":70},"zip_code":"91710","state":"CA"},{"data":{"scores":75},"zip_code":"92806","state":"CA"},{"data":{"scores":63},"zip_code":"55105","state":"MN"},{"data":{"scores":89},"zip_code":"45322","state":"OH"},{"data":{"scores":61},"zip_code":"85032","state":"AZ"},{"data":{"scores":64},"zip_code":"60487","state":"IL"},{"data":{"scores":89},"zip_code":"98516","state":"WA"},{"data":{"scores":76},"zip_code":"55316","state":"MN"},{"data":{"scores":78},"zip_code":"48188","state":"MI"},{"data":{"scores":74},"zip_code":"48103","state":"MI"},{"data":{"scores":84},"zip_code":"85331","state":"AZ"},{"data":{"scores":79},"zip_code":"92346","state":"CA"},{"data":{"scores":71},"zip_code":"92881","state":"CA"},{"data":{"scores":72},"zip_code":"08080","state":"NJ"},{"data":{"scores":71},"zip_code":"76140","state":"TX"},{"data":{"scores":75},"zip_code":"60202","state":"IL"},{"data":{"scores":61},"zip_code":"60118","state":"IL"},{"data":{"scores":86},"zip_code":"48187","state":"MI"},{"data":{"scores":73},"zip_code":"77339","state":"TX"},{"data":{"scores":80},"zip_code":"44224","state":"OH"},{"data":{"scores":86},"zip_code":"48382","state":"MI"},{"data":{"scores":65},"zip_code":"90505","state":"CA"},{"data":{"scores":74},"zip_code":"91381","state":"CA"},{"data":{"scores":83},"zip_code":"60516","state":"IL"},{"data":{"scores":61},"zip_code":"92821","state":"CA"},{"data":{"scores":87},"zip_code":"48864","state":"MI"},{"data":{"scores":82},"zip_code":"27615","state":"NC"},{"data":{"scores":77},"zip_code":"12180","state":"NY"},{"data":{"scores":63},"zip_code":"08817","state":"NJ"},{"data":{"scores":71},"zip_code":"06460","state":"CT"},{"data":{"scores":69},"zip_code":"08873","state":"NJ"},{"data":{"scores":72},"zip_code":"78729","state":"TX"},{"data":{"scores":60},"zip_code":"85234","state":"AZ"},{"data":{"scores":69},"zip_code":"85224","state":"AZ"},{"data":{"scores":87},"zip_code":"28105","state":"NC"},{"data":{"scores":75},"zip_code":"33324","state":"FL"},{"data":{"scores":78},"zip_code":"85205","state":"AZ"},{"data":{"scores":64},"zip_code":"10570","state":"NY"},{"data":{"scores":77},"zip_code":"55044","state":"MN"},{"data":{"scores":77},"zip_code":"34203","state":"FL"}]
+[
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "60073",
+    "state": "IL",
+    "latitude": "42.386002",
+    "longitude": "-88.062897"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "46123",
+    "state": "IN",
+    "latitude": "39.745477",
+    "longitude": "-86.39951"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "40059",
+    "state": "KY",
+    "latitude": "38.343591",
+    "longitude": "-85.619336"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "76063",
+    "state": "TX",
+    "latitude": "32.570374",
+    "longitude": "-97.103231"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "76123",
+    "state": "TX",
+    "latitude": "32.616064",
+    "longitude": "-97.388555"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "32514",
+    "state": "FL",
+    "latitude": "30.534298",
+    "longitude": "-87.245752"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "76116",
+    "state": "TX",
+    "latitude": "32.72853",
+    "longitude": "-97.468164"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "19341",
+    "state": "PA",
+    "latitude": "40.060888",
+    "longitude": "-75.654791"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "29209",
+    "state": "SC",
+    "latitude": "33.964914",
+    "longitude": "-80.94287"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "43147",
+    "state": "OH",
+    "latitude": "39.924004",
+    "longitude": "-82.779747"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "30039",
+    "state": "GA",
+    "latitude": "33.8405",
+    "longitude": "-84.0599"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "53711",
+    "state": "WI",
+    "latitude": "43.046758",
+    "longitude": "-89.494278"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "60050",
+    "state": "IL",
+    "latitude": "42.318384",
+    "longitude": "-88.277206"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "29483",
+    "state": "SC",
+    "latitude": "33.040377",
+    "longitude": "-80.137837"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "29412",
+    "state": "SC",
+    "latitude": "32.741776",
+    "longitude": "-79.937126"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "29414",
+    "state": "SC",
+    "latitude": "32.831459",
+    "longitude": "-80.043739"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "29501",
+    "state": "SC",
+    "latitude": "34.178394",
+    "longitude": "-79.865677"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "98003",
+    "state": "WA",
+    "latitude": "47.31568",
+    "longitude": "-122.32707"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "77095",
+    "state": "TX",
+    "latitude": "29.896242",
+    "longitude": "-95.657872"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "53508",
+    "state": "WI",
+    "latitude": "42.871201",
+    "longitude": "-89.533318"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "53575",
+    "state": "WI",
+    "latitude": "42.935837",
+    "longitude": "-89.372063"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "53711",
+    "state": "WI",
+    "latitude": "43.001213",
+    "longitude": "-89.428452"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "53717",
+    "state": "WI",
+    "latitude": "43.082104",
+    "longitude": "-89.502197"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "53717",
+    "state": "WI",
+    "latitude": "43.08429",
+    "longitude": "-89.527039"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "53593",
+    "state": "WI",
+    "latitude": "43.001663",
+    "longitude": "-89.535385"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "62269",
+    "state": "IL",
+    "latitude": "38.592887",
+    "longitude": "-89.934623"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "78154",
+    "state": "TX",
+    "latitude": "29.58201",
+    "longitude": "-98.282357"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "91902",
+    "state": "CA",
+    "latitude": "32.655634",
+    "longitude": "-116.990762"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "14450",
+    "state": "NY",
+    "latitude": "43.0544",
+    "longitude": "-77.443"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "14526",
+    "state": "NY",
+    "latitude": "43.135512",
+    "longitude": "-77.441385"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "14616",
+    "state": "NY",
+    "latitude": "43.2311",
+    "longitude": "-77.6572"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "14615",
+    "state": "NY",
+    "latitude": "43.2048",
+    "longitude": "-77.6718"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "48047",
+    "state": "MI",
+    "latitude": "42.675081",
+    "longitude": "-82.792237"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "48042",
+    "state": "MI",
+    "latitude": "42.6861",
+    "longitude": "-82.959756"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "85308",
+    "state": "AZ",
+    "latitude": "33.667267",
+    "longitude": "-112.202896"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "91801",
+    "state": "CA",
+    "latitude": "34.0789",
+    "longitude": "-118.111"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "78660",
+    "state": "TX",
+    "latitude": "30.466504",
+    "longitude": "-97.643918"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "45050",
+    "state": "OH",
+    "latitude": "39.442331",
+    "longitude": "-84.426783"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "45202",
+    "state": "OH",
+    "latitude": "39.1026",
+    "longitude": "-84.51"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "60137",
+    "state": "IL",
+    "latitude": "41.8893",
+    "longitude": "-88.074"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "60543",
+    "state": "IL",
+    "latitude": "41.700554",
+    "longitude": "-88.316772"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "78759",
+    "state": "TX",
+    "latitude": "30.370731",
+    "longitude": "-97.75541"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "78613",
+    "state": "TX",
+    "latitude": "30.474901",
+    "longitude": "-97.841277"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "85249",
+    "state": "AZ",
+    "latitude": "33.261349",
+    "longitude": "-111.789497"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "85208",
+    "state": "AZ",
+    "latitude": "33.3731",
+    "longitude": "-111.68714"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "97024",
+    "state": "OR",
+    "latitude": "45.528324",
+    "longitude": "-122.437241"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "97140",
+    "state": "OR",
+    "latitude": "45.369662",
+    "longitude": "-122.842831"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "84041",
+    "state": "UT",
+    "latitude": "41.082699",
+    "longitude": "-111.972458"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "44906",
+    "state": "OH",
+    "latitude": "40.7634",
+    "longitude": "-82.5517"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "30044",
+    "state": "GA",
+    "latitude": "33.9307",
+    "longitude": "-84.0415"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "98059",
+    "state": "WA",
+    "latitude": "47.491",
+    "longitude": "-122.161"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "78664",
+    "state": "TX",
+    "latitude": "30.482528",
+    "longitude": "-97.655339"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "32837",
+    "state": "FL",
+    "latitude": "28.408834",
+    "longitude": "-81.405962"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "32714",
+    "state": "FL",
+    "latitude": "28.668031",
+    "longitude": "-81.418233"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "95492",
+    "state": "CA",
+    "latitude": "38.557259",
+    "longitude": "-122.807396"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "32765",
+    "state": "FL",
+    "latitude": "28.657",
+    "longitude": "-81.1833"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "21215",
+    "state": "MD",
+    "latitude": "39.354434",
+    "longitude": "-76.66507"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "21204",
+    "state": "MD",
+    "latitude": "39.389905",
+    "longitude": "-76.622087"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "44146",
+    "state": "OH",
+    "latitude": "41.3738",
+    "longitude": "-81.518"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "44070",
+    "state": "OH",
+    "latitude": "41.4083",
+    "longitude": "-81.9404"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "72712",
+    "state": "AR",
+    "latitude": "36.3742",
+    "longitude": "-94.2219"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "85283",
+    "state": "AZ",
+    "latitude": "33.363799",
+    "longitude": "-111.914139"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "72703",
+    "state": "AR",
+    "latitude": "36.118317",
+    "longitude": "-94.144394"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "23321",
+    "state": "VA",
+    "latitude": "36.828556",
+    "longitude": "-76.409214"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "23320",
+    "state": "VA",
+    "latitude": "36.768067",
+    "longitude": "-76.201648"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "23320",
+    "state": "VA",
+    "latitude": "36.765804",
+    "longitude": "-76.245689"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "90040",
+    "state": "CA",
+    "latitude": "33.9906",
+    "longitude": "-118.161"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "76021",
+    "state": "TX",
+    "latitude": "32.849406",
+    "longitude": "-97.132523"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "73159",
+    "state": "OK",
+    "latitude": "35.362798",
+    "longitude": "-97.542171"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "73130",
+    "state": "OK",
+    "latitude": "35.450635",
+    "longitude": "-97.35376"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "32955",
+    "state": "FL",
+    "latitude": "28.331515",
+    "longitude": "-80.724971"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "73162",
+    "state": "OK",
+    "latitude": "35.593523",
+    "longitude": "-97.622274"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "92056",
+    "state": "CA",
+    "latitude": "33.212986",
+    "longitude": "-117.288956"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "76021",
+    "state": "TX",
+    "latitude": "32.849511",
+    "longitude": "-97.132548"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "28078",
+    "state": "NC",
+    "latitude": "35.412152",
+    "longitude": "-80.850826"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "27410",
+    "state": "NC",
+    "latitude": "36.1299",
+    "longitude": "-79.854"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "60451",
+    "state": "IL",
+    "latitude": "41.5093",
+    "longitude": "-87.965302"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "27282",
+    "state": "NC",
+    "latitude": "36.0396",
+    "longitude": "-79.9215"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "33510",
+    "state": "FL",
+    "latitude": "27.9597",
+    "longitude": "-82.277473"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "23831",
+    "state": "VA",
+    "latitude": "37.3852",
+    "longitude": "-77.4537"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "68516",
+    "state": "NE",
+    "latitude": "40.758937",
+    "longitude": "-96.681996"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "68046",
+    "state": "NE",
+    "latitude": "41.14106",
+    "longitude": "-96.063499"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "68510",
+    "state": "NE",
+    "latitude": "40.811932",
+    "longitude": "-96.62952"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "68134",
+    "state": "NE",
+    "latitude": "41.290833",
+    "longitude": "-96.080429"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "14221",
+    "state": "NY",
+    "latitude": "43.0022",
+    "longitude": "-78.7394"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "68154",
+    "state": "NE",
+    "latitude": "41.264198",
+    "longitude": "-96.139481"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "73034",
+    "state": "OK",
+    "latitude": "35.6589",
+    "longitude": "-97.4604"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "80241",
+    "state": "CO",
+    "latitude": "39.920897",
+    "longitude": "-104.940859"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "80020",
+    "state": "CO",
+    "latitude": "39.930986",
+    "longitude": "-105.032692"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "48126",
+    "state": "MI",
+    "latitude": "42.331815",
+    "longitude": "-83.205649"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "75024",
+    "state": "TX",
+    "latitude": "33.069167",
+    "longitude": "-96.791196"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "89128",
+    "state": "NV",
+    "latitude": "36.198421",
+    "longitude": "-115.278358"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "80128",
+    "state": "CO",
+    "latitude": "39.583985",
+    "longitude": "-105.108514"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "30096",
+    "state": "GA",
+    "latitude": "33.9762",
+    "longitude": "-84.0972"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "33190",
+    "state": "FL",
+    "latitude": "25.566124",
+    "longitude": "-80.348667"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "75063",
+    "state": "TX",
+    "latitude": "32.926501",
+    "longitude": "-97.008364"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "30083",
+    "state": "GA",
+    "latitude": "33.7904",
+    "longitude": "-84.1719"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "23456",
+    "state": "VA",
+    "latitude": "36.784358",
+    "longitude": "-76.107612"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "61704",
+    "state": "IL",
+    "latitude": "40.502441",
+    "longitude": "-88.938854"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "92392",
+    "state": "CA",
+    "latitude": "34.470501",
+    "longitude": "-117.356773"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "30064",
+    "state": "GA",
+    "latitude": "33.8809",
+    "longitude": "-84.6323"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "63128",
+    "state": "MO",
+    "latitude": "38.500066",
+    "longitude": "-90.379065"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "75052",
+    "state": "TX",
+    "latitude": "32.669642",
+    "longitude": "-97.003468"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "77060",
+    "state": "TX",
+    "latitude": "29.943727",
+    "longitude": "-95.404528"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "33025",
+    "state": "FL",
+    "latitude": "25.996398",
+    "longitude": "-80.308613"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "28110",
+    "state": "NC",
+    "latitude": "34.998",
+    "longitude": "-80.5635"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "46123",
+    "state": "IN",
+    "latitude": "39.763229",
+    "longitude": "-86.381126"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "28078",
+    "state": "NC",
+    "latitude": "35.4129",
+    "longitude": "-80.8678"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "95401",
+    "state": "CA",
+    "latitude": "38.43066",
+    "longitude": "-122.744194"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "20874",
+    "state": "MD",
+    "latitude": "39.181106",
+    "longitude": "-77.275225"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "20602",
+    "state": "MD",
+    "latitude": "38.609793",
+    "longitude": "-76.923089"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "77008",
+    "state": "TX",
+    "latitude": "29.801299",
+    "longitude": "-95.432312"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "77382",
+    "state": "TX",
+    "latitude": "30.206077",
+    "longitude": "-95.527"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "34243",
+    "state": "FL",
+    "latitude": "27.398467",
+    "longitude": "-82.50496"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "34205",
+    "state": "FL",
+    "latitude": "27.463738",
+    "longitude": "-82.597748"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "45324",
+    "state": "OH",
+    "latitude": "39.781585",
+    "longitude": "-84.002877"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "77380",
+    "state": "TX",
+    "latitude": "30.152367",
+    "longitude": "-95.454316"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "45342",
+    "state": "OH",
+    "latitude": "39.61298",
+    "longitude": "-84.22752"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "77450",
+    "state": "TX",
+    "latitude": "29.745051",
+    "longitude": "-95.769207"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "89103",
+    "state": "NV",
+    "latitude": "36.111458",
+    "longitude": "-115.242874"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "89145",
+    "state": "NV",
+    "latitude": "36.162701",
+    "longitude": "-115.275909"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "29229",
+    "state": "SC",
+    "latitude": "34.135635",
+    "longitude": "-80.880135"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "76054",
+    "state": "TX",
+    "latitude": "32.865162",
+    "longitude": "-97.179869"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "46304",
+    "state": "IN",
+    "latitude": "41.597594",
+    "longitude": "-87.048475"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "66223",
+    "state": "KS",
+    "latitude": "38.851968",
+    "longitude": "-94.675995"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "66216",
+    "state": "KS",
+    "latitude": "39.01473",
+    "longitude": "-94.749579"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "61821",
+    "state": "IL",
+    "latitude": "40.093695",
+    "longitude": "-88.275462"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "66226",
+    "state": "KS",
+    "latitude": "39.009426",
+    "longitude": "-94.841646"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "85392",
+    "state": "AZ",
+    "latitude": "33.464187",
+    "longitude": "-112.33905"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "76092",
+    "state": "TX",
+    "latitude": "32.942377",
+    "longitude": "-97.176365"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "33569",
+    "state": "FL",
+    "latitude": "27.854621",
+    "longitude": "-82.312694"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "62034",
+    "state": "IL",
+    "latitude": "38.775814",
+    "longitude": "-89.989861"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "14514",
+    "state": "NY",
+    "latitude": "43.1265",
+    "longitude": "-77.7897"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "11769",
+    "state": "NY",
+    "latitude": "40.7445",
+    "longitude": "-73.1415"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "78749",
+    "state": "TX",
+    "latitude": "30.228297",
+    "longitude": "-97.861543"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "85260",
+    "state": "AZ",
+    "latitude": "33.618816",
+    "longitude": "-111.900291"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "97229",
+    "state": "OR",
+    "latitude": "45.554191",
+    "longitude": "-122.833029"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "97068",
+    "state": "OR",
+    "latitude": "45.360857",
+    "longitude": "-122.633379"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "34761",
+    "state": "FL",
+    "latitude": "28.535138",
+    "longitude": "-81.542428"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "23693",
+    "state": "VA",
+    "latitude": "37.1194",
+    "longitude": "-76.4648"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "73003",
+    "state": "OK",
+    "latitude": "35.66576",
+    "longitude": "-97.495335"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "73120",
+    "state": "OK",
+    "latitude": "35.5876",
+    "longitude": "-97.5493"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "27127",
+    "state": "NC",
+    "latitude": "36.0429",
+    "longitude": "-80.2548"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "76248",
+    "state": "TX",
+    "latitude": "32.912111",
+    "longitude": "-97.232315"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "23233",
+    "state": "VA",
+    "latitude": "37.636247",
+    "longitude": "-77.63249"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "20878",
+    "state": "MD",
+    "latitude": "39.1343",
+    "longitude": "-77.2274"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "30012",
+    "state": "GA",
+    "latitude": "33.643621",
+    "longitude": "-84.014007"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "33186",
+    "state": "FL",
+    "latitude": "25.629211",
+    "longitude": "-80.395173"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "60610",
+    "state": "IL",
+    "latitude": "41.902441",
+    "longitude": "-87.634291"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "75056",
+    "state": "TX",
+    "latitude": "33.08729",
+    "longitude": "-96.876161"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "48185",
+    "state": "MI",
+    "latitude": "42.3247",
+    "longitude": "-83.3783"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "48202",
+    "state": "MI",
+    "latitude": "42.370177",
+    "longitude": "-83.075765"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "34667",
+    "state": "FL",
+    "latitude": "28.332211",
+    "longitude": "-82.684466"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "76210",
+    "state": "TX",
+    "latitude": "33.160029",
+    "longitude": "-97.07318"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "91765",
+    "state": "CA",
+    "latitude": "34.006107",
+    "longitude": "-117.821304"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "08822",
+    "state": "NJ",
+    "latitude": "40.504423",
+    "longitude": "-74.823109"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "32257",
+    "state": "FL",
+    "latitude": "30.1962",
+    "longitude": "-81.6126"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "33803",
+    "state": "FL",
+    "latitude": "28.008031",
+    "longitude": "-81.925151"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "40513",
+    "state": "KY",
+    "latitude": "38.0047",
+    "longitude": "-84.569"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "11749",
+    "state": "NY",
+    "latitude": "40.798046",
+    "longitude": "-73.173547"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "64155",
+    "state": "MO",
+    "latitude": "39.263355",
+    "longitude": "-94.575699"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "29445",
+    "state": "SC",
+    "latitude": "33.026792",
+    "longitude": "-80.055921"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "76012",
+    "state": "TX",
+    "latitude": "32.765043",
+    "longitude": "-97.121749"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "76006",
+    "state": "TX",
+    "latitude": "32.777709",
+    "longitude": "-97.073612"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "93701",
+    "state": "CA",
+    "latitude": "36.745483",
+    "longitude": "-119.785742"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "20121",
+    "state": "VA",
+    "latitude": "38.819183",
+    "longitude": "-77.438672"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "37217",
+    "state": "TN",
+    "latitude": "36.09927",
+    "longitude": "-86.660423"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "85023",
+    "state": "AZ",
+    "latitude": "33.639291",
+    "longitude": "-112.124422"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "20120",
+    "state": "VA",
+    "latitude": "38.865958",
+    "longitude": "-77.446336"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "53717",
+    "state": "WI",
+    "latitude": "43.063957",
+    "longitude": "-89.502769"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "37167",
+    "state": "TN",
+    "latitude": "35.962708",
+    "longitude": "-86.519936"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "37122",
+    "state": "TN",
+    "latitude": "36.1738",
+    "longitude": "-86.514562"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "49546",
+    "state": "MI",
+    "latitude": "42.929166",
+    "longitude": "-85.569736"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "33428",
+    "state": "FL",
+    "latitude": "26.350175",
+    "longitude": "-80.226555"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "48316",
+    "state": "MI",
+    "latitude": "42.6837",
+    "longitude": "-83.0536"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "60504",
+    "state": "IL",
+    "latitude": "41.782419",
+    "longitude": "-88.238082"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "50021",
+    "state": "IA",
+    "latitude": "41.731899",
+    "longitude": "-93.584946"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "11741",
+    "state": "NY",
+    "latitude": "40.7948",
+    "longitude": "-73.0574"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "63026",
+    "state": "MO",
+    "latitude": "38.522671",
+    "longitude": "-90.472244"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "23464",
+    "state": "VA",
+    "latitude": "36.801275",
+    "longitude": "-76.157187"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "78664",
+    "state": "TX",
+    "latitude": "30.496528",
+    "longitude": "-97.612115"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "85142",
+    "state": "AZ",
+    "latitude": "33.287399",
+    "longitude": "-111.6864"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "32822",
+    "state": "FL",
+    "latitude": "28.5392",
+    "longitude": "-81.287643"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "32765",
+    "state": "FL",
+    "latitude": "28.652581",
+    "longitude": "-81.206894"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "64804",
+    "state": "MO",
+    "latitude": "37.054809",
+    "longitude": "-94.490164"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "66047",
+    "state": "KS",
+    "latitude": "38.942001",
+    "longitude": "-95.276901"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "32960",
+    "state": "FL",
+    "latitude": "27.627619",
+    "longitude": "-80.41378"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "37312",
+    "state": "TN",
+    "latitude": "35.197163",
+    "longitude": "-84.895393"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "66614",
+    "state": "KS",
+    "latitude": "39.00684",
+    "longitude": "-95.730307"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "76134",
+    "state": "TX",
+    "latitude": "32.633312",
+    "longitude": "-97.34435"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "76017",
+    "state": "TX",
+    "latitude": "32.663669",
+    "longitude": "-97.13621"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "73159",
+    "state": "OK",
+    "latitude": "35.3799",
+    "longitude": "-97.5656"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "32953",
+    "state": "FL",
+    "latitude": "28.396318",
+    "longitude": "-80.704597"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "76002",
+    "state": "TX",
+    "latitude": "32.612599",
+    "longitude": "-97.116407"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "52402",
+    "state": "IA",
+    "latitude": "42.035301",
+    "longitude": "-91.656128"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "32905",
+    "state": "FL",
+    "latitude": "28.033435",
+    "longitude": "-80.608017"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "76131",
+    "state": "TX",
+    "latitude": "32.861356",
+    "longitude": "-97.330555"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "44320",
+    "state": "OH",
+    "latitude": "41.1009",
+    "longitude": "-81.5864"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "93003",
+    "state": "CA",
+    "latitude": "34.266",
+    "longitude": "-119.214"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "23112",
+    "state": "VA",
+    "latitude": "37.433176",
+    "longitude": "-77.591434"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "68137",
+    "state": "NE",
+    "latitude": "41.202251",
+    "longitude": "-96.129196"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "84094",
+    "state": "UT",
+    "latitude": "40.545219",
+    "longitude": "-111.862755"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "66049",
+    "state": "KS",
+    "latitude": "38.971495",
+    "longitude": "-95.278088"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "30022",
+    "state": "GA",
+    "latitude": "34.028259",
+    "longitude": "-84.189495"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "89014",
+    "state": "NV",
+    "latitude": "36.056099",
+    "longitude": "-115.052666"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "89014",
+    "state": "NV",
+    "latitude": "36.033195",
+    "longitude": "-115.100197"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "23456",
+    "state": "VA",
+    "latitude": "36.744348",
+    "longitude": "-75.989201"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "75028",
+    "state": "TX",
+    "latitude": "33.016522",
+    "longitude": "-97.036587"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "20602",
+    "state": "MD",
+    "latitude": "38.6114",
+    "longitude": "-76.9167"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "77479",
+    "state": "TX",
+    "latitude": "29.589844",
+    "longitude": "-95.605029"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "92591",
+    "state": "CA",
+    "latitude": "33.539099",
+    "longitude": "-117.144"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "92505",
+    "state": "CA",
+    "latitude": "33.9118",
+    "longitude": "-117.483101"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "77479",
+    "state": "TX",
+    "latitude": "29.579655",
+    "longitude": "-95.630007"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "92677",
+    "state": "CA",
+    "latitude": "33.5332",
+    "longitude": "-117.7"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "42104",
+    "state": "KY",
+    "latitude": "36.970001",
+    "longitude": "-86.431908"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "92646",
+    "state": "CA",
+    "latitude": "33.6796",
+    "longitude": "-117.957"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "77479",
+    "state": "TX",
+    "latitude": "29.559273",
+    "longitude": "-95.685"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "91387",
+    "state": "CA",
+    "latitude": "34.428632",
+    "longitude": "-118.418054"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "77380",
+    "state": "TX",
+    "latitude": "30.15389",
+    "longitude": "-95.461923"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "48243",
+    "state": "MI",
+    "latitude": "42.330659",
+    "longitude": "-83.038287"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "30097",
+    "state": "GA",
+    "latitude": "33.979286",
+    "longitude": "-84.100649"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "27604",
+    "state": "NC",
+    "latitude": "35.799485",
+    "longitude": "-78.555809"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "77346",
+    "state": "TX",
+    "latitude": "29.995599",
+    "longitude": "-95.161161"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "89084",
+    "state": "NV",
+    "latitude": "36.276546",
+    "longitude": "-115.177528"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "95758",
+    "state": "CA",
+    "latitude": "38.4231",
+    "longitude": "-121.412"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "53188",
+    "state": "WI",
+    "latitude": "43.037003",
+    "longitude": "-88.256294"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "31558",
+    "state": "GA",
+    "latitude": "30.749",
+    "longitude": "-81.5694"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "08844",
+    "state": "NJ",
+    "latitude": "40.510632",
+    "longitude": "-74.647252"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "32068",
+    "state": "FL",
+    "latitude": "30.096201",
+    "longitude": "-81.813164"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "32225",
+    "state": "FL",
+    "latitude": "30.325186",
+    "longitude": "-81.523629"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "78221",
+    "state": "TX",
+    "latitude": "29.357398",
+    "longitude": "-98.513954"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "44142",
+    "state": "OH",
+    "latitude": "41.3962",
+    "longitude": "-81.8045"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "35244",
+    "state": "AL",
+    "latitude": "33.350561",
+    "longitude": "-86.865578"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "38128",
+    "state": "TN",
+    "latitude": "35.202999",
+    "longitude": "-89.913399"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "95240",
+    "state": "CA",
+    "latitude": "38.115501",
+    "longitude": "-121.295822"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "95355",
+    "state": "CA",
+    "latitude": "37.6781",
+    "longitude": "-120.954"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "78216",
+    "state": "TX",
+    "latitude": "29.580848",
+    "longitude": "-98.507035"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "43606",
+    "state": "OH",
+    "latitude": "41.653844",
+    "longitude": "-83.614238"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "46203",
+    "state": "IN",
+    "latitude": "39.711241",
+    "longitude": "-86.084189"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "13041",
+    "state": "NY",
+    "latitude": "43.1856",
+    "longitude": "-76.2333"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "85259",
+    "state": "AZ",
+    "latitude": "33.5893",
+    "longitude": "-111.836199"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "64158",
+    "state": "MO",
+    "latitude": "39.23938",
+    "longitude": "-94.46448"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "60193",
+    "state": "IL",
+    "latitude": "42.015527",
+    "longitude": "-88.079107"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "60156",
+    "state": "IL",
+    "latitude": "42.175701",
+    "longitude": "-88.345467"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "37922",
+    "state": "TN",
+    "latitude": "35.903765",
+    "longitude": "-84.076237"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "76039",
+    "state": "TX",
+    "latitude": "32.855171",
+    "longitude": "-97.082992"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "37931",
+    "state": "TN",
+    "latitude": "35.98975",
+    "longitude": "-84.076874"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "76017",
+    "state": "TX",
+    "latitude": "32.648713",
+    "longitude": "-97.18253"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "20010",
+    "state": "DC",
+    "latitude": "38.926681",
+    "longitude": "-77.008958"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "37830",
+    "state": "TN",
+    "latitude": "36.00742",
+    "longitude": "-84.263884"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "29687",
+    "state": "SC",
+    "latitude": "34.887003",
+    "longitude": "-82.302401"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "29607",
+    "state": "SC",
+    "latitude": "34.820412",
+    "longitude": "-82.279549"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "92129",
+    "state": "CA",
+    "latitude": "32.961226",
+    "longitude": "-117.113285"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "76016",
+    "state": "TX",
+    "latitude": "32.682328",
+    "longitude": "-97.178751"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "37129",
+    "state": "TN",
+    "latitude": "35.871332",
+    "longitude": "-86.390258"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "92128",
+    "state": "CA",
+    "latitude": "32.950989",
+    "longitude": "-117.097397"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "32258",
+    "state": "FL",
+    "latitude": "30.14344",
+    "longitude": "-81.554507"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "32578",
+    "state": "FL",
+    "latitude": "30.471218",
+    "longitude": "-86.399506"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "35805",
+    "state": "AL",
+    "latitude": "34.723572",
+    "longitude": "-86.644104"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "76108",
+    "state": "TX",
+    "latitude": "32.758817",
+    "longitude": "-97.493595"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "33624",
+    "state": "FL",
+    "latitude": "28.095371",
+    "longitude": "-82.508057"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "80916",
+    "state": "CO",
+    "latitude": "38.808057",
+    "longitude": "-104.717095"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "64131",
+    "state": "MO",
+    "latitude": "38.926154",
+    "longitude": "-94.588061"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "80918",
+    "state": "CO",
+    "latitude": "38.923531",
+    "longitude": "-104.776482"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "29485",
+    "state": "SC",
+    "latitude": "32.963518",
+    "longitude": "-80.165892"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "33647",
+    "state": "FL",
+    "latitude": "28.146704",
+    "longitude": "-82.350746"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "93065",
+    "state": "CA",
+    "latitude": "34.2677",
+    "longitude": "-118.795807"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "33624",
+    "state": "FL",
+    "latitude": "28.069861",
+    "longitude": "-82.516519"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "76017",
+    "state": "TX",
+    "latitude": "32.663645",
+    "longitude": "-97.135485"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "76034",
+    "state": "TX",
+    "latitude": "32.877751",
+    "longitude": "-97.155503"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "76021",
+    "state": "TX",
+    "latitude": "32.851568",
+    "longitude": "-97.13421"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "33511",
+    "state": "FL",
+    "latitude": "27.8936",
+    "longitude": "-82.294289"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "53589",
+    "state": "WI",
+    "latitude": "42.923542",
+    "longitude": "-89.233208"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "98052",
+    "state": "WA",
+    "latitude": "47.6795",
+    "longitude": "-122.126552"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "33615",
+    "state": "FL",
+    "latitude": "27.99998",
+    "longitude": "-82.563836"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "43240",
+    "state": "OH",
+    "latitude": "40.149066",
+    "longitude": "-82.994762"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "43081",
+    "state": "OH",
+    "latitude": "40.147591",
+    "longitude": "-82.930862"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "43026",
+    "state": "OH",
+    "latitude": "40.029231",
+    "longitude": "-83.110749"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "43004",
+    "state": "OH",
+    "latitude": "39.984715",
+    "longitude": "-82.805702"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "43081",
+    "state": "OH",
+    "latitude": "40.085804",
+    "longitude": "-82.897377"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "85018",
+    "state": "AZ",
+    "latitude": "33.4805",
+    "longitude": "-112.005"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "53713",
+    "state": "WI",
+    "latitude": "43.047199",
+    "longitude": "-89.339699"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "53718",
+    "state": "WI",
+    "latitude": "43.041737",
+    "longitude": "-89.301842"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "37138",
+    "state": "TN",
+    "latitude": "36.217916",
+    "longitude": "-86.583664"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "53590",
+    "state": "WI",
+    "latitude": "43.186199",
+    "longitude": "-89.254112"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "53597",
+    "state": "WI",
+    "latitude": "43.177307",
+    "longitude": "-89.447266"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "37072",
+    "state": "TN",
+    "latitude": "36.312862",
+    "longitude": "-86.714699"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "93720",
+    "state": "CA",
+    "latitude": "36.858821",
+    "longitude": "-119.766976"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "93611",
+    "state": "CA",
+    "latitude": "36.8303",
+    "longitude": "-119.676"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "49428",
+    "state": "MI",
+    "latitude": "42.9072",
+    "longitude": "-85.7969"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "33436",
+    "state": "FL",
+    "latitude": "26.549025",
+    "longitude": "-80.121073"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "33411",
+    "state": "FL",
+    "latitude": "26.705421",
+    "longitude": "-80.225861"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "62221",
+    "state": "IL",
+    "latitude": "38.542225",
+    "longitude": "-89.943512"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "91910",
+    "state": "CA",
+    "latitude": "32.631777",
+    "longitude": "-117.02736"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "92071",
+    "state": "CA",
+    "latitude": "32.8481",
+    "longitude": "-116.983"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "91942",
+    "state": "CA",
+    "latitude": "32.7815",
+    "longitude": "-117.035"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "48315",
+    "state": "MI",
+    "latitude": "42.657627",
+    "longitude": "-82.974528"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "85027",
+    "state": "AZ",
+    "latitude": "33.7124",
+    "longitude": "-112.10875"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "45040",
+    "state": "OH",
+    "latitude": "39.3373",
+    "longitude": "-84.3252"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "85302",
+    "state": "AZ",
+    "latitude": "33.569",
+    "longitude": "-112.183"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "48167",
+    "state": "MI",
+    "latitude": "42.4406",
+    "longitude": "-83.4143"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "45202",
+    "state": "OH",
+    "latitude": "39.0991",
+    "longitude": "-84.5107"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "92126",
+    "state": "CA",
+    "latitude": "32.915316",
+    "longitude": "-117.14915"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "45069",
+    "state": "OH",
+    "latitude": "39.3511",
+    "longitude": "-84.462823"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "60564",
+    "state": "IL",
+    "latitude": "41.725178",
+    "longitude": "-88.203923"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "50309",
+    "state": "IA",
+    "latitude": "41.5916",
+    "longitude": "-93.6258"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "60506",
+    "state": "IL",
+    "latitude": "41.788671",
+    "longitude": "-88.377484"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "50315",
+    "state": "IA",
+    "latitude": "41.532722",
+    "longitude": "-93.625702"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "60565",
+    "state": "IL",
+    "latitude": "41.730211",
+    "longitude": "-88.132526"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "11788",
+    "state": "NY",
+    "latitude": "40.8123",
+    "longitude": "-73.256"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "50021",
+    "state": "IA",
+    "latitude": "41.7372",
+    "longitude": "-93.5985"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "63021",
+    "state": "MO",
+    "latitude": "38.578789",
+    "longitude": "-90.557755"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "85635",
+    "state": "AZ",
+    "latitude": "31.5694",
+    "longitude": "-110.291"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "63010",
+    "state": "MO",
+    "latitude": "38.41162",
+    "longitude": "-90.384397"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "78758",
+    "state": "TX",
+    "latitude": "30.387069",
+    "longitude": "-97.703656"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "85043",
+    "state": "AZ",
+    "latitude": "33.422955",
+    "longitude": "-112.227885"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "85715",
+    "state": "AZ",
+    "latitude": "32.236258",
+    "longitude": "-110.817032"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "85746",
+    "state": "AZ",
+    "latitude": "32.132073",
+    "longitude": "-110.999066"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "85730",
+    "state": "AZ",
+    "latitude": "32.191898",
+    "longitude": "-110.802673"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "85748",
+    "state": "AZ",
+    "latitude": "32.207299",
+    "longitude": "-110.79"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "85741",
+    "state": "AZ",
+    "latitude": "32.349361",
+    "longitude": "-111.046898"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "85719",
+    "state": "AZ",
+    "latitude": "32.265512",
+    "longitude": "-110.942673"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "85749",
+    "state": "AZ",
+    "latitude": "32.257998",
+    "longitude": "-110.801323"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "78748",
+    "state": "TX",
+    "latitude": "30.174383",
+    "longitude": "-97.810469"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "28152",
+    "state": "NC",
+    "latitude": "35.2752",
+    "longitude": "-81.566605"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "08043",
+    "state": "NJ",
+    "latitude": "39.853719",
+    "longitude": "-74.982205"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "64151",
+    "state": "MO",
+    "latitude": "39.211796",
+    "longitude": "-94.647614"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "75067",
+    "state": "TX",
+    "latitude": "33.006056",
+    "longitude": "-97.008512"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "28273",
+    "state": "NC",
+    "latitude": "35.112495",
+    "longitude": "-80.972022"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "85226",
+    "state": "AZ",
+    "latitude": "33.308467",
+    "longitude": "-111.95063"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "40223",
+    "state": "KY",
+    "latitude": "38.233799",
+    "longitude": "-85.5709"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "76182",
+    "state": "TX",
+    "latitude": "32.882996",
+    "longitude": "-97.212555"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "87108",
+    "state": "NM",
+    "latitude": "35.057639",
+    "longitude": "-106.570358"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "87110",
+    "state": "NM",
+    "latitude": "35.094208",
+    "longitude": "-106.558308"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "87505",
+    "state": "NM",
+    "latitude": "35.653672",
+    "longitude": "-105.996908"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "87122",
+    "state": "NM",
+    "latitude": "35.179022",
+    "longitude": "-106.559102"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "87112",
+    "state": "NM",
+    "latitude": "35.108129",
+    "longitude": "-106.506226"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "87110",
+    "state": "NM",
+    "latitude": "35.128594",
+    "longitude": "-106.585488"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "87105",
+    "state": "NM",
+    "latitude": "35.09434",
+    "longitude": "-106.70764"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "87124",
+    "state": "NM",
+    "latitude": "35.265832",
+    "longitude": "-106.636022"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "87120",
+    "state": "NM",
+    "latitude": "35.118942",
+    "longitude": "-106.702915"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "87124",
+    "state": "NM",
+    "latitude": "35.241559",
+    "longitude": "-106.68062"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "87124",
+    "state": "NM",
+    "latitude": "35.234011",
+    "longitude": "-106.654124"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "87114",
+    "state": "NM",
+    "latitude": "35.191597",
+    "longitude": "-106.666135"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "94806",
+    "state": "CA",
+    "latitude": "37.984115",
+    "longitude": "-122.332994"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "48912",
+    "state": "MI",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "32837",
+    "state": "FL",
+    "latitude": "28.35693",
+    "longitude": "-81.405319"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "32828",
+    "state": "FL",
+    "latitude": "28.541672",
+    "longitude": "-81.201065"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "32818",
+    "state": "FL",
+    "latitude": "28.577499",
+    "longitude": "-81.488968"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "32746",
+    "state": "FL",
+    "latitude": "28.75482",
+    "longitude": "-81.358433"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "32810",
+    "state": "FL",
+    "latitude": "28.632766",
+    "longitude": "-81.414118"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "92845",
+    "state": "CA",
+    "latitude": "33.782058",
+    "longitude": "-118.02024"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "34743",
+    "state": "FL",
+    "latitude": "28.3202",
+    "longitude": "-81.340202"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "34744",
+    "state": "FL",
+    "latitude": "28.315304",
+    "longitude": "-81.385902"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "32792",
+    "state": "FL",
+    "latitude": "28.5815",
+    "longitude": "-81.3075"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "34746",
+    "state": "FL",
+    "latitude": "28.264372",
+    "longitude": "-81.429726"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "21076",
+    "state": "MD",
+    "latitude": "39.1605",
+    "longitude": "-76.7091"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "21046",
+    "state": "MD",
+    "latitude": "39.166728",
+    "longitude": "-76.871654"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "21054",
+    "state": "MD",
+    "latitude": "39.028324",
+    "longitude": "-76.683408"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "21042",
+    "state": "MD",
+    "latitude": "39.27762",
+    "longitude": "-76.861731"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "21045",
+    "state": "MD",
+    "latitude": "39.234292",
+    "longitude": "-76.815578"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "21014",
+    "state": "MD",
+    "latitude": "39.5506",
+    "longitude": "-76.3451"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "75077",
+    "state": "TX",
+    "latitude": "33.064707",
+    "longitude": "-97.036266"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "65804",
+    "state": "MO",
+    "latitude": "37.18251",
+    "longitude": "-93.250697"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "98012",
+    "state": "WA",
+    "latitude": "47.87697",
+    "longitude": "-122.209616"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "98036",
+    "state": "WA",
+    "latitude": "47.813446",
+    "longitude": "-122.278778"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "98037",
+    "state": "WA",
+    "latitude": "47.881397",
+    "longitude": "-122.279228"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "87120",
+    "state": "NM",
+    "latitude": "35.155635",
+    "longitude": "-106.695676"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "94801",
+    "state": "CA",
+    "latitude": "37.93759",
+    "longitude": "-122.358097"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "78754",
+    "state": "TX",
+    "latitude": "30.344491",
+    "longitude": "-97.61428"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "78613",
+    "state": "TX",
+    "latitude": "30.480693",
+    "longitude": "-97.824973"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "78660",
+    "state": "TX",
+    "latitude": "30.442275",
+    "longitude": "-97.628191"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "73160",
+    "state": "OK",
+    "latitude": "35.33386",
+    "longitude": "-97.468864"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "78613",
+    "state": "TX",
+    "latitude": "30.528563",
+    "longitude": "-97.834075"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "98034",
+    "state": "WA",
+    "latitude": "47.703999",
+    "longitude": "-122.188293"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "30127",
+    "state": "GA",
+    "latitude": "33.849101",
+    "longitude": "-84.69374"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "98074",
+    "state": "WA",
+    "latitude": "47.613068",
+    "longitude": "-122.0355"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "23060",
+    "state": "VA",
+    "latitude": "37.658126",
+    "longitude": "-77.561993"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "23185",
+    "state": "VA",
+    "latitude": "37.308747",
+    "longitude": "-76.749177"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "84121",
+    "state": "UT",
+    "latitude": "40.625002",
+    "longitude": "-111.824297"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "23454",
+    "state": "VA",
+    "latitude": "36.77397",
+    "longitude": "-76.004602"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "85234",
+    "state": "AZ",
+    "latitude": "33.3791",
+    "longitude": "-111.76"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "30101",
+    "state": "GA",
+    "latitude": "33.995952",
+    "longitude": "-84.709305"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "76018",
+    "state": "TX",
+    "latitude": "32.64414",
+    "longitude": "-97.098762"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "92057",
+    "state": "CA",
+    "latitude": "33.219",
+    "longitude": "-117.3"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "30274",
+    "state": "GA",
+    "latitude": "33.546366",
+    "longitude": "-84.403545"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "73034",
+    "state": "OK",
+    "latitude": "35.636425",
+    "longitude": "-97.51435"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "73013",
+    "state": "OK",
+    "latitude": "35.623085",
+    "longitude": "-97.482062"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "73099",
+    "state": "OK",
+    "latitude": "35.513306",
+    "longitude": "-97.702206"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "73099",
+    "state": "OK",
+    "latitude": "35.492066",
+    "longitude": "-97.751785"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "23456",
+    "state": "VA",
+    "latitude": "36.800846",
+    "longitude": "-76.111564"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "73072",
+    "state": "OK",
+    "latitude": "35.23243",
+    "longitude": "-97.491119"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "23703",
+    "state": "VA",
+    "latitude": "36.866087",
+    "longitude": "-76.377356"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "73139",
+    "state": "OK",
+    "latitude": "35.391707",
+    "longitude": "-97.536841"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "33759",
+    "state": "FL",
+    "latitude": "27.966555",
+    "longitude": "-82.708786"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "73170",
+    "state": "OK",
+    "latitude": "35.337198",
+    "longitude": "-97.529471"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "73119",
+    "state": "OK",
+    "latitude": "35.405801",
+    "longitude": "-97.567986"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "73139",
+    "state": "OK",
+    "latitude": "35.366",
+    "longitude": "-97.53"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "73162",
+    "state": "OK",
+    "latitude": "35.56698",
+    "longitude": "-97.655511"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "21017",
+    "state": "MD",
+    "latitude": "39.477178",
+    "longitude": "-76.249052"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "73132",
+    "state": "OK",
+    "latitude": "35.5656",
+    "longitude": "-97.6605"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "76051",
+    "state": "TX",
+    "latitude": "32.881173",
+    "longitude": "-97.089939"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "44312",
+    "state": "OH",
+    "latitude": "41.0482",
+    "longitude": "-81.4383"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "80917",
+    "state": "CO",
+    "latitude": "38.884228",
+    "longitude": "-104.722397"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "48106",
+    "state": "MI",
+    "latitude": "42.309136",
+    "longitude": "-83.677878"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "64118",
+    "state": "MO",
+    "latitude": "39.231893",
+    "longitude": "-94.575855"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "52240",
+    "state": "IA",
+    "latitude": "41.644093",
+    "longitude": "-91.502335"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "46219",
+    "state": "IN",
+    "latitude": "39.782619",
+    "longitude": "-86.012184"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "73110",
+    "state": "OK",
+    "latitude": "35.465034",
+    "longitude": "-97.372603"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "28025",
+    "state": "NC",
+    "latitude": "35.443031",
+    "longitude": "-80.609886"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "64082",
+    "state": "MO",
+    "latitude": "38.852787",
+    "longitude": "-94.383698"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "44333",
+    "state": "OH",
+    "latitude": "41.1486",
+    "longitude": "-81.6392"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "44319",
+    "state": "OH",
+    "latitude": "41.0264",
+    "longitude": "-81.548"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "60586",
+    "state": "IL",
+    "latitude": "41.563849",
+    "longitude": "-88.202027"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "64506",
+    "state": "MO",
+    "latitude": "39.773022",
+    "longitude": "-94.806198"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "44221",
+    "state": "OH",
+    "latitude": "41.1199",
+    "longitude": "-81.4666"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "28273",
+    "state": "NC",
+    "latitude": "35.132566",
+    "longitude": "-80.939815"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "33614",
+    "state": "FL",
+    "latitude": "28.028656",
+    "longitude": "-82.50601"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "95687",
+    "state": "CA",
+    "latitude": "38.3624",
+    "longitude": "-121.957"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "27410",
+    "state": "NC",
+    "latitude": "36.126129",
+    "longitude": "-79.906822"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "32608",
+    "state": "FL",
+    "latitude": "29.632557",
+    "longitude": "-82.360855"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "76155",
+    "state": "TX",
+    "latitude": "32.821285",
+    "longitude": "-97.05967"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "23832",
+    "state": "VA",
+    "latitude": "37.373298",
+    "longitude": "-77.498477"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "32940",
+    "state": "FL",
+    "latitude": "28.232654",
+    "longitude": "-80.713679"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "48185",
+    "state": "MI",
+    "latitude": "42.3466",
+    "longitude": "-83.3611"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "46184",
+    "state": "IN",
+    "latitude": "39.564639",
+    "longitude": "-86.084771"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "76137",
+    "state": "TX",
+    "latitude": "32.873663",
+    "longitude": "-97.266825"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "43065",
+    "state": "OH",
+    "latitude": "40.19165",
+    "longitude": "-83.095749"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "93001",
+    "state": "CA",
+    "latitude": "34.300301",
+    "longitude": "-119.298682"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "27284",
+    "state": "NC",
+    "latitude": "36.134135",
+    "longitude": "-80.116892"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "76137",
+    "state": "TX",
+    "latitude": "32.854835",
+    "longitude": "-97.287306"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "98383",
+    "state": "WA",
+    "latitude": "47.6717",
+    "longitude": "-122.667"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "32174",
+    "state": "FL",
+    "latitude": "29.253003",
+    "longitude": "-81.138579"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "14127",
+    "state": "NY",
+    "latitude": "42.8007",
+    "longitude": "-78.7439"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "33594",
+    "state": "FL",
+    "latitude": "27.884357",
+    "longitude": "-82.266988"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "92867",
+    "state": "CA",
+    "latitude": "33.8292",
+    "longitude": "-117.824"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "32127",
+    "state": "FL",
+    "latitude": "29.106899",
+    "longitude": "-81.005196"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "23112",
+    "state": "VA",
+    "latitude": "37.409623",
+    "longitude": "-77.648427"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "92648",
+    "state": "CA",
+    "latitude": "33.673729",
+    "longitude": "-117.987214"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "68123",
+    "state": "NE",
+    "latitude": "41.136818",
+    "longitude": "-95.957724"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "68137",
+    "state": "NE",
+    "latitude": "41.205299",
+    "longitude": "-96.083092"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "68144",
+    "state": "NE",
+    "latitude": "41.235485",
+    "longitude": "-96.134865"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "93309",
+    "state": "CA",
+    "latitude": "35.330971",
+    "longitude": "-119.092102"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "23112",
+    "state": "VA",
+    "latitude": "37.459973",
+    "longitude": "-77.658571"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "38637",
+    "state": "MS",
+    "latitude": "34.962619",
+    "longitude": "-90.035814"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "73099",
+    "state": "OK",
+    "latitude": "35.464354",
+    "longitude": "-97.726736"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "93311",
+    "state": "CA",
+    "latitude": "35.3437",
+    "longitude": "-119.112"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "19707",
+    "state": "DE",
+    "latitude": "39.764218",
+    "longitude": "-75.705203"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "34953",
+    "state": "FL",
+    "latitude": "27.26717",
+    "longitude": "-80.371338"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "30290",
+    "state": "GA",
+    "latitude": "33.452855",
+    "longitude": "-84.589986"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "84093",
+    "state": "UT",
+    "latitude": "40.594898",
+    "longitude": "-111.830757"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "20877",
+    "state": "MD",
+    "latitude": "39.149946",
+    "longitude": "-77.175811"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "34986",
+    "state": "FL",
+    "latitude": "27.315338",
+    "longitude": "-80.386779"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "89128",
+    "state": "NV",
+    "latitude": "36.203506",
+    "longitude": "-115.2537"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "80104",
+    "state": "CO",
+    "latitude": "39.390136",
+    "longitude": "-104.85316"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "80027",
+    "state": "CO",
+    "latitude": "39.964632",
+    "longitude": "-105.161457"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "80020",
+    "state": "CO",
+    "latitude": "39.899417",
+    "longitude": "-105.058384"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "91390",
+    "state": "CA",
+    "latitude": "34.461084",
+    "longitude": "-118.534214"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "30005",
+    "state": "GA",
+    "latitude": "34.070076",
+    "longitude": "-84.258566"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "30038",
+    "state": "GA",
+    "latitude": "33.700079",
+    "longitude": "-84.174898"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "30022",
+    "state": "GA",
+    "latitude": "34.006299",
+    "longitude": "-84.278072"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "23185",
+    "state": "VA",
+    "latitude": "37.250717",
+    "longitude": "-76.729158"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "30058",
+    "state": "GA",
+    "latitude": "33.7706",
+    "longitude": "-84.1024"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "89119",
+    "state": "NV",
+    "latitude": "36.05714",
+    "longitude": "-115.148087"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "33157",
+    "state": "FL",
+    "latitude": "25.598089",
+    "longitude": "-80.368698"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "75019",
+    "state": "TX",
+    "latitude": "32.972704",
+    "longitude": "-96.99612"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "23454",
+    "state": "VA",
+    "latitude": "36.878519",
+    "longitude": "-76.040854"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "75062",
+    "state": "TX",
+    "latitude": "32.867624",
+    "longitude": "-96.946607"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "75022",
+    "state": "TX",
+    "latitude": "33.027785",
+    "longitude": "-97.086949"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "23669",
+    "state": "VA",
+    "latitude": "37.062058",
+    "longitude": "-76.3419"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "75040",
+    "state": "TX",
+    "latitude": "32.948999",
+    "longitude": "-96.6405"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "75028",
+    "state": "TX",
+    "latitude": "33.019321",
+    "longitude": "-97.055805"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "75007",
+    "state": "TX",
+    "latitude": "33.024172",
+    "longitude": "-96.881465"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "80013",
+    "state": "CO",
+    "latitude": "39.673494",
+    "longitude": "-104.789272"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "80013",
+    "state": "CO",
+    "latitude": "39.638887",
+    "longitude": "-104.784264"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "30047",
+    "state": "GA",
+    "latitude": "33.8674",
+    "longitude": "-84.0894"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "30066",
+    "state": "GA",
+    "latitude": "33.998419",
+    "longitude": "-84.5291"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "80226",
+    "state": "CO",
+    "latitude": "39.709928",
+    "longitude": "-105.119913"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "20165",
+    "state": "VA",
+    "latitude": "39.041162",
+    "longitude": "-77.413015"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "75007",
+    "state": "TX",
+    "latitude": "33.000135",
+    "longitude": "-96.888653"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "48236",
+    "state": "MI",
+    "latitude": "42.419691",
+    "longitude": "-82.911303"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "80111",
+    "state": "CO",
+    "latitude": "39.63295",
+    "longitude": "-104.885101"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "80138",
+    "state": "CO",
+    "latitude": "39.514567",
+    "longitude": "-104.763375"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "30093",
+    "state": "GA",
+    "latitude": "33.91431",
+    "longitude": "-84.161919"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "30066",
+    "state": "GA",
+    "latitude": "34.0418",
+    "longitude": "-84.482619"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "30122",
+    "state": "GA",
+    "latitude": "33.755447",
+    "longitude": "-84.65332"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "38654",
+    "state": "MS",
+    "latitude": "34.966931",
+    "longitude": "-89.796592"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "33126",
+    "state": "FL",
+    "latitude": "25.777351",
+    "longitude": "-80.297196"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "34653",
+    "state": "FL",
+    "latitude": "28.217145",
+    "longitude": "-82.700775"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "75074",
+    "state": "TX",
+    "latitude": "33.031869",
+    "longitude": "-96.697162"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "22039",
+    "state": "VA",
+    "latitude": "38.795685",
+    "longitude": "-77.324841"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "75024",
+    "state": "TX",
+    "latitude": "33.086077",
+    "longitude": "-96.818619"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "13090",
+    "state": "NY",
+    "latitude": "43.1309",
+    "longitude": "-76.2059"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "13027",
+    "state": "NY",
+    "latitude": "43.1768",
+    "longitude": "-76.3074"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "76177",
+    "state": "TX",
+    "latitude": "32.984008",
+    "longitude": "-97.251752"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "75150",
+    "state": "TX",
+    "latitude": "32.820099",
+    "longitude": "-96.6178"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "13215",
+    "state": "NY",
+    "latitude": "42.9962",
+    "longitude": "-76.2028"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "75052",
+    "state": "TX",
+    "latitude": "32.671626",
+    "longitude": "-97.008501"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "48187",
+    "state": "MI",
+    "latitude": "42.3205",
+    "longitude": "-83.4585"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "75007",
+    "state": "TX",
+    "latitude": "32.9878",
+    "longitude": "-96.911"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "33063",
+    "state": "FL",
+    "latitude": "26.234783",
+    "longitude": "-80.215523"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "33024",
+    "state": "FL",
+    "latitude": "26.024985",
+    "longitude": "-80.264456"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "33326",
+    "state": "FL",
+    "latitude": "26.103412",
+    "longitude": "-80.370046"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "46254",
+    "state": "IN",
+    "latitude": "39.824323",
+    "longitude": "-86.281517"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "33025",
+    "state": "FL",
+    "latitude": "25.985436",
+    "longitude": "-80.263609"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "93550",
+    "state": "CA",
+    "latitude": "34.5797",
+    "longitude": "-118.098381"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "75067",
+    "state": "TX",
+    "latitude": "33.007587",
+    "longitude": "-97.005474"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "60491",
+    "state": "IL",
+    "latitude": "41.630248",
+    "longitude": "-87.931073"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "28213",
+    "state": "NC",
+    "latitude": "35.293853",
+    "longitude": "-80.740937"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "20814",
+    "state": "MD",
+    "latitude": "38.984",
+    "longitude": "-77.0914"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "92808",
+    "state": "CA",
+    "latitude": "33.8648",
+    "longitude": "-117.746"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "75063",
+    "state": "TX",
+    "latitude": "32.928708",
+    "longitude": "-96.958989"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "21701",
+    "state": "MD",
+    "latitude": "39.446793",
+    "longitude": "-77.436571"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "92677",
+    "state": "CA",
+    "latitude": "33.5626",
+    "longitude": "-117.705"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "77478",
+    "state": "TX",
+    "latitude": "29.632257",
+    "longitude": "-95.618307"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "53142",
+    "state": "WI",
+    "latitude": "42.569536",
+    "longitude": "-87.933266"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "77450",
+    "state": "TX",
+    "latitude": "29.7585",
+    "longitude": "-95.755"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "94553",
+    "state": "CA",
+    "latitude": "37.9594",
+    "longitude": "-122.094"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "76131",
+    "state": "TX",
+    "latitude": "32.894366",
+    "longitude": "-97.344279"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "94509",
+    "state": "CA",
+    "latitude": "37.995337",
+    "longitude": "-121.787242"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "94518",
+    "state": "CA",
+    "latitude": "37.955097",
+    "longitude": "-122.001213"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "77373",
+    "state": "TX",
+    "latitude": "30.041361",
+    "longitude": "-95.354284"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "21701",
+    "state": "MD",
+    "latitude": "39.398684",
+    "longitude": "-77.349802"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "32003",
+    "state": "FL",
+    "latitude": "30.11958",
+    "longitude": "-81.703829"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "27713",
+    "state": "NC",
+    "latitude": "35.911724",
+    "longitude": "-78.945245"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "77449",
+    "state": "TX",
+    "latitude": "29.8167",
+    "longitude": "-95.7203"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "27613",
+    "state": "NC",
+    "latitude": "35.869621",
+    "longitude": "-78.712997"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "27511",
+    "state": "NC",
+    "latitude": "35.775742",
+    "longitude": "-78.801529"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "77429",
+    "state": "TX",
+    "latitude": "29.995951",
+    "longitude": "-95.618998"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "77379",
+    "state": "TX",
+    "latitude": "30.026815",
+    "longitude": "-95.56361"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "74108",
+    "state": "OK",
+    "latitude": "36.134444",
+    "longitude": "-95.830762"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "98003",
+    "state": "WA",
+    "latitude": "47.289893",
+    "longitude": "-122.327874"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "89110",
+    "state": "NV",
+    "latitude": "36.1721",
+    "longitude": "-115.076"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "98042",
+    "state": "WA",
+    "latitude": "47.355602",
+    "longitude": "-122.112152"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "98373",
+    "state": "WA",
+    "latitude": "47.110733",
+    "longitude": "-122.307404"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "48075",
+    "state": "MI",
+    "latitude": "42.45531",
+    "longitude": "-83.202208"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "92336",
+    "state": "CA",
+    "latitude": "34.1214",
+    "longitude": "-117.493"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "48098",
+    "state": "MI",
+    "latitude": "42.582954",
+    "longitude": "-83.16836"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "35242",
+    "state": "AL",
+    "latitude": "33.4142",
+    "longitude": "-86.700111"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "98374",
+    "state": "WA",
+    "latitude": "47.154758",
+    "longitude": "-122.280555"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "95670",
+    "state": "CA",
+    "latitude": "38.62191",
+    "longitude": "-121.259079"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "46804",
+    "state": "IN",
+    "latitude": "41.043827",
+    "longitude": "-85.235901"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "20110",
+    "state": "VA",
+    "latitude": "38.738257",
+    "longitude": "-77.471491"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "66221",
+    "state": "KS",
+    "latitude": "38.88565",
+    "longitude": "-94.716465"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "22033",
+    "state": "VA",
+    "latitude": "38.8874",
+    "longitude": "-77.3815"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "53186",
+    "state": "WI",
+    "latitude": "43.038502",
+    "longitude": "-88.167648"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "10504",
+    "state": "NY",
+    "latitude": "41.1189",
+    "longitude": "-73.7183"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "91367",
+    "state": "CA",
+    "latitude": "34.177303",
+    "longitude": "-118.589761"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "22303",
+    "state": "VA",
+    "latitude": "38.794",
+    "longitude": "-77.0702"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "20147",
+    "state": "VA",
+    "latitude": "39.058952",
+    "longitude": "-77.476443"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "29418",
+    "state": "SC",
+    "latitude": "32.926844",
+    "longitude": "-80.079411"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "66202",
+    "state": "KS",
+    "latitude": "39.0136",
+    "longitude": "-94.686455"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "48331",
+    "state": "MI",
+    "latitude": "42.4978",
+    "longitude": "-83.4103"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "48085",
+    "state": "MI",
+    "latitude": "42.5916",
+    "longitude": "-83.146"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "92376",
+    "state": "CA",
+    "latitude": "34.121322",
+    "longitude": "-117.418455"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "31548",
+    "state": "GA",
+    "latitude": "30.7933",
+    "longitude": "-81.6419"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "35209",
+    "state": "AL",
+    "latitude": "33.464619",
+    "longitude": "-86.773013"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "08807",
+    "state": "NJ",
+    "latitude": "40.589601",
+    "longitude": "-74.658291"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "27836",
+    "state": "NC",
+    "latitude": "35.6028",
+    "longitude": "-77.4145"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "64014",
+    "state": "MO",
+    "latitude": "38.997575",
+    "longitude": "-94.273095"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "78244",
+    "state": "TX",
+    "latitude": "29.494022",
+    "longitude": "-98.332724"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "32244",
+    "state": "FL",
+    "latitude": "30.19171",
+    "longitude": "-81.750229"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "78240",
+    "state": "TX",
+    "latitude": "29.492972",
+    "longitude": "-98.596993"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "32003",
+    "state": "FL",
+    "latitude": "30.1042",
+    "longitude": "-81.7126"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "78259",
+    "state": "TX",
+    "latitude": "29.629868",
+    "longitude": "-98.457278"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "23112",
+    "state": "VA",
+    "latitude": "37.447457",
+    "longitude": "-77.685139"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "37923",
+    "state": "TN",
+    "latitude": "35.926357",
+    "longitude": "-84.090973"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "33498",
+    "state": "FL",
+    "latitude": "26.372259",
+    "longitude": "-80.211209"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "27106",
+    "state": "NC",
+    "latitude": "36.150219",
+    "longitude": "-80.288121"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "77479",
+    "state": "TX",
+    "latitude": "29.599811",
+    "longitude": "-95.681283"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "75052",
+    "state": "TX",
+    "latitude": "32.659036",
+    "longitude": "-97.014771"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "76132",
+    "state": "TX",
+    "latitude": "32.66",
+    "longitude": "-97.426711"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "21043",
+    "state": "MD",
+    "latitude": "39.2372",
+    "longitude": "-76.7986"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "48322",
+    "state": "MI",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "38125",
+    "state": "TN",
+    "latitude": "35.027549",
+    "longitude": "-89.795141"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "38017",
+    "state": "TN",
+    "latitude": "35.048282",
+    "longitude": "-89.699879"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "35235",
+    "state": "AL",
+    "latitude": "33.649529",
+    "longitude": "-86.634605"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "38141",
+    "state": "TN",
+    "latitude": "35.018914",
+    "longitude": "-89.830775"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "38128",
+    "state": "TN",
+    "latitude": "35.238708",
+    "longitude": "-89.95089"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "06484",
+    "state": "CT",
+    "latitude": "41.275052",
+    "longitude": "-73.124168"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "23116",
+    "state": "VA",
+    "latitude": "37.660622",
+    "longitude": "-77.386152"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "37938",
+    "state": "TN",
+    "latitude": "36.053067",
+    "longitude": "-83.988647"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "37922",
+    "state": "TN",
+    "latitude": "35.895445",
+    "longitude": "-84.173299"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "45458",
+    "state": "OH",
+    "latitude": "39.610442",
+    "longitude": "-84.159783"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "21201",
+    "state": "MD",
+    "latitude": "39.2877",
+    "longitude": "-76.6177"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "78730",
+    "state": "TX",
+    "latitude": "30.392535",
+    "longitude": "-97.848423"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "27511",
+    "state": "NC",
+    "latitude": "35.757877",
+    "longitude": "-78.781097"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "80127",
+    "state": "CO",
+    "latitude": "39.607492",
+    "longitude": "-105.128115"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "12054",
+    "state": "NY",
+    "latitude": "42.6304",
+    "longitude": "-73.8121"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "32811",
+    "state": "FL",
+    "latitude": "28.538786",
+    "longitude": "-81.472885"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "66210",
+    "state": "KS",
+    "latitude": "38.927182",
+    "longitude": "-94.686362"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "32256",
+    "state": "FL",
+    "latitude": "30.222099",
+    "longitude": "-81.567589"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "78247",
+    "state": "TX",
+    "latitude": "29.588553",
+    "longitude": "-98.379046"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "20124",
+    "state": "VA",
+    "latitude": "38.8258",
+    "longitude": "-77.4129"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "93036",
+    "state": "CA",
+    "latitude": "34.2296",
+    "longitude": "-119.173"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "77396",
+    "state": "TX",
+    "latitude": "29.940358",
+    "longitude": "-95.263703"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "75067",
+    "state": "TX",
+    "latitude": "33.0456",
+    "longitude": "-97.0357"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "32225",
+    "state": "FL",
+    "latitude": "30.332802",
+    "longitude": "-81.468597"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "30092",
+    "state": "GA",
+    "latitude": "33.953079",
+    "longitude": "-84.242012"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "43229",
+    "state": "OH",
+    "latitude": "40.102",
+    "longitude": "-82.9875"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "75067",
+    "state": "TX",
+    "latitude": "33.0037",
+    "longitude": "-96.9875"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "85750",
+    "state": "AZ",
+    "latitude": "32.2734",
+    "longitude": "-110.872"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "67202",
+    "state": "KS",
+    "latitude": "37.691748",
+    "longitude": "-97.342061"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "75181",
+    "state": "TX",
+    "latitude": "32.755954",
+    "longitude": "-96.560972"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "98003",
+    "state": "WA",
+    "latitude": "47.3224",
+    "longitude": "-122.334"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "43062",
+    "state": "OH",
+    "latitude": "40.004",
+    "longitude": "-82.6696"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "95610",
+    "state": "CA",
+    "latitude": "38.706528",
+    "longitude": "-121.266113"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "95833",
+    "state": "CA",
+    "latitude": "38.6106",
+    "longitude": "-121.499"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "22026",
+    "state": "VA",
+    "latitude": "38.582013",
+    "longitude": "-77.311016"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "95765",
+    "state": "CA",
+    "latitude": "38.796848",
+    "longitude": "-121.26413"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "22153",
+    "state": "VA",
+    "latitude": "38.744519",
+    "longitude": "-77.249948"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "85044",
+    "state": "AZ",
+    "latitude": "33.333799",
+    "longitude": "-111.977"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "66062",
+    "state": "KS",
+    "latitude": "38.854545",
+    "longitude": "-94.782035"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "91910",
+    "state": "CA",
+    "latitude": "32.64526",
+    "longitude": "-117.032531"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "23320",
+    "state": "VA",
+    "latitude": "36.710196",
+    "longitude": "-76.25994"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "92604",
+    "state": "CA",
+    "latitude": "33.6849",
+    "longitude": "-117.786"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "23453",
+    "state": "VA",
+    "latitude": "36.781225",
+    "longitude": "-76.047399"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "32812",
+    "state": "FL",
+    "latitude": "28.482553",
+    "longitude": "-81.330795"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "32244",
+    "state": "FL",
+    "latitude": "30.1933",
+    "longitude": "-81.7931"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "23464",
+    "state": "VA",
+    "latitude": "36.8129",
+    "longitude": "-76.203"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "78227",
+    "state": "TX",
+    "latitude": "29.417462",
+    "longitude": "-98.658721"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "45458",
+    "state": "OH",
+    "latitude": "39.648822",
+    "longitude": "-84.125441"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "38115",
+    "state": "TN",
+    "latitude": "35.069047",
+    "longitude": "-89.865124"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "44122",
+    "state": "OH",
+    "latitude": "41.4672",
+    "longitude": "-81.4978"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "28079",
+    "state": "NC",
+    "latitude": "35.078358",
+    "longitude": "-80.661843"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "73013",
+    "state": "OK",
+    "latitude": "35.6384",
+    "longitude": "-97.5005"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "22310",
+    "state": "VA",
+    "latitude": "38.767403",
+    "longitude": "-77.154437"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "30152",
+    "state": "GA",
+    "latitude": "34.03",
+    "longitude": "-84.6538"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "95630",
+    "state": "CA",
+    "latitude": "38.672386",
+    "longitude": "-121.164047"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "33321",
+    "state": "FL",
+    "latitude": "26.2262",
+    "longitude": "-80.2697"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "49508",
+    "state": "MI",
+    "latitude": "42.868593",
+    "longitude": "-85.56832"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "73071",
+    "state": "OK",
+    "latitude": "35.217923",
+    "longitude": "-97.412026"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "08055",
+    "state": "NJ",
+    "latitude": "39.857185",
+    "longitude": "-74.824652"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "92509",
+    "state": "CA",
+    "latitude": "33.975474",
+    "longitude": "-117.461691"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "92553",
+    "state": "CA",
+    "latitude": "33.907",
+    "longitude": "-117.226"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "48076",
+    "state": "MI",
+    "latitude": "42.494787",
+    "longitude": "-83.241558"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "92660",
+    "state": "CA",
+    "latitude": "33.6445",
+    "longitude": "-117.88"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "30044",
+    "state": "GA",
+    "latitude": "33.9532",
+    "longitude": "-84.0549"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "23464",
+    "state": "VA",
+    "latitude": "36.7926",
+    "longitude": "-76.1782"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "28590",
+    "state": "NC",
+    "latitude": "35.5479",
+    "longitude": "-77.405"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "77429",
+    "state": "TX",
+    "latitude": "29.99554",
+    "longitude": "-95.738566"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "93535",
+    "state": "CA",
+    "latitude": "34.677898",
+    "longitude": "-118.112457"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "77429",
+    "state": "TX",
+    "latitude": "29.94697",
+    "longitude": "-95.632245"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "23111",
+    "state": "VA",
+    "latitude": "37.613174",
+    "longitude": "-77.342461"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "12065",
+    "state": "NY",
+    "latitude": "42.86888",
+    "longitude": "-73.804398"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "85741",
+    "state": "AZ",
+    "latitude": "32.3359",
+    "longitude": "-111.047"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "67206",
+    "state": "KS",
+    "latitude": "37.722568",
+    "longitude": "-97.250185"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "95661",
+    "state": "CA",
+    "latitude": "38.74",
+    "longitude": "-121.226"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "35758",
+    "state": "AL",
+    "latitude": "34.680599",
+    "longitude": "-86.752968"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "66219",
+    "state": "KS",
+    "latitude": "38.97294",
+    "longitude": "-94.760624"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "89123",
+    "state": "NV",
+    "latitude": "36.035414",
+    "longitude": "-115.118338"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "77571",
+    "state": "TX",
+    "latitude": "29.663619",
+    "longitude": "-95.108154"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "46113",
+    "state": "IN",
+    "latitude": "39.637552",
+    "longitude": "-86.330594"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "32084",
+    "state": "FL",
+    "latitude": "29.870466",
+    "longitude": "-81.321815"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "60564",
+    "state": "IL",
+    "latitude": "41.71",
+    "longitude": "-88.1869"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "77339",
+    "state": "TX",
+    "latitude": "30.0572",
+    "longitude": "-95.1991"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "10962",
+    "state": "NY",
+    "latitude": "41.03751",
+    "longitude": "-73.98792"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "78245",
+    "state": "TX",
+    "latitude": "29.438539",
+    "longitude": "-98.67337"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "86001",
+    "state": "AZ",
+    "latitude": "35.2121",
+    "longitude": "-111.641"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "78250",
+    "state": "TX",
+    "latitude": "29.519409",
+    "longitude": "-98.666796"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "76013",
+    "state": "TX",
+    "latitude": "32.707157",
+    "longitude": "-97.130353"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "77084",
+    "state": "TX",
+    "latitude": "29.83665",
+    "longitude": "-95.640786"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "32224",
+    "state": "FL",
+    "latitude": "30.288432",
+    "longitude": "-81.450695"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "12205",
+    "state": "NY",
+    "latitude": "42.7331",
+    "longitude": "-73.8456"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "98031",
+    "state": "WA",
+    "latitude": "47.386467",
+    "longitude": "-122.165413"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "63010",
+    "state": "MO",
+    "latitude": "38.4358",
+    "longitude": "-90.3809"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "98354",
+    "state": "WA",
+    "latitude": "47.250951",
+    "longitude": "-122.295856"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "22554",
+    "state": "VA",
+    "latitude": "38.476265",
+    "longitude": "-77.429481"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "77065",
+    "state": "TX",
+    "latitude": "29.9065",
+    "longitude": "-95.5845"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "30236",
+    "state": "GA",
+    "latitude": "33.486258",
+    "longitude": "-84.342148"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "80015",
+    "state": "CO",
+    "latitude": "39.625059",
+    "longitude": "-104.787571"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "30078",
+    "state": "GA",
+    "latitude": "33.862831",
+    "longitude": "-84.017838"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "66061",
+    "state": "KS",
+    "latitude": "38.911314",
+    "longitude": "-94.797504"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "66212",
+    "state": "KS",
+    "latitude": "38.9547",
+    "longitude": "-94.685204"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "91752",
+    "state": "CA",
+    "latitude": "33.9792",
+    "longitude": "-117.558"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "75088",
+    "state": "TX",
+    "latitude": "32.891599",
+    "longitude": "-96.5234"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "44223",
+    "state": "OH",
+    "latitude": "41.1469",
+    "longitude": "-81.5045"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "48820",
+    "state": "MI",
+    "latitude": "42.8263",
+    "longitude": "-84.5413"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "78249",
+    "state": "TX",
+    "latitude": "29.553935",
+    "longitude": "-98.611262"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "27613",
+    "state": "NC",
+    "latitude": "35.901003",
+    "longitude": "-78.726468"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "20720",
+    "state": "MD",
+    "latitude": "38.958551",
+    "longitude": "-76.797561"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "94583",
+    "state": "CA",
+    "latitude": "37.762188",
+    "longitude": "-121.950829"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "21703",
+    "state": "MD",
+    "latitude": "39.408835",
+    "longitude": "-77.441498"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "13214",
+    "state": "NY",
+    "latitude": "43.0428",
+    "longitude": "-76.098"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "60194",
+    "state": "IL",
+    "latitude": "42.0474",
+    "longitude": "-88.1226"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "91350",
+    "state": "CA",
+    "latitude": "34.4278",
+    "longitude": "-118.538"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "23320",
+    "state": "VA",
+    "latitude": "36.7701",
+    "longitude": "-76.2192"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "48315",
+    "state": "MI",
+    "latitude": "42.6431",
+    "longitude": "-82.9739"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "33442",
+    "state": "FL",
+    "latitude": "26.321173",
+    "longitude": "-80.165415"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "48170",
+    "state": "MI",
+    "latitude": "42.387851",
+    "longitude": "-83.50903"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "20190",
+    "state": "VA",
+    "latitude": "38.952462",
+    "longitude": "-77.345495"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "48382",
+    "state": "MI",
+    "latitude": "42.5986",
+    "longitude": "-83.4913"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "19335",
+    "state": "PA",
+    "latitude": "40.0306",
+    "longitude": "-75.68"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "21045",
+    "state": "MD",
+    "latitude": "39.1826",
+    "longitude": "-76.8258"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "38018",
+    "state": "TN",
+    "latitude": "35.121124",
+    "longitude": "-89.798721"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "95356",
+    "state": "CA",
+    "latitude": "37.6953",
+    "longitude": "-121.055"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "78240",
+    "state": "TX",
+    "latitude": "29.516458",
+    "longitude": "-98.596156"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "55311",
+    "state": "MN",
+    "latitude": "45.0702",
+    "longitude": "-93.4502"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "46545",
+    "state": "IN",
+    "latitude": "41.691299",
+    "longitude": "-86.180801"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "89031",
+    "state": "NV",
+    "latitude": "36.239899",
+    "longitude": "-115.180099"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "76132",
+    "state": "TX",
+    "latitude": "32.690596",
+    "longitude": "-97.419105"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "32725",
+    "state": "FL",
+    "latitude": "28.882385",
+    "longitude": "-81.280166"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "20110",
+    "state": "VA",
+    "latitude": "38.7494",
+    "longitude": "-77.4515"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "44223",
+    "state": "OH",
+    "latitude": "41.1364",
+    "longitude": "-81.4841"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "92705",
+    "state": "CA",
+    "latitude": "33.7614",
+    "longitude": "-117.821"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "36695",
+    "state": "AL",
+    "latitude": "30.670311",
+    "longitude": "-88.190556"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "48170",
+    "state": "MI",
+    "latitude": "42.391855",
+    "longitude": "-83.494118"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "76112",
+    "state": "TX",
+    "latitude": "32.758481",
+    "longitude": "-97.191773"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "55427",
+    "state": "MN",
+    "latitude": "45.022028",
+    "longitude": "-93.398865"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "85020",
+    "state": "AZ",
+    "latitude": "33.5382",
+    "longitude": "-112.056"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "45069",
+    "state": "OH",
+    "latitude": "39.370212",
+    "longitude": "-84.383787"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "45011",
+    "state": "OH",
+    "latitude": "39.378514",
+    "longitude": "-84.523683"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "45242",
+    "state": "OH",
+    "latitude": "39.25713",
+    "longitude": "-84.378713"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "13088",
+    "state": "NY",
+    "latitude": "43.1218",
+    "longitude": "-76.1604"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "10016",
+    "state": "NY",
+    "latitude": "40.7478",
+    "longitude": "-73.9752"
+  },
+  {
+    "data": {
+      "scores": 67
+    },
+    "zip_code": "27104",
+    "state": "NC",
+    "latitude": "36.0791",
+    "longitude": "-80.335613"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "14623",
+    "state": "NY",
+    "latitude": "43.0685",
+    "longitude": "-77.6053"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "29169",
+    "state": "SC",
+    "latitude": "33.937874",
+    "longitude": "-81.149376"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "27615",
+    "state": "NC",
+    "latitude": "35.9085",
+    "longitude": "-78.6523"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "94566",
+    "state": "CA",
+    "latitude": "37.676758",
+    "longitude": "-121.894402"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "77095",
+    "state": "TX",
+    "latitude": "29.892454",
+    "longitude": "-95.643828"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "15236",
+    "state": "PA",
+    "latitude": "40.343674",
+    "longitude": "-80.015224"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "46237",
+    "state": "IN",
+    "latitude": "39.667441",
+    "longitude": "-86.096261"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "35124",
+    "state": "AL",
+    "latitude": "33.356442",
+    "longitude": "-86.807149"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "43017",
+    "state": "OH",
+    "latitude": "40.112356",
+    "longitude": "-83.091335"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "77077",
+    "state": "TX",
+    "latitude": "29.747233",
+    "longitude": "-95.58732"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "90831",
+    "state": "CA",
+    "latitude": "33.7674",
+    "longitude": "-118.199"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "44305",
+    "state": "OH",
+    "latitude": "41.0842",
+    "longitude": "-81.4402"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "23113",
+    "state": "VA",
+    "latitude": "37.5076",
+    "longitude": "-77.6174"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "92083",
+    "state": "CA",
+    "latitude": "33.16507",
+    "longitude": "-117.218132"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "07065",
+    "state": "NJ",
+    "latitude": "40.6081",
+    "longitude": "-74.2781"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "33063",
+    "state": "FL",
+    "latitude": "26.266188",
+    "longitude": "-80.232796"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "87004",
+    "state": "NM",
+    "latitude": "35.297738",
+    "longitude": "-106.546143"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "77380",
+    "state": "TX",
+    "latitude": "30.1267",
+    "longitude": "-95.4481"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "23666",
+    "state": "VA",
+    "latitude": "37.064",
+    "longitude": "-76.3988"
+  },
+  {
+    "data": {
+      "scores": 77
+    },
+    "zip_code": "32218",
+    "state": "FL",
+    "latitude": "30.485701",
+    "longitude": "-81.606197"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "92122",
+    "state": "CA",
+    "latitude": "32.8738",
+    "longitude": "-117.209"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "28262",
+    "state": "NC",
+    "latitude": "35.323924",
+    "longitude": "-80.772693"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "49525",
+    "state": "MI",
+    "latitude": "42.9933",
+    "longitude": "-85.5884"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "49546",
+    "state": "MI",
+    "latitude": "42.9132",
+    "longitude": "-85.5022"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "85022",
+    "state": "AZ",
+    "latitude": "33.640189",
+    "longitude": "-112.070613"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "85306",
+    "state": "AZ",
+    "latitude": "33.61074",
+    "longitude": "-112.185956"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "30080",
+    "state": "GA",
+    "latitude": "33.865228",
+    "longitude": "-84.522634"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "87114",
+    "state": "NM",
+    "latitude": "35.191597",
+    "longitude": "-106.666135"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "11209",
+    "state": "NY",
+    "latitude": "40.6292",
+    "longitude": "-74.0287"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "85234",
+    "state": "AZ",
+    "latitude": "33.36493",
+    "longitude": "-111.707283"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "60502",
+    "state": "IL",
+    "latitude": "41.7572",
+    "longitude": "-88.2465"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "28037",
+    "state": "NC",
+    "latitude": "35.442566",
+    "longitude": "-80.998199"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "85233",
+    "state": "AZ",
+    "latitude": "33.335461",
+    "longitude": "-111.804224"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "98052",
+    "state": "WA",
+    "latitude": "47.648167",
+    "longitude": "-122.131641"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "45440",
+    "state": "OH",
+    "latitude": "39.695804",
+    "longitude": "-84.086912"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "85226",
+    "state": "AZ",
+    "latitude": "33.318416",
+    "longitude": "-111.911099"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "11756",
+    "state": "NY",
+    "latitude": "40.7248",
+    "longitude": "-73.523"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "27529",
+    "state": "NC",
+    "latitude": "35.694717",
+    "longitude": "-78.616646"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "55110",
+    "state": "MN",
+    "latitude": "45.079675",
+    "longitude": "-93.049434"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "30005",
+    "state": "GA",
+    "latitude": "34.0637",
+    "longitude": "-84.2103"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "85374",
+    "state": "AZ",
+    "latitude": "33.638768",
+    "longitude": "-112.392764"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "78209",
+    "state": "TX",
+    "latitude": "29.50706",
+    "longitude": "-98.471738"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "78109",
+    "state": "TX",
+    "latitude": "29.525691",
+    "longitude": "-98.323016"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "77339",
+    "state": "TX",
+    "latitude": "30.0556",
+    "longitude": "-95.1876"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "76034",
+    "state": "TX",
+    "latitude": "32.8821",
+    "longitude": "-97.1251"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "48188",
+    "state": "MI",
+    "latitude": "42.306251",
+    "longitude": "-83.530479"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "07921",
+    "state": "NJ",
+    "latitude": "40.658056",
+    "longitude": "-74.641132"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "55449",
+    "state": "MN",
+    "latitude": "45.168112",
+    "longitude": "-93.232064"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "48390",
+    "state": "MI",
+    "latitude": "42.5434",
+    "longitude": "-83.4755"
+  },
+  {
+    "data": {
+      "scores": 83
+    },
+    "zip_code": "49024",
+    "state": "MI",
+    "latitude": "42.2238",
+    "longitude": "-85.601"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "74012",
+    "state": "OK",
+    "latitude": "36.059157",
+    "longitude": "-95.770635"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "67205",
+    "state": "KS",
+    "latitude": "37.7233",
+    "longitude": "-97.4242"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "95747",
+    "state": "CA",
+    "latitude": "38.7724",
+    "longitude": "-121.315"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "35603",
+    "state": "AL",
+    "latitude": "34.579759",
+    "longitude": "-87.022684"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "55304",
+    "state": "MN",
+    "latitude": "45.2194",
+    "longitude": "-93.351"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "44136",
+    "state": "OH",
+    "latitude": "41.2785",
+    "longitude": "-81.7851"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "90012",
+    "state": "CA",
+    "latitude": "34.055097",
+    "longitude": "-118.237173"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "60014",
+    "state": "IL",
+    "latitude": "42.248024",
+    "longitude": "-88.286697"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "46601",
+    "state": "IN",
+    "latitude": "41.682006",
+    "longitude": "-86.248904"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "60181",
+    "state": "IL",
+    "latitude": "41.8899",
+    "longitude": "-87.9751"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "94534",
+    "state": "CA",
+    "latitude": "38.2719",
+    "longitude": "-122.08"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "32224",
+    "state": "FL",
+    "latitude": "30.253137",
+    "longitude": "-81.464548"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "48336",
+    "state": "MI",
+    "latitude": "42.4732",
+    "longitude": "-83.3573"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "91737",
+    "state": "CA",
+    "latitude": "34.1368",
+    "longitude": "-117.578"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "92688",
+    "state": "CA",
+    "latitude": "33.640481",
+    "longitude": "-117.597757"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "85042",
+    "state": "AZ",
+    "latitude": "33.3781",
+    "longitude": "-112.012222"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "85382",
+    "state": "AZ",
+    "latitude": "33.681559",
+    "longitude": "-112.238885"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "60143",
+    "state": "IL",
+    "latitude": "41.9895",
+    "longitude": "-88.0031"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "60139",
+    "state": "IL",
+    "latitude": "41.9311",
+    "longitude": "-88.0636"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "11725",
+    "state": "NY",
+    "latitude": "40.84676",
+    "longitude": "-73.263676"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "92602",
+    "state": "CA",
+    "latitude": "33.7249",
+    "longitude": "-117.773"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "85308",
+    "state": "AZ",
+    "latitude": "33.638938",
+    "longitude": "-112.178907"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "91384",
+    "state": "CA",
+    "latitude": "34.4491",
+    "longitude": "-118.613"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "06516",
+    "state": "CT",
+    "latitude": "41.2724",
+    "longitude": "-72.9856"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "85018",
+    "state": "AZ",
+    "latitude": "33.494656",
+    "longitude": "-111.979974"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "13850",
+    "state": "NY",
+    "latitude": "42.0899",
+    "longitude": "-76.0398"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "67209",
+    "state": "KS",
+    "latitude": "37.6792",
+    "longitude": "-97.4658"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "28117",
+    "state": "NC",
+    "latitude": "35.5606",
+    "longitude": "-80.8827"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "85203",
+    "state": "AZ",
+    "latitude": "33.450594",
+    "longitude": "-111.787671"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "85203",
+    "state": "AZ",
+    "latitude": "33.435499",
+    "longitude": "-111.814"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "06851",
+    "state": "CT",
+    "latitude": "41.1506",
+    "longitude": "-73.4252"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "28227",
+    "state": "NC",
+    "latitude": "35.173152",
+    "longitude": "-80.660036"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "92660",
+    "state": "CA",
+    "latitude": "33.6604",
+    "longitude": "-117.871"
+  },
+  {
+    "data": {
+      "scores": 86
+    },
+    "zip_code": "75077",
+    "state": "TX",
+    "latitude": "33.0738",
+    "longitude": "-97.073906"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "85086",
+    "state": "AZ",
+    "latitude": "33.868594",
+    "longitude": "-112.139522"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "90630",
+    "state": "CA",
+    "latitude": "33.808",
+    "longitude": "-118.031"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "85338",
+    "state": "AZ",
+    "latitude": "33.456",
+    "longitude": "-112.341099"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "85302",
+    "state": "AZ",
+    "latitude": "33.57885",
+    "longitude": "-112.202856"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "91784",
+    "state": "CA",
+    "latitude": "34.1216",
+    "longitude": "-117.639"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "28027",
+    "state": "NC",
+    "latitude": "35.409357",
+    "longitude": "-80.717031"
+  },
+  {
+    "data": {
+      "scores": 75
+    },
+    "zip_code": "76120",
+    "state": "TX",
+    "latitude": "32.758194",
+    "longitude": "-97.162738"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "60047",
+    "state": "IL",
+    "latitude": "42.183654",
+    "longitude": "-88.094043"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "91789",
+    "state": "CA",
+    "latitude": "34.0279",
+    "longitude": "-117.835"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "32244",
+    "state": "FL",
+    "latitude": "30.194",
+    "longitude": "-81.817888"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "75137",
+    "state": "TX",
+    "latitude": "32.632599",
+    "longitude": "-96.9196"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "60108",
+    "state": "IL",
+    "latitude": "41.9603",
+    "longitude": "-88.0912"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "19446",
+    "state": "PA",
+    "latitude": "40.265526",
+    "longitude": "-75.316814"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "32092",
+    "state": "FL",
+    "latitude": "30.055817",
+    "longitude": "-81.54094"
+  },
+  {
+    "data": {
+      "scores": 60
+    },
+    "zip_code": "12061",
+    "state": "NY",
+    "latitude": "",
+    "longitude": ""
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "93065",
+    "state": "CA",
+    "latitude": "34.251387",
+    "longitude": "-118.822121"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "11779",
+    "state": "NY",
+    "latitude": "40.809164",
+    "longitude": "-73.104566"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "27703",
+    "state": "NC",
+    "latitude": "35.979528",
+    "longitude": "-78.812885"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "55016",
+    "state": "MN",
+    "latitude": "44.8345",
+    "longitude": "-92.9599"
+  },
+  {
+    "data": {
+      "scores": 70
+    },
+    "zip_code": "85255",
+    "state": "AZ",
+    "latitude": "33.675102",
+    "longitude": "-111.925426"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "85044",
+    "state": "AZ",
+    "latitude": "33.307369",
+    "longitude": "-111.980412"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "85224",
+    "state": "AZ",
+    "latitude": "33.307899",
+    "longitude": "-111.872"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "85286",
+    "state": "AZ",
+    "latitude": "33.277789",
+    "longitude": "-111.858808"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "19808",
+    "state": "DE",
+    "latitude": "39.744",
+    "longitude": "-75.6961"
+  },
+  {
+    "data": {
+      "scores": 69
+    },
+    "zip_code": "19803",
+    "state": "DE",
+    "latitude": "39.8317",
+    "longitude": "-75.5334"
+  },
+  {
+    "data": {
+      "scores": 85
+    },
+    "zip_code": "73162",
+    "state": "OK",
+    "latitude": "35.5861",
+    "longitude": "-97.6385"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "55124",
+    "state": "MN",
+    "latitude": "44.7411",
+    "longitude": "-93.2202"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "92563",
+    "state": "CA",
+    "latitude": "33.5449",
+    "longitude": "-117.154"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "91730",
+    "state": "CA",
+    "latitude": "34.1178",
+    "longitude": "-117.557"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "92706",
+    "state": "CA",
+    "latitude": "33.773179",
+    "longitude": "-117.884699"
+  },
+  {
+    "data": {
+      "scores": 71
+    },
+    "zip_code": "48312",
+    "state": "MI",
+    "latitude": "42.5367",
+    "longitude": "-83.0257"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "48312",
+    "state": "MI",
+    "latitude": "42.5388",
+    "longitude": "-82.9696"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "85006",
+    "state": "AZ",
+    "latitude": "33.464675",
+    "longitude": "-112.064304"
+  },
+  {
+    "data": {
+      "scores": 89
+    },
+    "zip_code": "91710",
+    "state": "CA",
+    "latitude": "34.0188",
+    "longitude": "-117.725"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "92806",
+    "state": "CA",
+    "latitude": "33.8245",
+    "longitude": "-117.889"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "55105",
+    "state": "MN",
+    "latitude": "44.940102",
+    "longitude": "-93.175339"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "45322",
+    "state": "OH",
+    "latitude": "39.862301",
+    "longitude": "-84.288101"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "85032",
+    "state": "AZ",
+    "latitude": "33.640765",
+    "longitude": "-111.994153"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "60487",
+    "state": "IL",
+    "latitude": "41.5583",
+    "longitude": "-87.8124"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "98516",
+    "state": "WA",
+    "latitude": "47.0595",
+    "longitude": "-122.765"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "55316",
+    "state": "MN",
+    "latitude": "45.154203",
+    "longitude": "-93.359829"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "48188",
+    "state": "MI",
+    "latitude": "42.2849",
+    "longitude": "-83.4861"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "48103",
+    "state": "MI",
+    "latitude": "42.252",
+    "longitude": "-83.7769"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "85331",
+    "state": "AZ",
+    "latitude": "33.77016",
+    "longitude": "-111.980109"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "92346",
+    "state": "CA",
+    "latitude": "34.1242",
+    "longitude": "-117.195"
+  },
+  {
+    "data": {
+      "scores": 84
+    },
+    "zip_code": "92881",
+    "state": "CA",
+    "latitude": "33.863038",
+    "longitude": "-117.541808"
+  },
+  {
+    "data": {
+      "scores": 72
+    },
+    "zip_code": "08080",
+    "state": "NJ",
+    "latitude": "39.78162",
+    "longitude": "-75.099671"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "76140",
+    "state": "TX",
+    "latitude": "32.768169",
+    "longitude": "-97.104234"
+  },
+  {
+    "data": {
+      "scores": 81
+    },
+    "zip_code": "60202",
+    "state": "IL",
+    "latitude": "42.023945",
+    "longitude": "-87.685098"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "60118",
+    "state": "IL",
+    "latitude": "42.0953",
+    "longitude": "-88.2624"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "48187",
+    "state": "MI",
+    "latitude": "42.312918",
+    "longitude": "-83.487439"
+  },
+  {
+    "data": {
+      "scores": 65
+    },
+    "zip_code": "77339",
+    "state": "TX",
+    "latitude": "30.059558",
+    "longitude": "-95.247157"
+  },
+  {
+    "data": {
+      "scores": 79
+    },
+    "zip_code": "44224",
+    "state": "OH",
+    "latitude": "41.1664",
+    "longitude": "-81.4025"
+  },
+  {
+    "data": {
+      "scores": 88
+    },
+    "zip_code": "48382",
+    "state": "MI",
+    "latitude": "42.5921",
+    "longitude": "-83.4405"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "90505",
+    "state": "CA",
+    "latitude": "33.8234",
+    "longitude": "-118.336"
+  },
+  {
+    "data": {
+      "scores": 68
+    },
+    "zip_code": "91381",
+    "state": "CA",
+    "latitude": "34.3876",
+    "longitude": "-118.582"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "60516",
+    "state": "IL",
+    "latitude": "41.7513",
+    "longitude": "-87.9944"
+  },
+  {
+    "data": {
+      "scores": 87
+    },
+    "zip_code": "92821",
+    "state": "CA",
+    "latitude": "33.9178",
+    "longitude": "-117.89"
+  },
+  {
+    "data": {
+      "scores": 61
+    },
+    "zip_code": "48864",
+    "state": "MI",
+    "latitude": "42.6929",
+    "longitude": "-84.436"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "27615",
+    "state": "NC",
+    "latitude": "35.883263",
+    "longitude": "-78.646278"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "12180",
+    "state": "NY",
+    "latitude": "42.679",
+    "longitude": "-73.6996"
+  },
+  {
+    "data": {
+      "scores": 63
+    },
+    "zip_code": "08817",
+    "state": "NJ",
+    "latitude": "40.5404",
+    "longitude": "-74.3977"
+  },
+  {
+    "data": {
+      "scores": 78
+    },
+    "zip_code": "06460",
+    "state": "CT",
+    "latitude": "41.2058",
+    "longitude": "-73.0917"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "08873",
+    "state": "NJ",
+    "latitude": "40.528926",
+    "longitude": "-74.540395"
+  },
+  {
+    "data": {
+      "scores": 73
+    },
+    "zip_code": "78729",
+    "state": "TX",
+    "latitude": "30.449871",
+    "longitude": "-97.747545"
+  },
+  {
+    "data": {
+      "scores": 76
+    },
+    "zip_code": "85234",
+    "state": "AZ",
+    "latitude": "33.350175",
+    "longitude": "-111.754712"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "85224",
+    "state": "AZ",
+    "latitude": "33.320621",
+    "longitude": "-111.878678"
+  },
+  {
+    "data": {
+      "scores": 64
+    },
+    "zip_code": "28105",
+    "state": "NC",
+    "latitude": "35.084622",
+    "longitude": "-80.735231"
+  },
+  {
+    "data": {
+      "scores": 74
+    },
+    "zip_code": "33324",
+    "state": "FL",
+    "latitude": "26.1111",
+    "longitude": "-80.2554"
+  },
+  {
+    "data": {
+      "scores": 80
+    },
+    "zip_code": "85205",
+    "state": "AZ",
+    "latitude": "33.4301",
+    "longitude": "-111.72"
+  },
+  {
+    "data": {
+      "scores": 82
+    },
+    "zip_code": "10570",
+    "state": "NY",
+    "latitude": "41.1332",
+    "longitude": "-73.7928"
+  },
+  {
+    "data": {
+      "scores": 66
+    },
+    "zip_code": "55044",
+    "state": "MN",
+    "latitude": "44.6944",
+    "longitude": "-93.2574"
+  },
+  {
+    "data": {
+      "scores": 62
+    },
+    "zip_code": "34203",
+    "state": "FL",
+    "latitude": "27.445741",
+    "longitude": "-82.473436"
+  }
+]
