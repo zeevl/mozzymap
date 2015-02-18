@@ -10,13 +10,14 @@ $(function() {
   var ZIP_ZOOM = 8
 
   var map = null;
+  var tooltip = null;
   var locationData = null;
   var minScore, maxScore;
   var layers = {counties: {}};
 
   $("#map").height($(window).innerHeight() - 100);
 
-  $.getJSON('location_data.json', function(data) {
+  $.getJSON('location_data2.json', function(data) {
     locationData = data;
 
     maxScore = 0;
@@ -42,17 +43,26 @@ $(function() {
       .on('zoomend', zoomChanged)
       .on('moveend', positionChanged);
 
-    map.gridControl.options.follow = true;
 
-    layers.states = omnivore.topojson('topo/states.json', null, L.geoJson(null, {
+    layers.states = omnivore.topojson('countries/us-all.json', null, L.geoJson(null, {
       style: getStyle,
       onEachFeature: onEachFeature
     })).addTo(map);
 
     // info popup
-    var info = L.mapbox.gridControl(layers.states, {follow: true});
-    info.setTemplate('hi');
-    info.addTo(map);
+    // var info = L.mapbox.gridControl(layers.states, {follow: true});
+    // info.setTemplate('hi');
+    // info.addTo(map);
+
+    tooltip = L.tooltip({
+      map: map,
+      html: 'Hey there!',
+      trackMouse: true,
+      showDelay: 0,
+      hideDelay: 0
+    });
+
+
 
     // featureLayer.bindPopup?
     //https://www.mapbox.com/mapbox.js/example/v1.0.0/custom-popup/
@@ -60,9 +70,10 @@ $(function() {
   }
 
   function getStyle(feature) {
-    var score = getStateScore(feature.properties.name);
-    var color = getColorForScore(score);
+    if(_.isUndefined(feature.properties.score))
+      feature.properties.score = getStateScore(feature.properties.abbrev);
 
+    color = getColorForScore(feature.properties.score);
     return {
         weight: 2,
         opacity: 0.1,
@@ -83,8 +94,10 @@ $(function() {
   }
 
   function getCountiesStyle(feature) {
-    var score = getZipcodesScore(feature.properties.zipcodes);
-    var color = getColorForScore(score);
+    if(_.isUndefined(feature.properties.score))
+      feature.properties.score = getZipcodesScore(feature.properties.zipcodes);
+
+    var color = getColorForScore(feature.properties.score);
 
     return {
         weight: 0,
@@ -94,7 +107,6 @@ $(function() {
         fillColor: color
     };
   }
-
 
   function getZipcodesScore(zipcodes) {
     var locations = 0;
@@ -113,10 +125,10 @@ $(function() {
 
 
   function getStateScore(name) {
-    var abbrev = stateAbbrevs[name.toLowerCase()];
+    var lname = name.toLowerCase();
     var locations = 0;
     var total = _.reduce(locationData, function(memo, location) {
-      if(location.state.toLowerCase() == abbrev) {
+      if(location.state.toLowerCase() == lname) {
         locations++;
         memo += location.data.scores;
       }
@@ -295,11 +307,15 @@ $(function() {
       fillOpacity: 0.7
     });
 
+    tooltip.show(e.containerPoint,
+      '<b>' + layer.feature.properties.name + '</b><br />' +
+      '<p>Avg. Score: ' + layer.feature.properties.score.toFixed(2) + '</b>');
+
     // layer.bringToFront causes problems on ie and opera..
     // (http://leafletjs.com/examples/choropleth.html)
-    if (!L.Browser.ie && !L.Browser.opera) {
-      layer.bringToFront();
-    }
+    // if (!L.Browser.ie && !L.Browser.opera) {
+    //   layer.bringToFront();
+    // }
 
     // info.update(layer.feature.properties);
   }
