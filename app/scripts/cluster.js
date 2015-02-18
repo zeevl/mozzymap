@@ -20,19 +20,6 @@ $(function() {
   $.getJSON('location_data2.json', function(data) {
     locationData = data;
 
-    minScore = 1;
-    maxScore = 11;
-
-    for(i = 0; i <= 10; i++) {
-      console.log('.marker-score-' + i + ' {');
-      console.log('  background-color: '  + getColorForScore(i+1) + ';');
-      console.log('}');
-      console.log('.marker-score-' + i + ' div {');
-      console.log('  background-color: '  + getColorForScore(i+1) + ';');
-      console.log('}');
-    }
-
-
     initMap();
   });
 
