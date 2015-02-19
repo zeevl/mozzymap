@@ -32,10 +32,17 @@ $(function() {
   function initMap() {
     L.mapbox.accessToken = 'pk.eyJ1IjoiemVldmwiLCJhIjoicFJzVU8zMCJ9.q6b4Uw5qGAULFaNrCGM7DA';
 
-    map = L.mapbox.map('map', 'zeevl.8706ca86')
-      .setView([37.02, -98.965], 4)
-      // .on('zoomend', zoomChanged)
-      // .on('moveend', positionChanged);
+    var southWest = L.latLng(71.8562, -46.0546);
+    var northEast = L.latLng(-8.581, -204.7851);
+    var bounds = L.latLngBounds(southWest, northEast);
+
+
+    map = L.mapbox.map('map', 'zeevl.8706ca86', {
+      center: [37.02, -98.965],
+      zoom: 4,
+      maxBounds: bounds,
+      minZoom: 2
+    });
 
     markers = new L.MarkerClusterGroup({
       showCoverageOnHover: false,
