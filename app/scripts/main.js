@@ -13,7 +13,7 @@ $(function() {
   var tooltip = null;
   var locationData = null;
   var minScore, maxScore;
-  var layers = {counties: {}};
+  var layers = {counties: {}, zipcodes: {}};
 
   $("#map").height($(window).innerHeight() - 100);
 
@@ -38,10 +38,17 @@ $(function() {
   function initMap() {
     L.mapbox.accessToken = 'pk.eyJ1IjoiemVldmwiLCJhIjoicFJzVU8zMCJ9.q6b4Uw5qGAULFaNrCGM7DA';
 
-    map = L.mapbox.map('map', 'zeevl.kmnm0b2n', {attributionControl: false, infoControl: true})
+    map = L.mapbox.map('map', 'zeevl.kmng95hi', {attributionControl: false, infoControl: true})
       .setView([37.02, -98.965], 4)
       .on('zoomend', zoomChanged)
       .on('moveend', positionChanged);
+
+    // $.getJSON('countries/us-all.json', function(json) {
+    //   L.mapbox.featureLayer(json, {
+    //     style: getStyle,
+    //     onEachFeature: onEachFeature
+    //   }).addTo(map);
+    // });
 
 
     layers.states = omnivore.topojson('countries/us-all.json', null, L.geoJson(null, {
@@ -69,26 +76,34 @@ $(function() {
 
   }
 
+  // i = 70;
   function getStyle(feature) {
     if(_.isUndefined(feature.properties.score))
       feature.properties.score = getStateScore(feature.properties.abbrev);
 
     color = getColorForScore(feature.properties.score);
+    // if(i++ > 90) i = 70;
+    // color = getColorForScore(i);
     return {
-        weight: 2,
-        opacity: 0.1,
-        color: 'white',
+        weight: 1,
+        opacity: 1,
+        color: 'grey',
         fillOpacity: 0.7,
         fillColor: color
     };
   }
 
   function getZipStyle(feature) {
+    if(_.isUndefined(feature.properties.score))
+      feature.properties.score = getZipcodesScore([feature.properties.zip]);
+
+    var color = getColorForScore(feature.properties.score);
+
     return {
         weight: 0,
         opacity: 0.1,
         fillOpacity: 0.7,
-        fillColor: getZipColor(feature.properties.zip)
+        fillColor: color
 
     };
   }
