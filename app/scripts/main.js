@@ -39,9 +39,9 @@ $(function() {
     L.mapbox.accessToken = 'pk.eyJ1IjoiemVldmwiLCJhIjoicFJzVU8zMCJ9.q6b4Uw5qGAULFaNrCGM7DA';
 
     map = L.mapbox.map('map', 'zeevl.kmng95hi', {attributionControl: false, infoControl: true})
-      .setView([37.02, -98.965], 4)
-      .on('zoomend', zoomChanged)
-      .on('moveend', positionChanged);
+      .setView([37.02, -98.965], 4);
+      // .on('zoomend', zoomChanged)
+      // .on('moveend', positionChanged);
 
     // $.getJSON('countries/us-all.json', function(json) {
     //   L.mapbox.featureLayer(json, {
@@ -51,7 +51,8 @@ $(function() {
     // });
 
 
-    layers.states = omnivore.topojson('countries/us-all.json', null, L.geoJson(null, {
+    // layers.states = omnivore.topojson('countries/us-all.json', null, L.geoJson(null, {
+    layers.states = omnivore.topojson('counties/counties-all-zipcodes.json', null, L.geoJson(null, {
       style: getStyle,
       onEachFeature: onEachFeature
     })).addTo(map);
@@ -76,16 +77,14 @@ $(function() {
 
   }
 
-  // i = 70;
   function getStyle(feature) {
     if(_.isUndefined(feature.properties.score))
-      feature.properties.score = getStateScore(feature.properties.abbrev);
+      feature.properties.score = getZipcodesScore(feature.properties.zipcodes);
 
     color = getColorForScore(feature.properties.score);
-    // if(i++ > 90) i = 70;
-    // color = getColorForScore(i);
+
     return {
-        weight: 1,
+        weight: (feature.properties.score ? 0 : 0),
         opacity: 1,
         color: 'grey',
         fillOpacity: 0.7,
@@ -109,6 +108,8 @@ $(function() {
   }
 
   function getCountiesStyle(feature) {
+    console.log(feature)
+
     if(_.isUndefined(feature.properties.score))
       feature.properties.score = getZipcodesScore(feature.properties.zipcodes);
 
@@ -316,7 +317,7 @@ $(function() {
   function highlightFeature(e) {
     var layer = e.target;
     layer.setStyle({
-      weight: 3,
+      weight: 1,
       color: '#000',
       dashArray: '',
       fillOpacity: 0.7
@@ -336,22 +337,7 @@ $(function() {
   }
 
   function resetHighlight(e) {
-    zoom = map.getZoom();
-
-    if(zoom >= ZIP_ZOOM) {
-      _.each(layers.zipcodes, function(layer) {
-        layer.resetStyle(e.target);
-      });
-    }
-    else if(zoom >= COUNTY_ZOOM) {
-      _.each(layers.counties, function(layer) {
-        layer.resetStyle(e.target);
-      });
-    }
-    else
-      layers.states.resetStyle(e.target);
-
-    // info.update();
+    layers.states.resetStyle(e.target);
   }
 
   function zoomToFeature(e) {
